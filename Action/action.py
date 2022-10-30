@@ -4,6 +4,15 @@ import os
 import re
 import requests
 from requests.packages import urllib3
+from datetime import datetime
+
+"""
+1. Run this script to create the file action.geojson
+2. Open action.geojson with JOSM
+3. Save the layer as action.osm
+4. Run MapRoulette command: mr coop change --out challenge.geojson action.osm
+5. Create a MapRoulette challenge with the file challenge.geojson
+"""
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -109,17 +118,31 @@ for i in shops:
     jsonData = readJsonFile(filename)
     info = jsonData.get('data')
 
-    housenumber = readProp(info, 'houseNumber')
-    addition = readProp(info, 'houseNumberAddition')
     start = readProp(info, 'initialOpeningDate')
-    if len(start) > 0 and start.find('T') != -1:
+
+    # skip shops that don't have start_date
+    if len(start) <= 0: continue
+
+    if start.find('T') != -1:
         index = start.index('T')
         start = start[:index]
+    
+    date = datetime.strptime(start, '%Y-%m-%d')
+    today = datetime.now()
+
+    # skip shops that are not openned yet
+    if date >= today: continue
+
+    housenumber = readProp(info, 'houseNumber')
+    addition = readProp(info, 'houseNumberAddition')
     oh = parseOpeningHours(info)
 
     properties = {
         'shop': 'variety_store',
         'name': 'Action',
+        'brand': 'Action',
+        'brand:wikidata': 'Q2634111',
+        'brand:wikipedia': 'nl:Action (winkel)',
         'alt_name': info.get('store'),
         'addr:street': info.get('street'),
         'addr:housenumber': "{0}{1}".format(housenumber, addition),
@@ -128,7 +151,7 @@ for i in shops:
         'addr:country': info.get('countryCode'),
         'start_date': start,
         'website': baseUrl + info.get('url'),
-        'ref:FR:action:id': info.get('id'),
+        'ref:action:id': info.get('id'),
         'opening_hours' : oh
     }
     shop = {
