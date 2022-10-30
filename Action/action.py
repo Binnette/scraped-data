@@ -6,14 +6,6 @@ import requests
 from requests.packages import urllib3
 from datetime import datetime
 
-"""
-1. Run this script to create the file action.geojson
-2. Open action.geojson with JOSM
-3. Save the layer as action.osm
-4. Run MapRoulette command: mr coop change --out challenge.geojson action.osm
-5. Create a MapRoulette challenge with the file challenge.geojson
-"""
-
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 folder = 'wk/'

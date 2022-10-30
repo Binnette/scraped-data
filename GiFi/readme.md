@@ -1,6 +1,33 @@
-== GiFi shops ==
+# GiFi shops
 
 Data scraped from official website.
+
+## Collect data
+
+1. Open this url: https://magasins.gifi.fr/fr/l/
+2. Open DevTools
+3. Look for the xhr query
+4. In the reponse of this query copy the json object "hits"
+5. Paste this to a json text file
+6. Press button 'next page' at the end of the page
+7. Redo this process from step 3 until there is no more page
+8. Merge all 'hits' into a gifi.json file
+
+## Process data
+
+Run the python script 'gifi.py'. It will create the file 'gifi.geojson'.
+
+## Create a MapRoulette challende ===
+
+1. Open gifi.geojson with JOSM
+2. Save the layer as gifi.osm
+3. Run the following mr-cli command:
+
+    `mr coop change --out challenge.geojson gifi.osm`
+4. Upload the file challenge.geojson in a new MapRoulette project
+5. End!
+
+# Deprecated
 
 I downloaded all data and store them in a unique json file. Then I used the following jq filters to "convert" it to a geojson.
 This geojson can be imported into Maproulette to create a "data import/merge" challenge.
