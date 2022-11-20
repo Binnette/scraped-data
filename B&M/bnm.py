@@ -183,6 +183,7 @@ res = 'bnm.geojson'
 if os.path.exists(res):
     os.remove(res)
 
+
 geojson = {
   "type": "FeatureCollection",
   "features": features

@@ -103,7 +103,7 @@ for i in shops:
         print('## Download %s (%s/%s)' % (filename, shops.index(i), len(shops)))
         download(url, filename)
 
-osmShops = []
+features = []
 for i in shops:
     id =  i.get('id')
     filename = folder + id + '.json'
@@ -157,7 +157,7 @@ for i in shops:
             "type": "Point"
         }
     }
-    osmShops.append(shop)
+    features.append(shop)
 
 res = 'action.geojson'
 if os.path.exists(res):
@@ -166,7 +166,7 @@ if os.path.exists(res):
 
 geojson = {
   "type": "FeatureCollection",
-  "features": osmShops
+  "features": features
 }
 
 with open(res, 'w', encoding='utf-8') as f:

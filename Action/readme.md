@@ -1,5 +1,7 @@
 # Action shops
 
+Data scraped from official website.
+
 ## Download the list of shops
 
 1. Open the url: https://www.action.com/api/stores/coordinates/
@@ -16,11 +18,12 @@ If you encounter some 'download errors', just run the same script again.
 It will download only the missings shop details.
 
 
-## Create MapRoulette Challenge
+## Create a MapRoulette challenge
 
 1. Open action.geojson with JOSM
-2. Save the layer as action.osm
-3. Run MapRoulette command (with mr-cli):
+2. Save the layer as a new file: action.osm
+3. Run the following mr-cli command:
 
     `mr coop change --out challenge.geojson action.osm`
-4. Create a MapRoulette challenge with the file challenge.geojson
+4. Upload the file challenge.geojson in a new MapRoulette project
+5. End!

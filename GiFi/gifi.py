@@ -178,8 +178,8 @@ if os.path.exists(res):
 
 
 geojson = {
-  "type": "FeatureCollection",
-  "features": features
+	"type": "FeatureCollection",
+	"features": features
 }
 
 with open(res, 'w', encoding='utf-8') as f:

@@ -17,10 +17,10 @@ Data scraped from official website.
 
 Run the python script 'gifi.py'. It will create the file 'gifi.geojson'.
 
-## Create a MapRoulette challende ===
+## Create a MapRoulette challenge
 
 1. Open gifi.geojson with JOSM
-2. Save the layer as gifi.osm
+2. Save the layer as a new file: gifi.osm
 3. Run the following mr-cli command:
 
     `mr coop change --out challenge.geojson gifi.osm`
