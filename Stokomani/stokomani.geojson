@@ -89,7 +89,7 @@
         "addr:postcode": "91100",
         "addr:city": "Corbeil Essonnes",
         "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Du 8 Mai 91100 Corbeil Essonnes FRANCE",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-20:00",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/corbeil-essonnes.html"
       },
@@ -709,11 +709,11 @@
         "brand:wikipedia": "fr:Stokomani",
         "name": "Stokomani",
         "alt_name": "Stokomani Niort",
-        "addr:housenumber": "",
-        "addr:street": "avenue De Limoges",
-        "addr:postcode": "79000",
-        "addr:city": "Niort",
-        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Terre de Sport avenue De Limoges 79000 Niort FRANCE",
+        "addr:housenumber": "79",
+        "addr:street": "000 Niort",
+        "addr:postcode": "",
+        "addr:city": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Terre de Sport avenue De Limoges 79 000 Niort FRANCE",
         "opening_hours": "Mo-Sa 09:00-19:00",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/niort.html"
@@ -987,8 +987,8 @@
         "addr:housenumber": "742",
         "addr:street": "Avenue de bordeaux",
         "addr:postcode": "47300",
-        "addr:city": "Biais",
-        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 742 Avenue de bordeaux 47300 Biais FRANCE",
+        "addr:city": "Bias",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 742 Avenue de bordeaux 47300 Bias FRANCE",
         "opening_hours": "Mo-Sa 10:00-19:00",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/villeneuve-sur-lot.html"
@@ -1095,8 +1095,8 @@
       },
       "geometry": {
         "coordinates": [
-          1.72614,
-          50.306303
+          2.7261733,
+          50.3071945
         ],
         "type": "Point"
       }
@@ -1264,7 +1264,7 @@
         "addr:postcode": "59113",
         "addr:city": "Seclin",
         "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Commerciale Unexpo 52 rue De L'Industrie 59113 Seclin FRANCE",
-        "opening_hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-20:00",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/seclin.html"
       },
@@ -1514,7 +1514,7 @@
         "addr:postcode": "78200",
         "addr:city": "Buchelay",
         "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue De La Durance 78200 Buchelay FRANCE",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:30",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/mantes-buchelay.html"
       },
@@ -1584,11 +1584,11 @@
         "brand:wikipedia": "fr:Stokomani",
         "name": "Stokomani",
         "alt_name": "Stokomani Mondeville",
-        "addr:housenumber": "3",
-        "addr:street": "chemin de la Cavée",
+        "addr:housenumber": "8",
+        "addr:street": "rue  Michel Tournier",
         "addr:postcode": "14120",
         "addr:city": "Mondeville",
-        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 3 chemin de la Cavée route De Paris 14120 Mondeville FRANCE",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 8 rue  Michel Tournier 14120 Mondeville FRANCE",
         "opening_hours": "Mo-Sa 09:00-19:00",
         "shop": "variety_store",
         "website": "https://www.stokomani.fr/mondeville.html"
@@ -3372,6 +3372,231 @@
         "coordinates": [
           3.8779,
           45.0315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Bergerac",
+        "addr:housenumber": "",
+        "addr:street": "Route de Bordeaux",
+        "addr:postcode": "24100",
+        "addr:city": "Bergerac",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZA de la cavaille Route de Bordeaux 24100 BERGERAC FRANCE",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/bergerac.html"
+      },
+      "geometry": {
+        "coordinates": [
+          0.4573063539,
+          44.8389339106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Ruaudin",
+        "addr:housenumber": "1",
+        "addr:street": "boulevard des hunaudières",
+        "addr:postcode": "72230",
+        "addr:city": "Ruaudin",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani FAMILY VILLAGE Les Hunaudières 1 boulevard des hunaudières 72230 RUAUDIN FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/ruaudin.html"
+      },
+      "geometry": {
+        "coordinates": [
+          0.236295,
+          47.943652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Pontault Combault ",
+        "addr:housenumber": "",
+        "addr:street": "rue de strasbourg",
+        "addr:postcode": "77340",
+        "addr:city": "Pontault-Combault",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue de strasbourg 77340 PONTAULT-COMBAULT FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/pontault-combault.html"
+      },
+      "geometry": {
+        "coordinates": [
+          2.6255234865,
+          48.7960099469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vendenheim",
+        "addr:housenumber": "2",
+        "addr:street": "Rue de l'Industrie",
+        "addr:postcode": "67550",
+        "addr:city": "Vendenheim",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani O'centre 2 Rue de l'Industrie 67550 VENDENHEIM FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/vendenheim.html"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7260665356,
+          48.6573807011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chateauroux ",
+        "addr:housenumber": "1",
+        "addr:street": "allée du commerce",
+        "addr:postcode": "36250",
+        "addr:city": "Saint-Maur",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial Cap Sud 1 allée du commerce 36250 SAINT-MAUR FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/chateauroux.html"
+      },
+      "geometry": {
+        "coordinates": [
+          1.6454475423,
+          46.7779177638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Mard ",
+        "addr:housenumber": "",
+        "addr:street": "Avenue de la fontaine du Berger 77230 Siant-Mard",
+        "addr:postcode": "77230",
+        "addr:city": "Saint-Mard",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial Les buissonets Avenue de la fontaine du Berger 77230 Siant-Mard 77230 SAINT-MARD FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/saint-mard.html"
+      },
+      "geometry": {
+        "coordinates": [
+          2.6825239219,
+          49.0346660111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Romilly-sur-Seine",
+        "addr:housenumber": "7",
+        "addr:street": "avenue Georges Pompidou",
+        "addr:postcode": "10100",
+        "addr:city": "Romilly-Sur-Seine",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Aeromia 7 avenue Georges Pompidou 10100 ROMILLY-SUR-SEINE FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/romilly-sur-seine.html"
+      },
+      "geometry": {
+        "coordinates": [
+          3.7593230425,
+          48.5038307171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Montceau-les-Mines ",
+        "addr:housenumber": "16",
+        "addr:street": "rue de marigny",
+        "addr:postcode": "71300",
+        "addr:city": "Montceau-Les-Mines",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 16 rue de marigny 71300 MONTCEAU-LES-MINES FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/montceau-les-mines.html"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3747547,
+          46.6778873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Béziers ",
+        "addr:housenumber": "1",
+        "addr:street": "rue Terret",
+        "addr:postcode": "34500",
+        "addr:city": "Beziers",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 rue Terret 34500 BEZIERS FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "website": "https://www.stokomani.fr/beziers.html"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2657134533,
+          43.3393096924
         ],
         "type": "Point"
       }

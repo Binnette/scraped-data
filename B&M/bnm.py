@@ -42,9 +42,23 @@ def startWithStreet(s):
 
 def getAddr(data):
     soup = BeautifulSoup(data)
-    aa = soup.findAll('a')
-    a = aa[1]
-    lines = a.findAll(text=True)
+    # Find div with address
+    addr_div = soup.select_one("div.col-xs-12")
+    # Remove all the <p> tags inside the addr_div
+    for p_tag in addr_div.find_all("p"):
+        p_tag.decompose()
+    # Remove all the <div> tags inside the addr_div
+    for div_tag in addr_div.find_all("div"):
+        div_tag.decompose()
+    # Remove all the <a> tags inside the addr_div
+    for a_tag in addr_div.find_all("a"):
+        a_tag.decompose()
+    # Use findAll(text=True) on the text
+    lines = addr_div.findAll(text=True)
+    # Remove \t from lines
+    for l in range(len(lines)):
+        lines[l] = lines[l].replace('\t', ' ').strip()
+
     if len(lines) == 2:
         return {
             'addr:housenumber': getHousenumber(lines[0]),
@@ -192,4 +206,4 @@ geojson = {
 with open(res, 'w', encoding='utf-8') as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
   
-print('File written: ' + res)
+print(f'Dump {len(features)} shops in the file: {res}')

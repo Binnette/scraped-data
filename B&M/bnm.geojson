@@ -23,7 +23,7 @@
         "addr:place": "D707",
         "addr:postcode": "03400",
         "addr:city": "Yzeure",
-        "note": "Centre Commercial CAP SUD  D707 03400 YZEURE"
+        "note": "Centre Commercial CAP SUD D707 03400 YZEURE"
       }
     },
     {
@@ -42,13 +42,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 14:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:30",
         "addr:housenumber": "",
         "addr:street": "Zac de Châteaugay",
         "addr:place": "",
         "addr:postcode": "03410",
         "addr:city": "Domerat",
-        "note": "Zac de Châteaugay  03410 DOMERAT"
+        "note": "Zac de Châteaugay 03410 DOMERAT"
       }
     },
     {
@@ -67,13 +67,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 14:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 14:00-18:00",
         "addr:housenumber": "106",
         "addr:street": "avenue Gilbert Roux",
         "addr:place": "",
         "addr:postcode": "03300",
         "addr:city": "Cusset",
-        "note": "106 avenue Gilbert Roux  03300 CUSSET"
+        "note": "106 avenue Gilbert Roux 03300 CUSSET"
       }
     },
     {
@@ -92,13 +92,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-13:00,14:00-19:00",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-19:30; Su 10:00-12:00,14:00-18:00",
         "addr:housenumber": "34",
         "addr:street": "boulevard du Pré des Bordes",
         "addr:place": "ZC Les Grands Champs",
         "addr:postcode": "58000",
         "addr:city": "Nevers",
-        "note": "ZC Les Grands Champs  34 boulevard du Pré des Bordes 58000 NEVERS"
+        "note": "ZC Les Grands Champs 34 boulevard du Pré des Bordes 58000 NEVERS"
       }
     },
     {
@@ -117,13 +117,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "63",
         "addr:street": "Avenue de l'Europe",
         "addr:place": "",
         "addr:postcode": "63370",
         "addr:city": "Lempdes",
-        "note": "63, Avenue de l'Europe  63370 LEMPDES"
+        "note": "63, Avenue de l'Europe 63370 LEMPDES"
       }
     },
     {
@@ -142,13 +142,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "69",
         "addr:street": "avenue d'Aubière",
         "addr:place": "",
         "addr:postcode": "63800",
         "addr:city": "Cournon",
-        "note": "69 avenue d'Aubière  63800 COURNON"
+        "note": "69 avenue d'Aubière 63800 COURNON"
       }
     },
     {
@@ -167,13 +167,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:30",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 14:00-18:30",
         "addr:housenumber": "",
         "addr:street": "Chemin des Vignes de Chappe",
         "addr:place": "",
         "addr:postcode": "18000",
         "addr:city": "Bourges",
-        "note": "Chemin des Vignes de Chappe  18000 BOURGES"
+        "note": "Chemin des Vignes de Chappe 18000 BOURGES"
       }
     },
     {
@@ -198,7 +198,7 @@
         "addr:place": "",
         "addr:postcode": "36250",
         "addr:city": "Saint Maur",
-        "note": "Zone Commerciale Cap Sud  36250 SAINT MAUR"
+        "note": "Zone Commerciale Cap Sud 36250 SAINT MAUR"
       }
     },
     {
@@ -223,7 +223,7 @@
         "addr:place": "Carrefour François Mitterrand",
         "addr:postcode": "71000",
         "addr:city": "Macon",
-        "note": "RN 6 Route de Lyon  Carrefour François Mitterrand 71000 MACON"
+        "note": "RN 6 Route de Lyon Carrefour François Mitterrand 71000 MACON"
       }
     },
     {
@@ -242,13 +242,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Californie - Route de Lyon",
         "addr:place": "",
         "addr:postcode": "71100",
         "addr:city": "Saint Remy",
-        "note": "Centre Californie - Route de Lyon  71100 SAINT REMY"
+        "note": "Centre Californie - Route de Lyon 71100 SAINT REMY"
       }
     },
     {
@@ -267,13 +267,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:30",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-12:00,14:00-19:00",
         "addr:housenumber": "8",
         "addr:street": "rue René Coty",
         "addr:place": "ZAC de la Doa",
         "addr:postcode": "42270",
         "addr:city": "Saint Priest En Jarez",
-        "note": "ZAC de la Doa  8 rue René Coty 42270 SAINT PRIEST EN JAREZ"
+        "note": "ZAC de la Doa 8 rue René Coty 42270 SAINT PRIEST EN JAREZ"
       }
     },
     {
@@ -288,17 +288,17 @@
       "properties": {
         "shop": "variety_store",
         "name": "B&M",
-        "alt_name": "B&M LIMOGES - COUZEIX",
+        "alt_name": "B&M LIMOGES",
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-12:30,14:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue de Buxerolles",
         "addr:place": "",
         "addr:postcode": "87270",
         "addr:city": "Couzeix",
-        "note": "Rue de Buxerolles  87270 COUZEIX"
+        "note": "Rue de Buxerolles 87270 COUZEIX"
       }
     },
     {
@@ -317,13 +317,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Allée des Savoies",
         "addr:place": "Boulevard Laurent Bonnevay",
         "addr:postcode": "69200",
         "addr:city": "Venissieux",
-        "note": "Allée des Savoies  Boulevard Laurent Bonnevay 69200 VENISSIEUX"
+        "note": "Allée des Savoies Boulevard Laurent Bonnevay 69200 VENISSIEUX"
       }
     },
     {
@@ -342,13 +342,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 10:00-19:45; Su 10:00-18:45",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 14:00-19:00",
         "addr:housenumber": "2",
         "addr:street": "Rue Jacquard",
         "addr:place": "Pôle commercial et de loisirs Carré de Soie",
         "addr:postcode": "69120",
         "addr:city": "Vaulx-En-Velin",
-        "note": "Pôle commercial et de loisirs Carré de Soie  2 Rue Jacquard 69120 VAULX-EN-VELIN"
+        "note": "Pôle commercial et de loisirs Carré de Soie 2 Rue Jacquard 69120 VAULX-EN-VELIN"
       }
     },
     {
@@ -363,17 +363,17 @@
       "properties": {
         "shop": "variety_store",
         "name": "B&M",
-        "alt_name": "B&M VIRIAT / BOURG-EN-BRESSE",
+        "alt_name": "B&M BOURG-EN-BRESSE",
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:30",
         "addr:housenumber": "",
         "addr:street": "Les Vareys - Rue Gay Lussac",
         "addr:place": "",
         "addr:postcode": "01440",
         "addr:city": "Viriat",
-        "note": "Les Vareys - Rue Gay Lussac  01440 VIRIAT"
+        "note": "Les Vareys - Rue Gay Lussac 01440 VIRIAT"
       }
     },
     {
@@ -398,7 +398,7 @@
         "addr:place": "",
         "addr:postcode": "69720",
         "addr:city": "Saint-Bonnet-De-Mure",
-        "note": "141 RN 6  69720 SAINT-BONNET-DE-MURE"
+        "note": "141 RN 6 69720 SAINT-BONNET-DE-MURE"
       }
     },
     {
@@ -417,13 +417,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-19:30; Su 10:00-18:30",
+        "opening_hours": "10:00-18:45",
         "addr:housenumber": "181",
         "addr:street": "rue d'Artois",
         "addr:place": "ZA de Provinces",
         "addr:postcode": "45160",
         "addr:city": "Olivet",
-        "note": "ZA de Provinces  181 rue d'Artois 45160 OLIVET"
+        "note": "ZA de Provinces 181 rue d'Artois 45160 OLIVET"
       }
     },
     {
@@ -442,13 +442,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "17",
         "addr:street": "Boulevard Champ aux Métiers",
         "addr:place": "",
         "addr:postcode": "21800",
         "addr:city": "Quetigny",
-        "note": "17, Boulevard Champ aux Métiers  21800 QUETIGNY"
+        "note": "17, Boulevard Champ aux Métiers 21800 QUETIGNY"
       }
     },
     {
@@ -467,13 +467,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 13:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00",
         "addr:housenumber": "",
         "addr:street": "Avenue Robert Schuman",
         "addr:place": "",
         "addr:postcode": "41000",
         "addr:city": "Blois",
-        "note": "Avenue Robert Schuman  41000 BLOIS"
+        "note": "Avenue Robert Schuman 41000 BLOIS"
       }
     },
     {
@@ -492,13 +492,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 14:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "ZC des Cents Arpents",
         "addr:place": "",
         "addr:postcode": "45770",
         "addr:city": "Saran",
-        "note": "ZC des Cents Arpents  45770 SARAN"
+        "note": "ZC des Cents Arpents 45770 SARAN"
       }
     },
     {
@@ -522,8 +522,8 @@
         "addr:street": "D 1089, avenue Pierre Mendès France",
         "addr:place": "",
         "addr:postcode": "19100",
-        "addr:city": "Brive-La-Gaillarde",
-        "note": "D 1089, avenue Pierre Mendès France  19100 BRIVE-LA-GAILLARDE"
+        "addr:city": "Brive",
+        "note": "D 1089, avenue Pierre Mendès France 19100 BRIVE"
       }
     },
     {
@@ -542,13 +542,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:30-19:00",
         "addr:housenumber": "264",
         "addr:street": "Avenue du Grand Sud",
         "addr:place": "",
         "addr:postcode": "37170",
         "addr:city": "Chambray-Les-Tours",
-        "note": "264 Avenue du Grand Sud  37170 CHAMBRAY-LES-TOURS"
+        "note": "264 Avenue du Grand Sud 37170 CHAMBRAY-LES-TOURS"
       }
     },
     {
@@ -567,13 +567,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "09:30-19:30",
         "addr:housenumber": "22",
         "addr:street": "rue du Commerce",
         "addr:place": "",
         "addr:postcode": "86360",
         "addr:city": "Chasseneuil Du Poitou",
-        "note": "22 rue du Commerce  86360 CHASSENEUIL DU POITOU"
+        "note": "22 rue du Commerce 86360 CHASSENEUIL DU POITOU"
       }
     },
     {
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6575466,
-          47.4280818
+          0.6634184,
+          47.4290647
         ]
       },
       "properties": {
@@ -592,13 +592,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 09:30-19:00",
-        "addr:housenumber": "7-9",
-        "addr:street": "avenue André Georges Voisin",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
+        "addr:housenumber": "",
+        "addr:street": "Rue de la Pinauderie",
         "addr:place": "",
         "addr:postcode": "37540",
         "addr:city": "Saint Cyr Sur Loire",
-        "note": "7-9 avenue André Georges Voisin  37540 SAINT CYR SUR LOIRE"
+        "note": "Rue de la Pinauderie 37540 SAINT CYR SUR LOIRE"
       }
     },
     {
@@ -617,13 +617,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 09:30-12:00,14:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:15; Su 09:30-11:45,14:00-18:45",
         "addr:housenumber": "",
         "addr:street": "Boulevard de l’Ouest",
         "addr:place": "Centre Commercial l'Escapade",
         "addr:postcode": "10300",
         "addr:city": "Sainte Savine",
-        "note": "Centre Commercial l'Escapade  Boulevard de l’Ouest 10300 SAINTE SAVINE"
+        "note": "Centre Commercial l'Escapade Boulevard de l’Ouest 10300 SAINTE SAVINE"
       }
     },
     {
@@ -642,13 +642,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Quartier de Laye",
         "addr:place": "",
         "addr:postcode": "26320",
         "addr:city": "Saint-Marcel-Les-Valence",
-        "note": "Quartier de Laye  26320 SAINT-MARCEL-LES-VALENCE"
+        "note": "Quartier de Laye 26320 SAINT-MARCEL-LES-VALENCE"
       }
     },
     {
@@ -667,13 +667,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30",
+        "opening_hours": "Mo-Sa 09:30-18:45; Su 10:00-12:00,14:00-18:30",
         "addr:housenumber": "",
         "addr:street": "Avenue Louis Suder Lieu dit \"La Saltgourde\"",
         "addr:place": "C.C. Auchan",
         "addr:postcode": "24430",
         "addr:city": "Marsac Sur L'Isle",
-        "note": "C.C. Auchan  Avenue Louis Suder Lieu dit \"La Saltgourde\" 24430 MARSAC SUR L'ISLE"
+        "note": "C.C. Auchan Avenue Louis Suder Lieu dit \"La Saltgourde\" 24430 MARSAC SUR L'ISLE"
       }
     },
     {
@@ -692,13 +692,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-18:30",
         "addr:housenumber": "12",
         "addr:street": "impasse de l'Orée du Bois",
         "addr:place": "",
         "addr:postcode": "77176",
         "addr:city": "Savigny-Le-Temple",
-        "note": "12, impasse de l'Orée du Bois  77176 SAVIGNY-LE-TEMPLE"
+        "note": "12, impasse de l'Orée du Bois 77176 SAVIGNY-LE-TEMPLE"
       }
     },
     {
@@ -706,8 +706,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.450967,
-          48.607363
+          6.07803,
+          45.93505
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M EPAGNY METZ-TESSY",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "addr:housenumber": "378",
+        "addr:street": "avenue des Alpes",
+        "addr:place": "",
+        "addr:postcode": "74330",
+        "addr:city": "Epagny Metz-Tessy",
+        "note": "378 avenue des Alpes 74330 EPAGNY METZ-TESSY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4516579,
+          48.6070129
         ]
       },
       "properties": {
@@ -717,13 +742,38 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-20:00; Su 09:00-19:30",
-        "addr:housenumber": "",
-        "addr:street": "Rue Sigmund Freud",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
+        "addr:housenumber": "24",
+        "addr:street": "rue Paul Maintenant",
         "addr:place": "",
         "addr:postcode": "91100",
         "addr:city": "Corbeil Essonnes",
-        "note": "Rue Sigmund Freud  91100 CORBEIL ESSONNES"
+        "note": "24 rue Paul Maintenant 91100 CORBEIL ESSONNES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34473,
+          48.62125
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M SAINTE GENEVIEVE DES BOIS",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "09:30-19:30",
+        "addr:housenumber": "",
+        "addr:street": "ZAC de la Croix Blanche 22 Ave de la Croix blanche",
+        "addr:place": "",
+        "addr:postcode": "91700",
+        "addr:city": "Ste Genevieve Des Bois",
+        "note": "ZAC de la Croix Blanche 22 Ave de la Croix blanche 91700 STE GENEVIEVE DES BOIS"
       }
     },
     {
@@ -742,13 +792,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:15-17:45",
+        "opening_hours": "Mo-Sa 09:30-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue de la Martinière",
         "addr:place": "",
         "addr:postcode": "73230",
         "addr:city": "Saint Alban Leysse",
-        "note": "Rue de la Martinière  73230 SAINT ALBAN LEYSSE"
+        "note": "Rue de la Martinière 73230 SAINT ALBAN LEYSSE"
       }
     },
     {
@@ -767,13 +817,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 09:30-19:00",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Avenue de la Gribelette",
         "addr:place": "R.N. 445",
         "addr:postcode": "91170",
         "addr:city": "Viry Chatillon",
-        "note": "R.N. 445  Avenue de la Gribelette 91170 VIRY CHATILLON"
+        "note": "R.N. 445 Avenue de la Gribelette 91170 VIRY CHATILLON"
       }
     },
     {
@@ -781,8 +831,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.440385,
-          48.716537
+          2.58876,
+          48.7089
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M SERVON",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:00",
+        "addr:housenumber": "19",
+        "addr:street": "Chemin du Marquis",
+        "addr:place": "",
+        "addr:postcode": "77170",
+        "addr:city": "Servon",
+        "note": "19 Chemin du Marquis 77170 SERVON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4467256,
+          48.7160464
         ]
       },
       "properties": {
@@ -792,13 +867,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Avenue Jean Jaurès",
         "addr:place": "ZA Maurice Garin",
         "addr:postcode": "91230",
         "addr:city": "Montgeron",
-        "note": "ZA Maurice Garin  Avenue Jean Jaurès 91230 MONTGERON"
+        "note": "ZA Maurice Garin Avenue Jean Jaurès 91230 MONTGERON"
       }
     },
     {
@@ -817,13 +892,38 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Sa 09:30-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
         "addr:housenumber": "1",
         "addr:street": "rue Grugiliasco",
         "addr:place": "",
         "addr:postcode": "38130",
         "addr:city": "Echirolles",
-        "note": "1 rue Grugiliasco  38130 ECHIROLLES"
+        "note": "1 rue Grugiliasco 38130 ECHIROLLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.60309,
+          48.77759
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M PONTAULT COMBAULT",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+        "addr:housenumber": "",
+        "addr:street": "rue de Monthéty",
+        "addr:place": "",
+        "addr:postcode": "77340",
+        "addr:city": "Pontault-Combault",
+        "note": "rue de Monthéty 77340 PONTAULT-COMBAULT"
       }
     },
     {
@@ -848,7 +948,7 @@
         "addr:place": "ZAC du Chêne Saint Fiacre",
         "addr:postcode": "77600",
         "addr:city": "Chanteloup En Brie",
-        "note": "ZAC du Chêne Saint Fiacre  25 avenue de la Ferme Briarde 77600 CHANTELOUP EN BRIE"
+        "note": "ZAC du Chêne Saint Fiacre 25 avenue de la Ferme Briarde 77600 CHANTELOUP EN BRIE"
       }
     },
     {
@@ -867,13 +967,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Géant",
         "addr:place": "RN 11 Route de Paris",
         "addr:postcode": "79180",
         "addr:city": "Chauray",
-        "note": "Centre Commercial Géant  RN 11 Route de Paris 79180 CHAURAY"
+        "note": "Centre Commercial Géant RN 11 Route de Paris 79180 CHAURAY"
       }
     },
     {
@@ -898,7 +998,7 @@
         "addr:place": "Centre Commercial  de l'OASIS",
         "addr:postcode": "70000",
         "addr:city": "Pusey",
-        "note": "Centre Commercial  de l'OASIS  18, Rue Pierre Martin 70000 PUSEY"
+        "note": "Centre Commercial  de l'OASIS 18, Rue Pierre Martin 70000 PUSEY"
       }
     },
     {
@@ -917,13 +1017,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 09:30-19:00",
         "addr:housenumber": "1",
         "addr:street": "avenue Michel Debré",
         "addr:place": "",
         "addr:postcode": "93360",
         "addr:city": "Neuilly Plaisance",
-        "note": "1 avenue Michel Debré  93360 NEUILLY PLAISANCE"
+        "note": "1 avenue Michel Debré 93360 NEUILLY PLAISANCE"
       }
     },
     {
@@ -942,13 +1042,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "10:00-19:00",
+        "opening_hours": "Mo-Sa 09:15-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue des frères Lumières",
         "addr:place": "Lieu-dit \"Le Gibet\"",
         "addr:postcode": "78310",
         "addr:city": "Coignieres",
-        "note": "Lieu-dit \"Le Gibet\"  Rue des frères Lumières 78310 COIGNIERES"
+        "note": "Lieu-dit \"Le Gibet\" Rue des frères Lumières 78310 COIGNIERES"
       }
     },
     {
@@ -967,13 +1067,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-18:30",
+        "opening_hours": "Su 10:00-18:00",
         "addr:housenumber": "2",
         "addr:street": "Boulevard des Hunaudières",
         "addr:place": "",
         "addr:postcode": "72230",
         "addr:city": "Ruaudin",
-        "note": "2, Boulevard des Hunaudières  72230 RUAUDIN"
+        "note": "2, Boulevard des Hunaudières 72230 RUAUDIN"
       }
     },
     {
@@ -988,17 +1088,17 @@
       "properties": {
         "shop": "variety_store",
         "name": "B&M",
-        "alt_name": "BABOU BAGNOLET",
+        "alt_name": "B&M BAGNOLET",
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 09:30-19:00",
         "addr:housenumber": "76",
         "addr:street": "avenue du Général de Gaulle",
         "addr:place": "",
         "addr:postcode": "93170",
         "addr:city": "Bagnolet",
-        "note": "76 avenue du Général de Gaulle  93170 BAGNOLET"
+        "note": "76 avenue du Général de Gaulle 93170 BAGNOLET"
       }
     },
     {
@@ -1017,13 +1117,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 08:30-20:00; Su 09:30-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 09:30-19:00",
         "addr:housenumber": "22/24",
         "addr:street": "boulevard du Chevalier Bayard",
         "addr:place": "",
         "addr:postcode": "77100",
         "addr:city": "Meaux",
-        "note": "22/24 boulevard du Chevalier Bayard  77100 MEAUX"
+        "note": "22/24 boulevard du Chevalier Bayard 77100 MEAUX"
       }
     },
     {
@@ -1048,7 +1148,7 @@
         "addr:place": "",
         "addr:postcode": "77410",
         "addr:city": "Claye Souilly",
-        "note": "ZA les Sablons - Rue Jean Monnet  77410 CLAYE SOUILLY"
+        "note": "ZA les Sablons - Rue Jean Monnet 77410 CLAYE SOUILLY"
       }
     },
     {
@@ -1067,13 +1167,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "ZC du Chêne St Amand",
         "addr:place": "",
         "addr:postcode": "52100",
         "addr:city": "Saint Dizier",
-        "note": "ZC du Chêne St Amand  52100 SAINT DIZIER"
+        "note": "ZC du Chêne St Amand 52100 SAINT DIZIER"
       }
     },
     {
@@ -1092,13 +1192,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "ZAC de l’Ardoise",
         "addr:place": "",
         "addr:postcode": "72000",
         "addr:city": "Le Mans",
-        "note": "ZAC de l’Ardoise  72000 LE MANS"
+        "note": "ZAC de l’Ardoise 72000 LE MANS"
       }
     },
     {
@@ -1117,13 +1217,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "opening_hours": "09:00-19:00",
         "addr:housenumber": "8",
         "addr:street": "rue de Rome",
         "addr:place": "",
         "addr:postcode": "28500",
         "addr:city": "Vernouillet",
-        "note": "8 rue de Rome  28500 VERNOUILLET"
+        "note": "8 rue de Rome 28500 VERNOUILLET"
       }
     },
     {
@@ -1142,13 +1242,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:45",
         "addr:housenumber": "27",
         "addr:street": "à 29 avenue Gabriel Péri",
         "addr:place": "",
         "addr:postcode": "95100",
         "addr:city": "Argenteuil",
-        "note": "27 à 29 avenue Gabriel Péri  95100 ARGENTEUIL"
+        "note": "27 à 29 avenue Gabriel Péri 95100 ARGENTEUIL"
       }
     },
     {
@@ -1167,13 +1267,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
         "addr:housenumber": "144",
         "addr:street": "avenue Maréchal Joffre",
         "addr:place": "",
         "addr:postcode": "93800",
         "addr:city": "Epinay",
-        "note": "144 avenue Maréchal Joffre  93800 EPINAY"
+        "note": "144 avenue Maréchal Joffre 93800 EPINAY"
       }
     },
     {
@@ -1192,13 +1292,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "09:30-19:15",
-        "addr:housenumber": "5",
-        "addr:street": "Rue la Chapelle Saint Nicolas",
-        "addr:place": "",
+        "opening_hours": "09:30-19:30",
+        "addr:housenumber": "",
+        "addr:street": "Avenue de la Division Leclerc",
+        "addr:place": "ZA de La Chapelle Saint Nicolas",
         "addr:postcode": "95350",
         "addr:city": "Saint-Brice-Sous-Forêt",
-        "note": "5 Rue la Chapelle Saint Nicolas  95350 SAINT-BRICE-SOUS-FORÊT"
+        "note": "ZA de La Chapelle Saint Nicolas Avenue de la Division Leclerc 95350 SAINT-BRICE-SOUS-FORÊT"
       }
     },
     {
@@ -1217,13 +1317,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Th 09:30-19:30; Fr-Sa 09:30-20:00; Su 10:00-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:30",
         "addr:housenumber": "109",
         "addr:street": "boulevard Victor Bordier",
         "addr:place": "",
         "addr:postcode": "95370",
         "addr:city": "Montigny-Les-Cormeilles",
-        "note": "109 boulevard Victor Bordier  95370 MONTIGNY-LES-CORMEILLES"
+        "note": "109 boulevard Victor Bordier 95370 MONTIGNY-LES-CORMEILLES"
       }
     },
     {
@@ -1242,13 +1342,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Flins",
         "addr:place": "",
         "addr:postcode": "78410",
         "addr:city": "Flins-Sur-Seine",
-        "note": "Centre Commercial Flins  78410 FLINS-SUR-SEINE"
+        "note": "Centre Commercial Flins 78410 FLINS-SUR-SEINE"
       }
     },
     {
@@ -1267,13 +1367,38 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "20",
         "addr:street": "avenue Marc Hamet",
         "addr:place": "ZAC de Voitrelle",
         "addr:postcode": "51470",
         "addr:city": "Saint Memmie",
-        "note": "20 avenue Marc Hamet  ZAC de Voitrelle 51470 SAINT MEMMIE"
+        "note": "20 avenue Marc Hamet ZAC de Voitrelle 51470 SAINT MEMMIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12088,
+          49.0558
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M SAINT-OUEN-L'AUMÔNE",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "addr:housenumber": "15",
+        "addr:street": "Rue d'Epluches",
+        "addr:place": "",
+        "addr:postcode": "95310",
+        "addr:city": "Saint-Ouen-L'Aumône",
+        "note": "15 Rue d'Epluches 95310 SAINT-OUEN-L'AUMÔNE"
       }
     },
     {
@@ -1298,7 +1423,7 @@
         "addr:place": "Centre Commercial Auchan Buchelay",
         "addr:postcode": "78711",
         "addr:city": "Mantes La Ville",
-        "note": "Centre Commercial Auchan Buchelay  Rue de l'Ouest 78711 MANTES LA VILLE"
+        "note": "Centre Commercial Auchan Buchelay Rue de l'Ouest 78711 MANTES LA VILLE"
       }
     },
     {
@@ -1317,13 +1442,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Parc d'Activités l'Oseraie",
         "addr:place": "Centre Commercial Auchan",
         "addr:postcode": "95520",
         "addr:city": "Osny",
-        "note": "Parc d'Activités l'Oseraie  Centre Commercial Auchan 95520 OSNY"
+        "note": "Parc d'Activités l'Oseraie Centre Commercial Auchan 95520 OSNY"
       }
     },
     {
@@ -1342,13 +1467,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 10:00-20:00; Su 14:00-18:30",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 14:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial l'ATOLL",
         "addr:place": "Eco-parc Du Buisson",
         "addr:postcode": "49070",
         "addr:city": "Beaucouze",
-        "note": "Centre Commercial l'ATOLL  Eco-parc Du Buisson 49070 BEAUCOUZE"
+        "note": "Centre Commercial l'ATOLL Eco-parc Du Buisson 49070 BEAUCOUZE"
       }
     },
     {
@@ -1367,13 +1492,38 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 10:00-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:30",
         "addr:housenumber": "7",
         "addr:street": "Rue Sorel-Tracy",
         "addr:place": "Centre Commercial L’Autre Faubourg",
         "addr:postcode": "49300",
         "addr:city": "Cholet",
-        "note": "Centre Commercial L’Autre Faubourg  7 Rue Sorel-Tracy 49300 CHOLET"
+        "note": "Centre Commercial L’Autre Faubourg 7 Rue Sorel-Tracy 49300 CHOLET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1891137,
+          48.980111
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M EVREUX",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
+        "addr:housenumber": "",
+        "addr:street": "RN13 - Centre Commercial Carrefour du Grand EVREUX",
+        "addr:place": "",
+        "addr:postcode": "27930",
+        "addr:city": "Guichainville",
+        "note": "RN13 - Centre Commercial Carrefour du Grand EVREUX 27930 GUICHAINVILLE"
       }
     },
     {
@@ -1398,7 +1548,7 @@
         "addr:place": "ZAC Porte du Vaucluse - Chemin des Daulands",
         "addr:postcode": "84700",
         "addr:city": "Sorgues",
-        "note": "Centre Commercial du Pontet  ZAC Porte du Vaucluse - Chemin des Daulands 84700 SORGUES"
+        "note": "Centre Commercial du Pontet ZAC Porte du Vaucluse - Chemin des Daulands 84700 SORGUES"
       }
     },
     {
@@ -1423,7 +1573,7 @@
         "addr:place": "",
         "addr:postcode": "51350",
         "addr:city": "Cormontreuil",
-        "note": "rue Benjamin Péret  51350 CORMONTREUIL"
+        "note": "rue Benjamin Péret 51350 CORMONTREUIL"
       }
     },
     {
@@ -1442,13 +1592,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-18:45; Su 10:00-17:45",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
         "addr:housenumber": "1",
         "addr:street": "avenue de l'Europe",
         "addr:place": "",
         "addr:postcode": "60100",
         "addr:city": "Creil",
-        "note": "1 avenue de l'Europe  60100 CREIL"
+        "note": "1 avenue de l'Europe 60100 CREIL"
       }
     },
     {
@@ -1473,32 +1623,7 @@
         "addr:place": "",
         "addr:postcode": "30000",
         "addr:city": "Nîmes",
-        "note": "230 Avenue Jean Prouvé  30000 Nîmes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.177833,
-          49.011639
-        ]
-      },
-      "properties": {
-        "shop": "variety_store",
-        "name": "B&M",
-        "alt_name": "B&M EVREUX",
-        "brand": "B&M",
-        "brand:wikidata": "Q4836931",
-        "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30",
-        "addr:housenumber": "",
-        "addr:street": "RN13 - Centre Commercial Carrefour du Grand EVREUX",
-        "addr:place": "",
-        "addr:postcode": "27930",
-        "addr:city": "Guichainville",
-        "note": "RN13 - Centre Commercial Carrefour du Grand EVREUX  27930 GUICHAINVILLE"
+        "note": "230 Avenue Jean Prouvé 30000 Nîmes"
       }
     },
     {
@@ -1517,13 +1642,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-12:30,14:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 09:30-12:00,13:30-18:30",
         "addr:housenumber": "",
         "addr:street": "Rue du Général Leclerc",
         "addr:place": "Centre Commercial Leclerc",
         "addr:postcode": "88190",
         "addr:city": "Golbey",
-        "note": "Centre Commercial Leclerc  Rue du Général Leclerc 88190 GOLBEY"
+        "note": "Centre Commercial Leclerc Rue du Général Leclerc 88190 GOLBEY"
       }
     },
     {
@@ -1542,13 +1667,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-18:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial AUCHAN",
-        "addr:place": "Zone de la Porte des Vosges, 1 route du Stratégique",
+        "addr:place": "Zone de la Porte des Vosges, 1 route du Stratégiquer",
         "addr:postcode": "90160",
         "addr:city": "Bessoncourt",
-        "note": "Centre Commercial AUCHAN  Zone de la Porte des Vosges, 1 route du Stratégique 90160 BESSONCOURT"
+        "note": "Centre Commercial AUCHAN Zone de la Porte des Vosges, 1 route du Stratégiquer 90160 BESSONCOURT"
       }
     },
     {
@@ -1567,13 +1692,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue de Bernex",
         "addr:place": "Lieu dit La Croix Maurencienne",
         "addr:postcode": "51370",
         "addr:city": "Saint Brice Courcelles",
-        "note": "Lieu dit La Croix Maurencienne  Rue de Bernex 51370 SAINT BRICE COURCELLES"
+        "note": "Lieu dit La Croix Maurencienne Rue de Bernex 51370 SAINT BRICE COURCELLES"
       }
     },
     {
@@ -1592,13 +1717,38 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-18:45",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "ZAC Fenouillet",
         "addr:place": "",
         "addr:postcode": "34470",
         "addr:city": "Perols",
-        "note": "ZAC Fenouillet  34470 PEROLS"
+        "note": "ZAC Fenouillet 34470 PEROLS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63378,
+          44.17633
+        ]
+      },
+      "properties": {
+        "shop": "variety_store",
+        "name": "B&M",
+        "alt_name": "B&M BOÉ",
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "brand:wikipedia": "en:B&M",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-12:30,14:00-19:00",
+        "addr:housenumber": "31",
+        "addr:street": "Imp. de Fabas",
+        "addr:place": "",
+        "addr:postcode": "47550",
+        "addr:city": "Boé",
+        "note": "31 Imp. de Fabas 47550 BOÉ"
       }
     },
     {
@@ -1617,13 +1767,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "n° 1010 RN 113",
         "addr:place": "",
         "addr:postcode": "34920",
         "addr:city": "Le Cres",
-        "note": "n° 1010 RN 113  34920 LE CRES"
+        "note": "n° 1010 RN 113 34920 LE CRES"
       }
     },
     {
@@ -1642,13 +1792,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 13:00-19:00",
         "addr:housenumber": "",
         "addr:street": "rue du 18 juin",
         "addr:place": "",
         "addr:postcode": "17138",
         "addr:city": "Puilboreau",
-        "note": "rue du 18 juin  17138 PUILBOREAU"
+        "note": "rue du 18 juin 17138 PUILBOREAU"
       }
     },
     {
@@ -1667,13 +1817,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-12:00,14:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue Signoret",
         "addr:place": "Centre Commercial Grand Tour II",
         "addr:postcode": "33560",
         "addr:city": "Sainte Eulalie",
-        "note": "Centre Commercial Grand Tour II  Rue Signoret 33560 SAINTE EULALIE"
+        "note": "Centre Commercial Grand Tour II Rue Signoret 33560 SAINTE EULALIE"
       }
     },
     {
@@ -1692,13 +1842,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 13:00-19:00",
         "addr:housenumber": "55",
         "addr:street": "Route de Toulouse",
         "addr:place": "",
         "addr:postcode": "81100",
         "addr:city": "Castres",
-        "note": "55 Route de Toulouse  81100 CASTRES"
+        "note": "55 Route de Toulouse 81100 CASTRES"
       }
     },
     {
@@ -1717,13 +1867,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "5",
         "addr:street": "rue Théodore Monod",
         "addr:place": "",
         "addr:postcode": "60000",
         "addr:city": "Allonne",
-        "note": "5 rue Théodore Monod  60000 ALLONNE"
+        "note": "5 rue Théodore Monod 60000 ALLONNE"
       }
     },
     {
@@ -1742,13 +1892,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-12:00,14:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue Georges Brassens",
         "addr:place": "La Porte Verte II",
         "addr:postcode": "54270",
         "addr:city": "Essey Les Nancy",
-        "note": "La Porte Verte II  Rue Georges Brassens 54270 ESSEY LES NANCY"
+        "note": "La Porte Verte II Rue Georges Brassens 54270 ESSEY LES NANCY"
       }
     },
     {
@@ -1773,7 +1923,7 @@
         "addr:place": "Parc commercial Sud Avenue",
         "addr:postcode": "85000",
         "addr:city": "La Roche-Sur-Yon",
-        "note": "ZAC La Roche Sud  Parc commercial Sud Avenue 85000 LA ROCHE-SUR-YON"
+        "note": "ZAC La Roche Sud Parc commercial Sud Avenue 85000 LA ROCHE-SUR-YON"
       }
     },
     {
@@ -1792,13 +1942,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-18:00",
+        "opening_hours": "10:00-19:00",
         "addr:housenumber": "3",
         "addr:street": "rue Pierre Simon Laplace",
         "addr:place": "ZAC du Perget",
         "addr:postcode": "31770",
         "addr:city": "Colomiers",
-        "note": "ZAC du Perget  3 rue Pierre Simon Laplace 31770 COLOMIERS"
+        "note": "ZAC du Perget 3 rue Pierre Simon Laplace 31770 COLOMIERS"
       }
     },
     {
@@ -1817,13 +1967,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "77",
         "addr:street": "rue du Docteur Cottoni",
         "addr:place": "",
         "addr:postcode": "76800",
         "addr:city": "Saint Etienne Du Rouvray",
-        "note": "77 rue du Docteur Cottoni  76800 SAINT ETIENNE DU ROUVRAY"
+        "note": "77 rue du Docteur Cottoni 76800 SAINT ETIENNE DU ROUVRAY"
       }
     },
     {
@@ -1842,13 +1992,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "91",
         "addr:street": "rue Guebwiller",
         "addr:place": "",
         "addr:postcode": "68260",
         "addr:city": "Kingersheim",
-        "note": "91 rue Guebwiller  68260 KINGERSHEIM"
+        "note": "91 rue Guebwiller 68260 KINGERSHEIM"
       }
     },
     {
@@ -1867,13 +2017,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-19:00",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Le Roque",
         "addr:place": "",
         "addr:postcode": "31120",
         "addr:city": "Roques",
-        "note": "Centre Commercial Le Roque  31120 ROQUES"
+        "note": "Centre Commercial Le Roque 31120 ROQUES"
       }
     },
     {
@@ -1892,13 +2042,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Chemin Départemental 157 C",
         "addr:place": "ZI Actisud",
         "addr:postcode": "57685",
         "addr:city": "Augny",
-        "note": "ZI Actisud  Chemin Départemental 157 C 57685 AUGNY"
+        "note": "ZI Actisud Chemin Départemental 157 C 57685 AUGNY"
       }
     },
     {
@@ -1923,7 +2073,7 @@
         "addr:place": "",
         "addr:postcode": "11000",
         "addr:city": "Carcassonne",
-        "note": "Centre Commercial Intermarché Zone Commerciale du Pont Rouge  11000 CARCASSONNE"
+        "note": "Centre Commercial Intermarché Zone Commerciale du Pont Rouge 11000 CARCASSONNE"
       }
     },
     {
@@ -1942,13 +2092,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 14:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 13:30-18:00",
         "addr:housenumber": "",
         "addr:street": "Rue Alfred Chauchard",
         "addr:place": "Zac Bonne Source",
         "addr:postcode": "11100",
         "addr:city": "Narbonne",
-        "note": "Zac Bonne Source  Rue Alfred Chauchard 11100 NARBONNE"
+        "note": "Zac Bonne Source Rue Alfred Chauchard 11100 NARBONNE"
       }
     },
     {
@@ -1967,13 +2117,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Su 10:00-12:00,14:00-18:45",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:45",
         "addr:housenumber": "",
         "addr:street": "ZAC des Etangs",
         "addr:place": "",
         "addr:postcode": "13920",
         "addr:city": "Saint Mitre Les Remparts",
-        "note": "ZAC des Etangs  13920 SAINT MITRE LES REMPARTS"
+        "note": "ZAC des Etangs 13920 SAINT MITRE LES REMPARTS"
       }
     },
     {
@@ -1992,13 +2142,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Route de Neuf-Brisach - D418",
         "addr:place": "",
         "addr:postcode": "68180",
         "addr:city": "Horbourg-Wihr",
-        "note": "Route de Neuf-Brisach - D418  68180 HORBOURG-WIHR"
+        "note": "Route de Neuf-Brisach - D418 68180 HORBOURG-WIHR"
       }
     },
     {
@@ -2017,13 +2167,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Auchan",
         "addr:place": "RN 29",
         "addr:postcode": "02100",
         "addr:city": "Fayet",
-        "note": "Centre Commercial Auchan  RN 29 02100 FAYET"
+        "note": "Centre Commercial Auchan RN 29 02100 FAYET"
       }
     },
     {
@@ -2042,13 +2192,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Auchan",
         "addr:place": "RD 112 E Voie Romaine",
         "addr:postcode": "57280",
         "addr:city": "Semecourt",
-        "note": "Centre Commercial Auchan  RD 112 E Voie Romaine 57280 SEMECOURT"
+        "note": "Centre Commercial Auchan RD 112 E Voie Romaine 57280 SEMECOURT"
       }
     },
     {
@@ -2067,13 +2217,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "",
+        "opening_hours": "09:30-19:00",
         "addr:housenumber": "",
         "addr:street": "Bât C - ZC Plan de Campagne",
         "addr:place": "",
         "addr:postcode": "13170",
         "addr:city": "Les Pennes Mirabeau",
-        "note": "Bât C - ZC Plan de Campagne  13170 LES PENNES MIRABEAU"
+        "note": "Bât C - ZC Plan de Campagne 13170 LES PENNES MIRABEAU"
       }
     },
     {
@@ -2098,7 +2248,7 @@
         "addr:place": "ZA Henri Spriet - Rue Joseph Jacquard",
         "addr:postcode": "14120",
         "addr:city": "Mondeville",
-        "note": "Centre commercial MONDEVILLAGE  ZA Henri Spriet - Rue Joseph Jacquard 14120 MONDEVILLE"
+        "note": "Centre commercial MONDEVILLAGE ZA Henri Spriet - Rue Joseph Jacquard 14120 MONDEVILLE"
       }
     },
     {
@@ -2123,7 +2273,7 @@
         "addr:place": "ZAC Saint André BP 326",
         "addr:postcode": "13015",
         "addr:city": "Marseille",
-        "note": "Centre Commercial Grand Littoral  ZAC Saint André BP 326 13015 MARSEILLE"
+        "note": "Centre Commercial Grand Littoral ZAC Saint André BP 326 13015 MARSEILLE"
       }
     },
     {
@@ -2148,7 +2298,7 @@
         "addr:place": "Centre Commercial Océane",
         "addr:postcode": "76700",
         "addr:city": "Gonfreville",
-        "note": "ZAC du Campdolent Cantipou  Centre Commercial Océane 76700 GONFREVILLE"
+        "note": "ZAC du Campdolent Cantipou Centre Commercial Océane 76700 GONFREVILLE"
       }
     },
     {
@@ -2167,13 +2317,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 13:30-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
         "addr:housenumber": "1",
         "addr:street": "rue de la Barre Thomas",
         "addr:place": "",
         "addr:postcode": "35000",
         "addr:city": "Rennes",
-        "note": "1 rue de la Barre Thomas  35000 RENNES"
+        "note": "1 rue de la Barre Thomas 35000 RENNES"
       }
     },
     {
@@ -2181,8 +2331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.21281,
-          47.298233
+          -2.2049379,
+          47.3152507
         ]
       },
       "properties": {
@@ -2192,13 +2342,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-18:00",
-        "addr:housenumber": "24",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 14:00-19:00",
+        "addr:housenumber": "",
         "addr:street": "Rue de la Roselière",
         "addr:place": "ZA de Savine",
         "addr:postcode": "44570",
         "addr:city": "Trignac",
-        "note": "ZA de Savine  24 Rue de la Roselière 44570 TRIGNAC"
+        "note": "ZA de Savine Rue de la Roselière 44570 TRIGNAC"
       }
     },
     {
@@ -2217,13 +2367,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 08:30-19:30",
         "addr:housenumber": "",
         "addr:street": "RN 83",
         "addr:place": "",
         "addr:postcode": "67640",
         "addr:city": "Fegersheim",
-        "note": "RN 83  67640 FEGERSHEIM"
+        "note": "RN 83 67640 FEGERSHEIM"
       }
     },
     {
@@ -2242,13 +2392,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue de guise",
         "addr:place": "",
         "addr:postcode": "57600",
         "addr:city": "Forbach",
-        "note": "Rue de guise  57600 FORBACH"
+        "note": "Rue de guise 57600 FORBACH"
       }
     },
     {
@@ -2267,13 +2417,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-18:30",
         "addr:housenumber": "75",
         "addr:street": "Avenue du Maréchal Koeing",
         "addr:place": "Angle boulevard kennedy",
         "addr:postcode": "66000",
         "addr:city": "Perpignan",
-        "note": "75 Avenue du Maréchal Koeing  Angle boulevard kennedy 66000 PERPIGNAN"
+        "note": "75 Avenue du Maréchal Koeing Angle boulevard kennedy 66000 PERPIGNAN"
       }
     },
     {
@@ -2292,13 +2442,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Tu 09:30-19:00; We 09:30-19:30; Th 09:30-19:00; Fr-Sa 09:30-19:30; Su 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
         "addr:housenumber": "125",
         "addr:street": "bd John Cockerill",
         "addr:place": "« L’ESCALE Hautmont-Val de Sambre »",
         "addr:postcode": "59330",
         "addr:city": "Hautmont",
-        "note": "125 bd John Cockerill  « L’ESCALE Hautmont-Val de Sambre » 59330 HAUTMONT"
+        "note": "125 bd John Cockerill « L’ESCALE Hautmont-Val de Sambre » 59330 HAUTMONT"
       }
     },
     {
@@ -2323,7 +2473,7 @@
         "addr:place": "",
         "addr:postcode": "67550",
         "addr:city": "Vendenheim",
-        "note": "34 Route de Strasbourg  67550 VENDENHEIM"
+        "note": "34 Route de Strasbourg 67550 VENDENHEIM"
       }
     },
     {
@@ -2342,13 +2492,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30",
+        "opening_hours": "Mo-Th 09:00-19:00; Fr-Sa 09:00-19:30; Su 10:00-18:30",
         "addr:housenumber": "",
         "addr:street": "Avenue Winston Churchill",
         "addr:place": "Centre Commercial AUCHAN",
         "addr:postcode": "62000",
         "addr:city": "Arras",
-        "note": "Avenue Winston Churchill  Centre Commercial AUCHAN 62000 ARRAS"
+        "note": "Avenue Winston Churchill Centre Commercial AUCHAN 62000 ARRAS"
       }
     },
     {
@@ -2367,13 +2517,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Tu 09:00-19:00; We 09:00-19:30; Th 09:30-19:00; Fr-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue Gambetta",
         "addr:place": "Zone Commerciale du Vignoble",
         "addr:postcode": "59174",
         "addr:city": "La Sentinelle",
-        "note": "Zone Commerciale du Vignoble  Rue Gambetta 59174 LA SENTINELLE"
+        "note": "Zone Commerciale du Vignoble Rue Gambetta 59174 LA SENTINELLE"
       }
     },
     {
@@ -2392,13 +2542,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Centre Commercial Auchan",
         "addr:place": "RN 43",
         "addr:postcode": "62950",
         "addr:city": "Noyelles Godault",
-        "note": "Centre Commercial Auchan  RN 43 62950 NOYELLES GODAULT"
+        "note": "Centre Commercial Auchan RN 43 62950 NOYELLES GODAULT"
       }
     },
     {
@@ -2423,7 +2573,7 @@
         "addr:place": "Lieu dit Chateau Redon - BAT B",
         "addr:postcode": "83160",
         "addr:city": "La Valette Du Var",
-        "note": "Centre Commercial \"Grand Var\"  Lieu dit Chateau Redon - BAT B 83160 LA VALETTE DU VAR"
+        "note": "Centre Commercial \"Grand Var\" Lieu dit Chateau Redon - BAT B 83160 LA VALETTE DU VAR"
       }
     },
     {
@@ -2442,13 +2592,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30",
+        "opening_hours": "Mo-Sa 08:30-19:30",
         "addr:housenumber": "",
         "addr:street": "Rue du Kestlerhof",
         "addr:place": "C.C. L'Arboiseau",
         "addr:postcode": "67500",
         "addr:city": "Haguenau",
-        "note": "C.C. L'Arboiseau  Rue du Kestlerhof 67500 HAGUENAU"
+        "note": "C.C. L'Arboiseau Rue du Kestlerhof 67500 HAGUENAU"
       }
     },
     {
@@ -2473,7 +2623,7 @@
         "addr:place": "",
         "addr:postcode": "62880",
         "addr:city": "Vendin Le Vieil",
-        "note": "ZI Cora - 13 rue Louis Blériot  62880 VENDIN LE VIEIL"
+        "note": "ZI Cora - 13 rue Louis Blériot 62880 VENDIN LE VIEIL"
       }
     },
     {
@@ -2492,13 +2642,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 09:30-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 09:30-18:45",
         "addr:housenumber": "",
         "addr:street": "Rue Jean-Joseph Etienne Lenoir",
         "addr:place": "",
         "addr:postcode": "62700",
         "addr:city": "Bruay-La-Buissiere",
-        "note": "Rue Jean-Joseph Etienne Lenoir  62700 BRUAY-LA-BUISSIERE"
+        "note": "Rue Jean-Joseph Etienne Lenoir 62700 BRUAY-LA-BUISSIERE"
       }
     },
     {
@@ -2517,13 +2667,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00",
         "addr:housenumber": "147",
         "addr:street": "Avenue du Général de Gaulle",
         "addr:place": "",
         "addr:postcode": "64140",
         "addr:city": "Lons",
-        "note": "147 Avenue du Général de Gaulle  64140 LONS"
+        "note": "147 Avenue du Général de Gaulle 64140 LONS"
       }
     },
     {
@@ -2542,13 +2692,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Tu 09:30-19:00; We 09:30-19:30; Th 09:30-19:00; Fr-Sa 09:30-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
         "addr:housenumber": "205",
         "addr:street": "Rue Georges Clemenceau",
         "addr:place": "Centre Commercial de Cora",
         "addr:postcode": "59139",
         "addr:city": "Wattignies",
-        "note": "Centre Commercial de Cora  205 Rue Georges Clemenceau 59139 WATTIGNIES"
+        "note": "Centre Commercial de Cora 205 Rue Georges Clemenceau 59139 WATTIGNIES"
       }
     },
     {
@@ -2573,7 +2723,7 @@
         "addr:place": "Lieu-dit \"La cousinerie\"",
         "addr:postcode": "59650",
         "addr:city": "Villeneuve D Ascq",
-        "note": "Lieu-dit \"La cousinerie\"  220 rue de la Convention 59650 VILLENEUVE D ASCQ"
+        "note": "Lieu-dit \"La cousinerie\" 220 rue de la Convention 59650 VILLENEUVE D ASCQ"
       }
     },
     {
@@ -2598,7 +2748,7 @@
         "addr:place": "",
         "addr:postcode": "56000",
         "addr:city": "Vannes",
-        "note": "26 rue Théophraste Renaudot  56000 VANNES"
+        "note": "26 rue Théophraste Renaudot 56000 VANNES"
       }
     },
     {
@@ -2617,13 +2767,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-19:00",
         "addr:housenumber": "",
         "addr:street": "Rue des Verdiers",
         "addr:place": "ZAC Auchan",
         "addr:postcode": "59115",
         "addr:city": "Leers",
-        "note": "ZAC Auchan  Rue des Verdiers 59115 LEERS"
+        "note": "ZAC Auchan Rue des Verdiers 59115 LEERS"
       }
     },
     {
@@ -2642,13 +2792,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 12:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 11:00-19:00",
         "addr:housenumber": "4",
         "addr:street": "et 6 boulevard Gambetta",
         "addr:place": "",
         "addr:postcode": "59100",
         "addr:city": "Roubaix",
-        "note": "4 et 6 boulevard Gambetta  59100 ROUBAIX"
+        "note": "4 et 6 boulevard Gambetta 59100 ROUBAIX"
       }
     },
     {
@@ -2667,13 +2817,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 09:30-19:30",
-        "addr:housenumber": "317",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "addr:housenumber": "37",
         "addr:street": "rue Henri Barbusse",
         "addr:place": "",
         "addr:postcode": "59223",
         "addr:city": "Roncq",
-        "note": "317, rue Henri Barbusse  59223 RONCQ"
+        "note": "37 rue Henri Barbusse 59223 RONCQ"
       }
     },
     {
@@ -2692,13 +2842,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:30-19:00",
         "addr:housenumber": "14",
         "addr:street": "chemin de Hayet",
         "addr:place": "",
         "addr:postcode": "64100",
         "addr:city": "Bayonne",
-        "note": "14, chemin de Hayet  64100 BAYONNE"
+        "note": "14, chemin de Hayet 64100 BAYONNE"
       }
     },
     {
@@ -2723,7 +2873,7 @@
         "addr:place": "CC Géant \"Les Villages\"",
         "addr:postcode": "22000",
         "addr:city": "Saint Brieuc",
-        "note": "Route de Brest  CC Géant \"Les Villages\" 22000 SAINT BRIEUC"
+        "note": "Route de Brest CC Géant \"Les Villages\" 22000 SAINT BRIEUC"
       }
     },
     {
@@ -2742,13 +2892,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Tu 09:30-19:00; We 09:30-19:30; Th 09:30-19:00; Fr-Sa 09:30-19:30; Su 10:00-12:30,14:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-18:45; Su 10:00-12:15,14:00-18:45",
         "addr:housenumber": "",
         "addr:street": "RN 1",
         "addr:place": "Carrefour de avenue Berthaux et quai Wilson",
         "addr:postcode": "59430",
         "addr:city": "Saint Pol Sur Mer",
-        "note": "RN 1  Carrefour de avenue Berthaux et quai Wilson 59430 SAINT POL SUR MER"
+        "note": "RN 1 Carrefour de avenue Berthaux et quai Wilson 59430 SAINT POL SUR MER"
       }
     },
     {
@@ -2767,13 +2917,13 @@
         "brand": "B&M",
         "brand:wikidata": "Q4836931",
         "brand:wikipedia": "en:B&M",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 14:00-18:30",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 14:00-18:30",
         "addr:housenumber": "4",
         "addr:street": "rue Colonel Le Barillec",
         "addr:place": "",
         "addr:postcode": "56100",
         "addr:city": "Lorient",
-        "note": "4 rue Colonel Le Barillec  56100 LORIENT"
+        "note": "4 rue Colonel Le Barillec 56100 LORIENT"
       }
     },
     {
@@ -2798,7 +2948,7 @@
         "addr:place": "Route du phare d'Eckmülh",
         "addr:postcode": "29000",
         "addr:city": "Quimper",
-        "note": "Parc Commercial du Loc'h  Route du phare d'Eckmülh 29000 QUIMPER"
+        "note": "Parc Commercial du Loc'h Route du phare d'Eckmülh 29000 QUIMPER"
       }
     },
     {
@@ -2823,7 +2973,7 @@
         "addr:place": "",
         "addr:postcode": "29200",
         "addr:city": "Brest",
-        "note": "2 rue Gaston Planté  29200 BREST"
+        "note": "2 rue Gaston Planté 29200 BREST"
       }
     }
   ]

@@ -217,4 +217,4 @@ geojson = {
 with open(res, 'w', encoding='utf-8') as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
 
-print('File written: ' + res)
+print(f'Dump {len(features)} shops in file: {res}')
