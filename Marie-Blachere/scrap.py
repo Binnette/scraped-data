@@ -36,6 +36,7 @@ for item in root.find('store'):
     # Create a dictionary to store the feature properties
     properties = {}
     alt_name = item.find('location').text
+    alt_name = html.unescape(alt_name)
     # Assign the properties from the item elements
     properties['name'] = 'Boulangerie Marie Blachère'
     properties['alt_name'] = alt_name
@@ -57,13 +58,13 @@ for item in root.find('store'):
     addr = parse_address(address)
     if addr:
         if addr['addr:city']:
-            properties['addr:city'] = addr['addr:city'].title()
+            properties['addr:city'] = addr['addr:city'].title().strip()
         if addr['addr:housenumber']:
-            properties['addr:housenumber'] = addr['addr:housenumber']
+            properties['addr:housenumber'] = addr['addr:housenumber'].strip()
         if addr['addr:postcode']:
-            properties['addr:postcode'] = addr['addr:postcode']
+            properties['addr:postcode'] = addr['addr:postcode'].strip()
         if addr['addr:street']:
-            properties['addr:street'] = addr['addr:street']
+            properties['addr:street'] = addr['addr:street'].strip().capitalize()
 
     # Create a dictionary to store the feature geometry
     geometry = {}
