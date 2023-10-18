@@ -47,27 +47,17 @@ def parse_address(address):
 for item in root.find('store'):
     # Create a dictionary to store the feature properties
     properties = {}
+
+    # Unescape alt_name
     alt_name = item.find('location').text
     alt_name = html.unescape(alt_name)
-    # Assign the properties from the item elements
-    properties['name'] = 'Boulangerie Marie Blachère'
-    properties['alt_name'] = alt_name
-    properties['website'] = item.find('exturl').text
-    properties['ref:FR:MarieBlachere:id'] = item.find('storeId').text
 
-    properties['brand'] = 'Marie Blachère'
-    properties['brand:wikidata'] = 'Q62082410'
-    properties['brand:wikipedia'] = 'fr:Marie Blachère'
-    properties['shop'] = 'bakery'
-
-    # Boulevard d'Eindhoven Bayeux, 14400
+    # Parse address
     address = item.find('address').text
     address = html.unescape(address)
-
-    properties['fixme:addr'] = address
-    properties['fixme'] = 'Check address and delete fixme and fixme:addr.'
-
     addr = parse_address(address)
+
+    # Assign the properties from the item elements By alphabetic order
     if addr:
         if addr['addr:city']:
             properties['addr:city'] = addr['addr:city'].title().strip()
@@ -77,6 +67,17 @@ for item in root.find('store'):
             properties['addr:postcode'] = addr['addr:postcode'].strip()
         if addr['addr:street']:
             properties['addr:street'] = addr['addr:street'].strip().capitalize()
+
+    properties['alt_name'] = alt_name
+    properties['brand'] = 'Marie Blachère'
+    properties['brand:wikidata'] = 'Q62082410'
+    properties['brand:wikipedia'] = 'fr:Marie Blachère'
+    properties['fixme'] = 'Check address and delete fixme and fixme:addr.'
+    properties['fixme:addr'] = address
+    properties['name'] = 'Boulangerie Marie Blachère'
+    properties['ref:FR:MarieBlachere:id'] = item.find('storeId').text
+    properties['shop'] = 'bakery'
+    properties['website'] = item.find('exturl').text
 
     # Create a dictionary to store the feature geometry
     geometry = {}
@@ -101,8 +102,8 @@ geojson['type'] = 'FeatureCollection'
 geojson['features'] = features
 
 # Write the geojson object to a file named marie_blachere.geojson
-with open('marie_blachere.geojson', 'w') as f:
-    json.dump(geojson, f, indent=4)
+with open('marie_blachere.geojson', 'w', encoding='utf-8') as f:
+    json.dump(geojson, f, indent=4, ensure_ascii=False)
 
 # Print a message to indicate the completion of the task
 print('The geojson file has been created successfully.')
