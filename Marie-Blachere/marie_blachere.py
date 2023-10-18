@@ -3,6 +3,7 @@ import json
 import html
 import re
 import requests
+import urllib.parse
 
 xml_url = 'https://boulangeries.marieblachere.com/wp-content/plugins/superstorefinder-wp/ssf-wp-xml.php'
 xml_file = 'ssf-wp-xml.php.xml'
@@ -77,7 +78,7 @@ for item in root.find('store'):
     properties['name'] = 'Boulangerie Marie Blachère'
     properties['ref:FR:MarieBlachere:id'] = item.find('storeId').text
     properties['shop'] = 'bakery'
-    properties['website'] = item.find('exturl').text
+    properties['website'] = item.find('exturl').text.replace(" ", "%20")
 
     # Create a dictionary to store the feature geometry
     geometry = {}

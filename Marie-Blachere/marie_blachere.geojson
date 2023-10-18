@@ -120,7 +120,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1275",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Aire Sur La Lys"
+                "website": "https://boulangeries.marieblachere.com/Aire%20Sur%20La%20Lys"
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +145,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1276",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Aix Brossolette"
+                "website": "https://boulangeries.marieblachere.com/Aix%20Brossolette"
             },
             "geometry": {
                 "type": "Point",
@@ -222,7 +222,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1278",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Albertville Armand"
+                "website": "https://boulangeries.marieblachere.com/Albertville%20Armand"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +248,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1279",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Albertville De Gaulle"
+                "website": "https://boulangeries.marieblachere.com/Albertville%20De%20Gaulle"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +299,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1281",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ales Dourtoulan"
+                "website": "https://boulangeries.marieblachere.com/Ales%20Dourtoulan"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +325,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1282",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ales Quai Du Mas D"
+                "website": "https://boulangeries.marieblachere.com/Ales%20Quai%20Du%20Mas%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -377,7 +377,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1283",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Allones Beauvais"
+                "website": "https://boulangeries.marieblachere.com/Allones%20Beauvais"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +403,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1284",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Allonnes Berardiere"
+                "website": "https://boulangeries.marieblachere.com/Allonnes%20Berardiere"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +429,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1285",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Amberieu En Bugey"
+                "website": "https://boulangeries.marieblachere.com/Amberieu%20En%20Bugey"
             },
             "geometry": {
                 "type": "Point",
@@ -531,7 +531,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1288",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Andrezieux Boutheon Av Saint Etienne"
+                "website": "https://boulangeries.marieblachere.com/Andrezieux%20Boutheon%20Av%20Saint%20Etienne"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +556,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1289",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Andrezieux Boutheon Dieudonne Costes"
+                "website": "https://boulangeries.marieblachere.com/Andrezieux%20Boutheon%20Dieudonne%20Costes"
             },
             "geometry": {
                 "type": "Point",
@@ -608,7 +608,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1291",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Anthy Sur Leman"
+                "website": "https://boulangeries.marieblachere.com/Anthy%20Sur%20Leman"
             },
             "geometry": {
                 "type": "Point",
@@ -685,7 +685,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1294",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Argeles Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/Argeles%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -788,7 +788,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1298",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Arles Fourchon"
+                "website": "https://boulangeries.marieblachere.com/Arles%20Fourchon"
             },
             "geometry": {
                 "type": "Point",
@@ -814,7 +814,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1299",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Arles Liberation"
+                "website": "https://boulangeries.marieblachere.com/Arles%20Liberation"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +839,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1300",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Arles Stalingrad"
+                "website": "https://boulangeries.marieblachere.com/Arles%20Stalingrad"
             },
             "geometry": {
                 "type": "Point",
@@ -890,7 +890,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1302",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Arras Dainville"
+                "website": "https://boulangeries.marieblachere.com/Arras%20Dainville"
             },
             "geometry": {
                 "type": "Point",
@@ -915,7 +915,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1303",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Athis Mons"
+                "website": "https://boulangeries.marieblachere.com/Athis%20Mons"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +940,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1304",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Aubagne Merlançon"
+                "website": "https://boulangeries.marieblachere.com/Aubagne%20Merlançon"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +966,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1305",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Aubagne Salengro"
+                "website": "https://boulangeries.marieblachere.com/Aubagne%20Salengro"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,7 +1095,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1310",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Auchy Les Mines"
+                "website": "https://boulangeries.marieblachere.com/Auchy%20Les%20Mines"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1121,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1311",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Aulnoy Lez Valenciennes"
+                "website": "https://boulangeries.marieblachere.com/Aulnoy%20Lez%20Valenciennes"
             },
             "geometry": {
                 "type": "Point",
@@ -1300,7 +1300,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1315",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Fontcouverte"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Fontcouverte"
             },
             "geometry": {
                 "type": "Point",
@@ -1326,7 +1326,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1316",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Henri Bellet"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Henri%20Bellet"
             },
             "geometry": {
                 "type": "Point",
@@ -1352,7 +1352,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1317",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Jaures"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Jaures"
             },
             "geometry": {
                 "type": "Point",
@@ -1378,7 +1378,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1318",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon La Croix"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20La%20Croix"
             },
             "geometry": {
                 "type": "Point",
@@ -1404,7 +1404,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1319",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Montfavet"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Montfavet"
             },
             "geometry": {
                 "type": "Point",
@@ -1430,7 +1430,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1320",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Republique"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Republique"
             },
             "geometry": {
                 "type": "Point",
@@ -1455,7 +1455,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1321",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Avignon Zi Courtine"
+                "website": "https://boulangeries.marieblachere.com/Avignon%20Zi%20Courtine"
             },
             "geometry": {
                 "type": "Point",
@@ -1581,7 +1581,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1323",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bagnols Sur Ceze Avenue De La Mayre"
+                "website": "https://boulangeries.marieblachere.com/Bagnols%20Sur%20Ceze%20Avenue%20De%20La%20Mayre"
             },
             "geometry": {
                 "type": "Point",
@@ -1607,7 +1607,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1324",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bagnols Sur Ceze Route De Lyon"
+                "website": "https://boulangeries.marieblachere.com/Bagnols%20Sur%20Ceze%20Route%20De%20Lyon"
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +1657,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1326",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Balaruc Le Vieux"
+                "website": "https://boulangeries.marieblachere.com/Balaruc%20Le%20Vieux"
             },
             "geometry": {
                 "type": "Point",
@@ -1708,7 +1708,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1328",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bar Le Duc"
+                "website": "https://boulangeries.marieblachere.com/Bar%20Le%20Duc"
             },
             "geometry": {
                 "type": "Point",
@@ -1785,7 +1785,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1331",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Baume Les Dames"
+                "website": "https://boulangeries.marieblachere.com/Baume%20Les%20Dames"
             },
             "geometry": {
                 "type": "Point",
@@ -2017,7 +2017,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1337",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bellegarde Sur Valserine"
+                "website": "https://boulangeries.marieblachere.com/Bellegarde%20Sur%20Valserine"
             },
             "geometry": {
                 "type": "Point",
@@ -2043,7 +2043,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1338",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Belleville Sur Saône"
+                "website": "https://boulangeries.marieblachere.com/Belleville%20Sur%20Saône"
             },
             "geometry": {
                 "type": "Point",
@@ -2246,7 +2246,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1342",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Beziers Zenobe Gramme"
+                "website": "https://boulangeries.marieblachere.com/Beziers%20Zenobe%20Gramme"
             },
             "geometry": {
                 "type": "Point",
@@ -2271,7 +2271,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1343",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Biarritz Bab"
+                "website": "https://boulangeries.marieblachere.com/Biarritz%20Bab"
             },
             "geometry": {
                 "type": "Point",
@@ -2297,7 +2297,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1344",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Biarritz Guy Petit"
+                "website": "https://boulangeries.marieblachere.com/Biarritz%20Guy%20Petit"
             },
             "geometry": {
                 "type": "Point",
@@ -2348,7 +2348,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1346",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Biganos Gustave Eiffel"
+                "website": "https://boulangeries.marieblachere.com/Biganos%20Gustave%20Eiffel"
             },
             "geometry": {
                 "type": "Point",
@@ -2452,7 +2452,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1350",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Blois 2"
+                "website": "https://boulangeries.marieblachere.com/Blois%202"
             },
             "geometry": {
                 "type": "Point",
@@ -2503,7 +2503,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1352",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bois Grenier"
+                "website": "https://boulangeries.marieblachere.com/Bois%20Grenier"
             },
             "geometry": {
                 "type": "Point",
@@ -2528,7 +2528,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1353",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Boissise Le Roi"
+                "website": "https://boulangeries.marieblachere.com/Boissise%20Le%20Roi"
             },
             "geometry": {
                 "type": "Point",
@@ -2578,7 +2578,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1355",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bonneuil Sur Marne (esso)"
+                "website": "https://boulangeries.marieblachere.com/Bonneuil%20Sur%20Marne%20(esso)"
             },
             "geometry": {
                 "type": "Point",
@@ -2628,7 +2628,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1356",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bourbon Lancy"
+                "website": "https://boulangeries.marieblachere.com/Bourbon%20Lancy"
             },
             "geometry": {
                 "type": "Point",
@@ -2653,7 +2653,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1357",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bourg En Bresse"
+                "website": "https://boulangeries.marieblachere.com/Bourg%20En%20Bresse"
             },
             "geometry": {
                 "type": "Point",
@@ -2753,7 +2753,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1358",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bourgoin Jallieu"
+                "website": "https://boulangeries.marieblachere.com/Bourgoin%20Jallieu"
             },
             "geometry": {
                 "type": "Point",
@@ -2804,7 +2804,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1360",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bretigny Sur Orge"
+                "website": "https://boulangeries.marieblachere.com/Bretigny%20Sur%20Orge"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,7 +2855,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1362",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Brie Comte Robert"
+                "website": "https://boulangeries.marieblachere.com/Brie%20Comte%20Robert"
             },
             "geometry": {
                 "type": "Point",
@@ -2933,7 +2933,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1365",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Brive La Gaillarde"
+                "website": "https://boulangeries.marieblachere.com/Brive%20La%20Gaillarde"
             },
             "geometry": {
                 "type": "Point",
@@ -2985,7 +2985,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1366",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Brives Charensac"
+                "website": "https://boulangeries.marieblachere.com/Brives%20Charensac"
             },
             "geometry": {
                 "type": "Point",
@@ -3036,7 +3036,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1367",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Bruay La Buissiere"
+                "website": "https://boulangeries.marieblachere.com/Bruay%20La%20Buissiere"
             },
             "geometry": {
                 "type": "Point",
@@ -3187,7 +3187,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1373",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Cannet Des Maures"
+                "website": "https://boulangeries.marieblachere.com/Cannet%20Des%20Maures"
             },
             "geometry": {
                 "type": "Point",
@@ -3237,7 +3237,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1375",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Carbon Blanc"
+                "website": "https://boulangeries.marieblachere.com/Carbon%20Blanc"
             },
             "geometry": {
                 "type": "Point",
@@ -3289,7 +3289,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1377",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Carcassonne Denis Papin"
+                "website": "https://boulangeries.marieblachere.com/Carcassonne%20Denis%20Papin"
             },
             "geometry": {
                 "type": "Point",
@@ -3314,7 +3314,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1378",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Carcassonne Europe"
+                "website": "https://boulangeries.marieblachere.com/Carcassonne%20Europe"
             },
             "geometry": {
                 "type": "Point",
@@ -3339,7 +3339,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1379",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Carcassonne Henri Bouffet"
+                "website": "https://boulangeries.marieblachere.com/Carcassonne%20Henri%20Bouffet"
             },
             "geometry": {
                 "type": "Point",
@@ -3416,7 +3416,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1381",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Carpentras Jean Henri Fabre"
+                "website": "https://boulangeries.marieblachere.com/Carpentras%20Jean%20Henri%20Fabre"
             },
             "geometry": {
                 "type": "Point",
@@ -3701,7 +3701,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1387",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Cavaillon Merimee"
+                "website": "https://boulangeries.marieblachere.com/Cavaillon%20Merimee"
             },
             "geometry": {
                 "type": "Point",
@@ -3803,7 +3803,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1391",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Cesson Sevigne"
+                "website": "https://boulangeries.marieblachere.com/Cesson%20Sevigne"
             },
             "geometry": {
                 "type": "Point",
@@ -3853,7 +3853,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1393",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chalon Sur Saône Edouard Herriot"
+                "website": "https://boulangeries.marieblachere.com/Chalon%20Sur%20Saône%20Edouard%20Herriot"
             },
             "geometry": {
                 "type": "Point",
@@ -3879,7 +3879,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1394",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chalon Sur Saône Rene Cassin"
+                "website": "https://boulangeries.marieblachere.com/Chalon%20Sur%20Saône%20Rene%20Cassin"
             },
             "geometry": {
                 "type": "Point",
@@ -3931,7 +3931,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1395",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chambery Landiers"
+                "website": "https://boulangeries.marieblachere.com/Chambery%20Landiers"
             },
             "geometry": {
                 "type": "Point",
@@ -3982,7 +3982,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1397",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chambray Les Tours"
+                "website": "https://boulangeries.marieblachere.com/Chambray%20Les%20Tours"
             },
             "geometry": {
                 "type": "Point",
@@ -4159,7 +4159,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1404",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chasse Sud"
+                "website": "https://boulangeries.marieblachere.com/Chasse%20Sud"
             },
             "geometry": {
                 "type": "Point",
@@ -4185,7 +4185,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1405",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chasse Sur Rhône"
+                "website": "https://boulangeries.marieblachere.com/Chasse%20Sur%20Rhône"
             },
             "geometry": {
                 "type": "Point",
@@ -4210,7 +4210,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1406",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chasseneuil Du Poitou"
+                "website": "https://boulangeries.marieblachere.com/Chasseneuil%20Du%20Poitou"
             },
             "geometry": {
                 "type": "Point",
@@ -4235,7 +4235,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1407",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chateau Gontier"
+                "website": "https://boulangeries.marieblachere.com/Chateau%20Gontier"
             },
             "geometry": {
                 "type": "Point",
@@ -4261,7 +4261,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1408",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chateau Thierry"
+                "website": "https://boulangeries.marieblachere.com/Chateau%20Thierry"
             },
             "geometry": {
                 "type": "Point",
@@ -4336,7 +4336,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1410",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chateaubernard 2"
+                "website": "https://boulangeries.marieblachere.com/Chateaubernard%202"
             },
             "geometry": {
                 "type": "Point",
@@ -4387,7 +4387,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1412",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chateauneuf Les Martigues"
+                "website": "https://boulangeries.marieblachere.com/Chateauneuf%20Les%20Martigues"
             },
             "geometry": {
                 "type": "Point",
@@ -4437,7 +4437,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1414",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chatenoy Le Royal"
+                "website": "https://boulangeries.marieblachere.com/Chatenoy%20Le%20Royal"
             },
             "geometry": {
                 "type": "Point",
@@ -4488,7 +4488,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1415",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chaumont Moulin Neuf"
+                "website": "https://boulangeries.marieblachere.com/Chaumont%20Moulin%20Neuf"
             },
             "geometry": {
                 "type": "Point",
@@ -4514,7 +4514,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1416",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chaumont Republique"
+                "website": "https://boulangeries.marieblachere.com/Chaumont%20Republique"
             },
             "geometry": {
                 "type": "Point",
@@ -4564,7 +4564,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1418",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chemille En Anjou"
+                "website": "https://boulangeries.marieblachere.com/Chemille%20En%20Anjou"
             },
             "geometry": {
                 "type": "Point",
@@ -4641,7 +4641,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1421",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Chilly Mazarin"
+                "website": "https://boulangeries.marieblachere.com/Chilly%20Mazarin"
             },
             "geometry": {
                 "type": "Point",
@@ -4691,7 +4691,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1423",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Choisey Fourney"
+                "website": "https://boulangeries.marieblachere.com/Choisey%20Fourney"
             },
             "geometry": {
                 "type": "Point",
@@ -4717,7 +4717,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1424",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Choisey Guyonnes"
+                "website": "https://boulangeries.marieblachere.com/Choisey%20Guyonnes"
             },
             "geometry": {
                 "type": "Point",
@@ -4768,7 +4768,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1426",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Claye Souilly Les Masures"
+                "website": "https://boulangeries.marieblachere.com/Claye%20Souilly%20Les%20Masures"
             },
             "geometry": {
                 "type": "Point",
@@ -4793,7 +4793,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1427",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Claye Souilly Les Sablons"
+                "website": "https://boulangeries.marieblachere.com/Claye%20Souilly%20Les%20Sablons"
             },
             "geometry": {
                 "type": "Point",
@@ -4819,7 +4819,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1428",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Clermont Ferrand Etienne Clementel"
+                "website": "https://boulangeries.marieblachere.com/Clermont%20Ferrand%20Etienne%20Clementel"
             },
             "geometry": {
                 "type": "Point",
@@ -4844,7 +4844,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1429",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Clermont Ferrand Saint-jean"
+                "website": "https://boulangeries.marieblachere.com/Clermont%20Ferrand%20Saint-jean"
             },
             "geometry": {
                 "type": "Point",
@@ -4869,7 +4869,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1430",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Clermont Ferrand Schumann"
+                "website": "https://boulangeries.marieblachere.com/Clermont%20Ferrand%20Schumann"
             },
             "geometry": {
                 "type": "Point",
@@ -4894,7 +4894,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1431",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Clermont L"
+                "website": "https://boulangeries.marieblachere.com/Clermont%20L"
             },
             "geometry": {
                 "type": "Point",
@@ -5023,7 +5023,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1435",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Colmar Schwoerer"
+                "website": "https://boulangeries.marieblachere.com/Colmar%20Schwoerer"
             },
             "geometry": {
                 "type": "Point",
@@ -5125,7 +5125,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1439",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Conde Sur Sarthe"
+                "website": "https://boulangeries.marieblachere.com/Conde%20Sur%20Sarthe"
             },
             "geometry": {
                 "type": "Point",
@@ -5200,7 +5200,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1442",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Corbeil Essonnes"
+                "website": "https://boulangeries.marieblachere.com/Corbeil%20Essonnes"
             },
             "geometry": {
                 "type": "Point",
@@ -5225,7 +5225,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1965",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Cormeilles en Parisis"
+                "website": "https://boulangeries.marieblachere.com/Cormeilles%20en%20Parisis"
             },
             "geometry": {
                 "type": "Point",
@@ -5351,7 +5351,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1445",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Coudekerque 2"
+                "website": "https://boulangeries.marieblachere.com/Coudekerque%202"
             },
             "geometry": {
                 "type": "Point",
@@ -5376,7 +5376,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1446",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Coudekerque Branche"
+                "website": "https://boulangeries.marieblachere.com/Coudekerque%20Branche"
             },
             "geometry": {
                 "type": "Point",
@@ -5402,7 +5402,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1447",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Coulommiers Boulevard De La Marne"
+                "website": "https://boulangeries.marieblachere.com/Coulommiers%20Boulevard%20De%20La%20Marne"
             },
             "geometry": {
                 "type": "Point",
@@ -5427,7 +5427,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1448",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Coulommiers Rue Du Grand Morin"
+                "website": "https://boulangeries.marieblachere.com/Coulommiers%20Rue%20Du%20Grand%20Morin"
             },
             "geometry": {
                 "type": "Point",
@@ -5504,7 +5504,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1451",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Crêches Sur Saône"
+                "website": "https://boulangeries.marieblachere.com/Crêches%20Sur%20Saône"
             },
             "geometry": {
                 "type": "Point",
@@ -5581,7 +5581,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1454",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Croissy Beaubourg"
+                "website": "https://boulangeries.marieblachere.com/Croissy%20Beaubourg"
             },
             "geometry": {
                 "type": "Point",
@@ -5659,7 +5659,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1457",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Dammarie Les Lys"
+                "website": "https://boulangeries.marieblachere.com/Dammarie%20Les%20Lys"
             },
             "geometry": {
                 "type": "Point",
@@ -5684,7 +5684,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1458",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Danjoutin Pasteur"
+                "website": "https://boulangeries.marieblachere.com/Danjoutin%20Pasteur"
             },
             "geometry": {
                 "type": "Point",
@@ -5710,7 +5710,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1459",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Danjoutin Republique"
+                "website": "https://boulangeries.marieblachere.com/Danjoutin%20Republique"
             },
             "geometry": {
                 "type": "Point",
@@ -5735,7 +5735,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1460",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Davezieux Lieudit Le Mas O"
+                "website": "https://boulangeries.marieblachere.com/Davezieux%20Lieudit%20Le%20Mas%20O"
             },
             "geometry": {
                 "type": "Point",
@@ -5761,7 +5761,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1461",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Davezieux Route Du Forez"
+                "website": "https://boulangeries.marieblachere.com/Davezieux%20Route%20Du%20Forez"
             },
             "geometry": {
                 "type": "Point",
@@ -5787,7 +5787,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1462",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Decines Charpieu"
+                "website": "https://boulangeries.marieblachere.com/Decines%20Charpieu"
             },
             "geometry": {
                 "type": "Point",
@@ -5838,7 +5838,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1464",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Digne Les Bains"
+                "website": "https://boulangeries.marieblachere.com/Digne%20Les%20Bains"
             },
             "geometry": {
                 "type": "Point",
@@ -5989,7 +5989,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1469",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Dommartin Les Toul"
+                "website": "https://boulangeries.marieblachere.com/Dommartin%20Les%20Toul"
             },
             "geometry": {
                 "type": "Point",
@@ -6143,7 +6143,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1473",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Drumettaz Clarafond"
+                "website": "https://boulangeries.marieblachere.com/Drumettaz%20Clarafond"
             },
             "geometry": {
                 "type": "Point",
@@ -6169,7 +6169,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1474",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Drumettaz Clarafond 2"
+                "website": "https://boulangeries.marieblachere.com/Drumettaz%20Clarafond%202"
             },
             "geometry": {
                 "type": "Point",
@@ -6272,7 +6272,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1477",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ecole Valentin"
+                "website": "https://boulangeries.marieblachere.com/Ecole%20Valentin"
             },
             "geometry": {
                 "type": "Point",
@@ -6323,7 +6323,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1478",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Eleu Dit Leauwette"
+                "website": "https://boulangeries.marieblachere.com/Eleu%20Dit%20Leauwette"
             },
             "geometry": {
                 "type": "Point",
@@ -6552,7 +6552,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1484",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Essey Les Nancy"
+                "website": "https://boulangeries.marieblachere.com/Essey%20Les%20Nancy"
             },
             "geometry": {
                 "type": "Point",
@@ -6755,7 +6755,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1489",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ferney Voltaire"
+                "website": "https://boulangeries.marieblachere.com/Ferney%20Voltaire"
             },
             "geometry": {
                 "type": "Point",
@@ -6908,7 +6908,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1493",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Fleury Les Aubrais"
+                "website": "https://boulangeries.marieblachere.com/Fleury%20Les%20Aubrais"
             },
             "geometry": {
                 "type": "Point",
@@ -7010,7 +7010,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1496",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Fos Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/Fos%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -7086,7 +7086,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1498",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Frejus Agachon"
+                "website": "https://boulangeries.marieblachere.com/Frejus%20Agachon"
             },
             "geometry": {
                 "type": "Point",
@@ -7188,7 +7188,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1502",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Frontignan La Peyrade"
+                "website": "https://boulangeries.marieblachere.com/Frontignan%20La%20Peyrade"
             },
             "geometry": {
                 "type": "Point",
@@ -7214,7 +7214,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1503",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Frouard Rue De La Vallee"
+                "website": "https://boulangeries.marieblachere.com/Frouard%20Rue%20De%20La%20Vallee"
             },
             "geometry": {
                 "type": "Point",
@@ -7240,7 +7240,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1504",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Frouard Rue Du Bois"
+                "website": "https://boulangeries.marieblachere.com/Frouard%20Rue%20Du%20Bois"
             },
             "geometry": {
                 "type": "Point",
@@ -7343,7 +7343,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1508",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Gare De Facture Biganos"
+                "website": "https://boulangeries.marieblachere.com/Gare%20De%20Facture%20Biganos"
             },
             "geometry": {
                 "type": "Point",
@@ -7394,7 +7394,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1510",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Garonne Muret"
+                "website": "https://boulangeries.marieblachere.com/Garonne%20Muret"
             },
             "geometry": {
                 "type": "Point",
@@ -7495,7 +7495,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1514",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Gignac La Nerthe Ed"
+                "website": "https://boulangeries.marieblachere.com/Gignac%20La%20Nerthe%20Ed"
             },
             "geometry": {
                 "type": "Point",
@@ -7520,7 +7520,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1515",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Gignac La Nerthe François Mitterand"
+                "website": "https://boulangeries.marieblachere.com/Gignac%20La%20Nerthe%20François%20Mitterand"
             },
             "geometry": {
                 "type": "Point",
@@ -7621,7 +7621,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1518",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Gourdan Polignan"
+                "website": "https://boulangeries.marieblachere.com/Gourdan%20Polignan"
             },
             "geometry": {
                 "type": "Point",
@@ -7646,7 +7646,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1519",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Goussainville Avenue Jacques Anquetil"
+                "website": "https://boulangeries.marieblachere.com/Goussainville%20Avenue%20Jacques%20Anquetil"
             },
             "geometry": {
                 "type": "Point",
@@ -7671,7 +7671,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1520",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Goussainville Rue Leonard De Vinci"
+                "website": "https://boulangeries.marieblachere.com/Goussainville%20Rue%20Leonard%20De%20Vinci"
             },
             "geometry": {
                 "type": "Point",
@@ -7723,7 +7723,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1522",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Grand Quevilly"
+                "website": "https://boulangeries.marieblachere.com/Grand%20Quevilly"
             },
             "geometry": {
                 "type": "Point",
@@ -7748,7 +7748,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1523",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Grande Synthe"
+                "website": "https://boulangeries.marieblachere.com/Grande%20Synthe"
             },
             "geometry": {
                 "type": "Point",
@@ -7849,7 +7849,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1526",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Gresy Sur Aix"
+                "website": "https://boulangeries.marieblachere.com/Gresy%20Sur%20Aix"
             },
             "geometry": {
                 "type": "Point",
@@ -7952,7 +7952,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1961",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Guilherand Granges"
+                "website": "https://boulangeries.marieblachere.com/Guilherand%20Granges"
             },
             "geometry": {
                 "type": "Point",
@@ -8004,7 +8004,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1530",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Hazebrouck 221-223 Notre Dame"
+                "website": "https://boulangeries.marieblachere.com/Hazebrouck%20221-223%20Notre%20Dame"
             },
             "geometry": {
                 "type": "Point",
@@ -8030,7 +8030,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1531",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Hazebrouck 294 Notre Dame"
+                "website": "https://boulangeries.marieblachere.com/Hazebrouck%20294%20Notre%20Dame"
             },
             "geometry": {
                 "type": "Point",
@@ -8081,7 +8081,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1532",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Henin Beaumont"
+                "website": "https://boulangeries.marieblachere.com/Henin%20Beaumont"
             },
             "geometry": {
                 "type": "Point",
@@ -8185,7 +8185,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1536",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Horbourg Wihr"
+                "website": "https://boulangeries.marieblachere.com/Horbourg%20Wihr"
             },
             "geometry": {
                 "type": "Point",
@@ -8263,7 +8263,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1539",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Isle Sur La Sorgue"
+                "website": "https://boulangeries.marieblachere.com/Isle%20Sur%20La%20Sorgue"
             },
             "geometry": {
                 "type": "Point",
@@ -8390,7 +8390,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1544",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Istres Saussaie"
+                "website": "https://boulangeries.marieblachere.com/Istres%20Saussaie"
             },
             "geometry": {
                 "type": "Point",
@@ -8567,7 +8567,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1549",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Chapelle Saint Aubin"
+                "website": "https://boulangeries.marieblachere.com/La%20Chapelle%20Saint%20Aubin"
             },
             "geometry": {
                 "type": "Point",
@@ -8592,7 +8592,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1550",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Chapelle Saint Luc"
+                "website": "https://boulangeries.marieblachere.com/La%20Chapelle%20Saint%20Luc"
             },
             "geometry": {
                 "type": "Point",
@@ -8617,7 +8617,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1551",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Ferte Bernard"
+                "website": "https://boulangeries.marieblachere.com/La%20Ferte%20Bernard"
             },
             "geometry": {
                 "type": "Point",
@@ -8642,7 +8642,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1552",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Ferte Mace"
+                "website": "https://boulangeries.marieblachere.com/La%20Ferte%20Mace"
             },
             "geometry": {
                 "type": "Point",
@@ -8667,7 +8667,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1553",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Garde"
+                "website": "https://boulangeries.marieblachere.com/La%20Garde"
             },
             "geometry": {
                 "type": "Point",
@@ -8693,7 +8693,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1554",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Neuve"
+                "website": "https://boulangeries.marieblachere.com/La%20Neuve"
             },
             "geometry": {
                 "type": "Point",
@@ -8718,7 +8718,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1555",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Reole"
+                "website": "https://boulangeries.marieblachere.com/La%20Reole"
             },
             "geometry": {
                 "type": "Point",
@@ -8743,7 +8743,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1556",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Richardais"
+                "website": "https://boulangeries.marieblachere.com/La%20Richardais"
             },
             "geometry": {
                 "type": "Point",
@@ -8793,7 +8793,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1557",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Seyne Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/La%20Seyne%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -8819,7 +8819,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1558",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/La Teste De Buch"
+                "website": "https://boulangeries.marieblachere.com/La%20Teste%20De%20Buch"
             },
             "geometry": {
                 "type": "Point",
@@ -8921,7 +8921,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1561",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lagny Le Sec"
+                "website": "https://boulangeries.marieblachere.com/Lagny%20Le%20Sec"
             },
             "geometry": {
                 "type": "Point",
@@ -8968,7 +8968,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1562",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lambres Lez Douai"
+                "website": "https://boulangeries.marieblachere.com/Lambres%20Lez%20Douai"
             },
             "geometry": {
                 "type": "Point",
@@ -8993,7 +8993,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1563",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lançon De Provence"
+                "website": "https://boulangeries.marieblachere.com/Lançon%20De%20Provence"
             },
             "geometry": {
                 "type": "Point",
@@ -9095,7 +9095,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1567",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laragne Moneglin"
+                "website": "https://boulangeries.marieblachere.com/Laragne%20Moneglin"
             },
             "geometry": {
                 "type": "Point",
@@ -9172,7 +9172,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1569",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laval Allee De La Chartrie"
+                "website": "https://boulangeries.marieblachere.com/Laval%20Allee%20De%20La%20Chartrie"
             },
             "geometry": {
                 "type": "Point",
@@ -9198,7 +9198,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1570",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laval Avenue De Tours"
+                "website": "https://boulangeries.marieblachere.com/Laval%20Avenue%20De%20Tours"
             },
             "geometry": {
                 "type": "Point",
@@ -9224,7 +9224,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1571",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laval Rue De Bretagne"
+                "website": "https://boulangeries.marieblachere.com/Laval%20Rue%20De%20Bretagne"
             },
             "geometry": {
                 "type": "Point",
@@ -9274,7 +9274,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1572",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laxou Av Des Boufflers"
+                "website": "https://boulangeries.marieblachere.com/Laxou%20Av%20Des%20Boufflers"
             },
             "geometry": {
                 "type": "Point",
@@ -9299,7 +9299,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1573",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Laxou Rue De La Sapiniere"
+                "website": "https://boulangeries.marieblachere.com/Laxou%20Rue%20De%20La%20Sapiniere"
             },
             "geometry": {
                 "type": "Point",
@@ -9324,7 +9324,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1574",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Boulou"
+                "website": "https://boulangeries.marieblachere.com/Le%20Boulou"
             },
             "geometry": {
                 "type": "Point",
@@ -9349,7 +9349,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1575",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Cannet"
+                "website": "https://boulangeries.marieblachere.com/Le%20Cannet"
             },
             "geometry": {
                 "type": "Point",
@@ -9399,7 +9399,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1577",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Grand Quevilly"
+                "website": "https://boulangeries.marieblachere.com/Le%20Grand%20Quevilly"
             },
             "geometry": {
                 "type": "Point",
@@ -9451,7 +9451,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1578",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Mans"
+                "website": "https://boulangeries.marieblachere.com/Le%20Mans"
             },
             "geometry": {
                 "type": "Point",
@@ -9477,7 +9477,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1579",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Mans Fresnay"
+                "website": "https://boulangeries.marieblachere.com/Le%20Mans%20Fresnay"
             },
             "geometry": {
                 "type": "Point",
@@ -9528,7 +9528,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1580",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Pian Medoc"
+                "website": "https://boulangeries.marieblachere.com/Le%20Pian%20Medoc"
             },
             "geometry": {
                 "type": "Point",
@@ -9554,7 +9554,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1581",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Poinconnet"
+                "website": "https://boulangeries.marieblachere.com/Le%20Poinconnet"
             },
             "geometry": {
                 "type": "Point",
@@ -9579,7 +9579,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1582",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Pont De Beauvoisin"
+                "website": "https://boulangeries.marieblachere.com/Le%20Pont%20De%20Beauvoisin"
             },
             "geometry": {
                 "type": "Point",
@@ -9604,7 +9604,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1583",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Pontet"
+                "website": "https://boulangeries.marieblachere.com/Le%20Pontet"
             },
             "geometry": {
                 "type": "Point",
@@ -9629,7 +9629,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1584",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Sequestre"
+                "website": "https://boulangeries.marieblachere.com/Le%20Sequestre"
             },
             "geometry": {
                 "type": "Point",
@@ -9654,7 +9654,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1585",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Siala Bas"
+                "website": "https://boulangeries.marieblachere.com/Le%20Siala%20Bas"
             },
             "geometry": {
                 "type": "Point",
@@ -9679,7 +9679,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1586",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Teil"
+                "website": "https://boulangeries.marieblachere.com/Le%20Teil"
             },
             "geometry": {
                 "type": "Point",
@@ -9705,7 +9705,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1587",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Vieil Evreux"
+                "website": "https://boulangeries.marieblachere.com/Le%20Vieil%20Evreux"
             },
             "geometry": {
                 "type": "Point",
@@ -9730,7 +9730,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1588",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Le Vigen"
+                "website": "https://boulangeries.marieblachere.com/Le%20Vigen"
             },
             "geometry": {
                 "type": "Point",
@@ -9807,7 +9807,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1590",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Les Angles"
+                "website": "https://boulangeries.marieblachere.com/Les%20Angles"
             },
             "geometry": {
                 "type": "Point",
@@ -9832,7 +9832,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1591",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Les Clayes Sous Bois"
+                "website": "https://boulangeries.marieblachere.com/Les%20Clayes%20Sous%20Bois"
             },
             "geometry": {
                 "type": "Point",
@@ -9857,7 +9857,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1592",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Les Pennes Mirabeau"
+                "website": "https://boulangeries.marieblachere.com/Les%20Pennes%20Mirabeau"
             },
             "geometry": {
                 "type": "Point",
@@ -9882,7 +9882,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1593",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Les Portes De Montauban"
+                "website": "https://boulangeries.marieblachere.com/Les%20Portes%20De%20Montauban"
             },
             "geometry": {
                 "type": "Point",
@@ -9933,7 +9933,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1595",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lescure D"
+                "website": "https://boulangeries.marieblachere.com/Lescure%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -9959,7 +9959,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1596",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lesparre Medoc"
+                "website": "https://boulangeries.marieblachere.com/Lesparre%20Medoc"
             },
             "geometry": {
                 "type": "Point",
@@ -10010,7 +10010,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1598",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Lezignan Corbieres"
+                "website": "https://boulangeries.marieblachere.com/Lezignan%20Corbieres"
             },
             "geometry": {
                 "type": "Point",
@@ -10265,7 +10265,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1605",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Livron Sur Drôme"
+                "website": "https://boulangeries.marieblachere.com/Livron%20Sur%20Drôme"
             },
             "geometry": {
                 "type": "Point",
@@ -10291,7 +10291,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1606",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Livry Gargan"
+                "website": "https://boulangeries.marieblachere.com/Livry%20Gargan"
             },
             "geometry": {
                 "type": "Point",
@@ -10343,7 +10343,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1608",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Loison Sous Lens"
+                "website": "https://boulangeries.marieblachere.com/Loison%20Sous%20Lens"
             },
             "geometry": {
                 "type": "Point",
@@ -10368,7 +10368,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1609",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Longpont Sur Orge"
+                "website": "https://boulangeries.marieblachere.com/Longpont%20Sur%20Orge"
             },
             "geometry": {
                 "type": "Point",
@@ -10722,7 +10722,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1617",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Mably 2"
+                "website": "https://boulangeries.marieblachere.com/Mably%202"
             },
             "geometry": {
                 "type": "Point",
@@ -10798,7 +10798,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1620",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Malemort Sur Correze"
+                "website": "https://boulangeries.marieblachere.com/Malemort%20Sur%20Correze"
             },
             "geometry": {
                 "type": "Point",
@@ -10824,7 +10824,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1621",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Mantes La Ville"
+                "website": "https://boulangeries.marieblachere.com/Mantes%20La%20Ville"
             },
             "geometry": {
                 "type": "Point",
@@ -11001,7 +11001,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1625",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Marsannay La Côte"
+                "website": "https://boulangeries.marieblachere.com/Marsannay%20La%20Côte"
             },
             "geometry": {
                 "type": "Point",
@@ -11027,7 +11027,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1626",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Marseille 11"
+                "website": "https://boulangeries.marieblachere.com/Marseille%2011"
             },
             "geometry": {
                 "type": "Point",
@@ -11052,7 +11052,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1627",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Marseille 12"
+                "website": "https://boulangeries.marieblachere.com/Marseille%2012"
             },
             "geometry": {
                 "type": "Point",
@@ -11078,7 +11078,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1628",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Marseille 13"
+                "website": "https://boulangeries.marieblachere.com/Marseille%2013"
             },
             "geometry": {
                 "type": "Point",
@@ -11104,7 +11104,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1629",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Maubeuge Jaures"
+                "website": "https://boulangeries.marieblachere.com/Maubeuge%20Jaures"
             },
             "geometry": {
                 "type": "Point",
@@ -11129,7 +11129,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1630",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Maubeuge L"
+                "website": "https://boulangeries.marieblachere.com/Maubeuge%20L"
             },
             "geometry": {
                 "type": "Point",
@@ -11385,7 +11385,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1638",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Mers Les Bains"
+                "website": "https://boulangeries.marieblachere.com/Mers%20Les%20Bains"
             },
             "geometry": {
                 "type": "Point",
@@ -11461,7 +11461,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1640",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Metz Borny"
+                "website": "https://boulangeries.marieblachere.com/Metz%20Borny"
             },
             "geometry": {
                 "type": "Point",
@@ -11590,7 +11590,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1644",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Millau Capelle Guibert"
+                "website": "https://boulangeries.marieblachere.com/Millau%20Capelle%20Guibert"
             },
             "geometry": {
                 "type": "Point",
@@ -11615,7 +11615,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1645",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Milly La Fôret"
+                "website": "https://boulangeries.marieblachere.com/Milly%20La%20Fôret"
             },
             "geometry": {
                 "type": "Point",
@@ -11818,7 +11818,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1653",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montauban Zac Albasud"
+                "website": "https://boulangeries.marieblachere.com/Montauban%20Zac%20Albasud"
             },
             "geometry": {
                 "type": "Point",
@@ -11843,7 +11843,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1654",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montauroux Plan Occidental"
+                "website": "https://boulangeries.marieblachere.com/Montauroux%20Plan%20Occidental"
             },
             "geometry": {
                 "type": "Point",
@@ -11895,7 +11895,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1656",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montceau Les Mines Chatillon"
+                "website": "https://boulangeries.marieblachere.com/Montceau%20Les%20Mines%20Chatillon"
             },
             "geometry": {
                 "type": "Point",
@@ -11921,7 +11921,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1657",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montceau Les Mines Jules Chagot"
+                "website": "https://boulangeries.marieblachere.com/Montceau%20Les%20Mines%20Jules%20Chagot"
             },
             "geometry": {
                 "type": "Point",
@@ -11973,7 +11973,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1659",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montelimar Les Blaches Du Couchant"
+                "website": "https://boulangeries.marieblachere.com/Montelimar%20Les%20Blaches%20Du%20Couchant"
             },
             "geometry": {
                 "type": "Point",
@@ -11998,7 +11998,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1660",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montelimar Route De Marseille"
+                "website": "https://boulangeries.marieblachere.com/Montelimar%20Route%20De%20Marseille"
             },
             "geometry": {
                 "type": "Point",
@@ -12050,7 +12050,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1662",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montigny Le Bretonneaux"
+                "website": "https://boulangeries.marieblachere.com/Montigny%20Le%20Bretonneaux"
             },
             "geometry": {
                 "type": "Point",
@@ -12076,7 +12076,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1663",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Montlouis Sur Loire"
+                "website": "https://boulangeries.marieblachere.com/Montlouis%20Sur%20Loire"
             },
             "geometry": {
                 "type": "Point",
@@ -12280,7 +12280,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1670",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Morieres Les Avignon"
+                "website": "https://boulangeries.marieblachere.com/Morieres%20Les%20Avignon"
             },
             "geometry": {
                 "type": "Point",
@@ -12356,7 +12356,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1673",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Moulin Les Metz"
+                "website": "https://boulangeries.marieblachere.com/Moulin%20Les%20Metz"
             },
             "geometry": {
                 "type": "Point",
@@ -12381,7 +12381,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1674",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Moulins Yzeure"
+                "website": "https://boulangeries.marieblachere.com/Moulins%20Yzeure"
             },
             "geometry": {
                 "type": "Point",
@@ -12533,7 +12533,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1678",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Neuves Maison"
+                "website": "https://boulangeries.marieblachere.com/Neuves%20Maison"
             },
             "geometry": {
                 "type": "Point",
@@ -12583,7 +12583,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1680",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Nevers Casino"
+                "website": "https://boulangeries.marieblachere.com/Nevers%20Casino"
             },
             "geometry": {
                 "type": "Point",
@@ -12635,7 +12635,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1682",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Nîmes Archipel"
+                "website": "https://boulangeries.marieblachere.com/Nîmes%20Archipel"
             },
             "geometry": {
                 "type": "Point",
@@ -12660,7 +12660,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1683",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Nîmes Kennedy"
+                "website": "https://boulangeries.marieblachere.com/Nîmes%20Kennedy"
             },
             "geometry": {
                 "type": "Point",
@@ -12685,7 +12685,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1684",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Nîmes Mas Des Abeilles"
+                "website": "https://boulangeries.marieblachere.com/Nîmes%20Mas%20Des%20Abeilles"
             },
             "geometry": {
                 "type": "Point",
@@ -12711,7 +12711,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1685",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Nîmes Route De Montpellier"
+                "website": "https://boulangeries.marieblachere.com/Nîmes%20Route%20De%20Montpellier"
             },
             "geometry": {
                 "type": "Point",
@@ -12840,7 +12840,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1690",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Oloron Sainte Marie"
+                "website": "https://boulangeries.marieblachere.com/Oloron%20Sainte%20Marie"
             },
             "geometry": {
                 "type": "Point",
@@ -12865,7 +12865,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1691",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Onet Le Chateau L"
+                "website": "https://boulangeries.marieblachere.com/Onet%20Le%20Chateau%20L"
             },
             "geometry": {
                 "type": "Point",
@@ -12890,7 +12890,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1692",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Onet Le Chateau Route D"
+                "website": "https://boulangeries.marieblachere.com/Onet%20Le%20Chateau%20Route%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -12942,7 +12942,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1694",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Orange Coudoulet"
+                "website": "https://boulangeries.marieblachere.com/Orange%20Coudoulet"
             },
             "geometry": {
                 "type": "Point",
@@ -13069,7 +13069,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1699",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Osny La Fosse"
+                "website": "https://boulangeries.marieblachere.com/Osny%20La%20Fosse"
             },
             "geometry": {
                 "type": "Point",
@@ -13095,7 +13095,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1700",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Oyonnax Forge"
+                "website": "https://boulangeries.marieblachere.com/Oyonnax%20Forge"
             },
             "geometry": {
                 "type": "Point",
@@ -13121,7 +13121,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1701",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Oyonnax Verdun"
+                "website": "https://boulangeries.marieblachere.com/Oyonnax%20Verdun"
             },
             "geometry": {
                 "type": "Point",
@@ -13146,7 +13146,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1702",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Paray Le Monial"
+                "website": "https://boulangeries.marieblachere.com/Paray%20Le%20Monial"
             },
             "geometry": {
                 "type": "Point",
@@ -13197,7 +13197,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1704",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pau Bizanos"
+                "website": "https://boulangeries.marieblachere.com/Pau%20Bizanos"
             },
             "geometry": {
                 "type": "Point",
@@ -13300,7 +13300,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1707",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pernes Les Fontaines"
+                "website": "https://boulangeries.marieblachere.com/Pernes%20Les%20Fontaines"
             },
             "geometry": {
                 "type": "Point",
@@ -13350,7 +13350,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1709",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Av D"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Av%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -13376,7 +13376,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1710",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Avenue Du Languedoc"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Avenue%20Du%20Languedoc"
             },
             "geometry": {
                 "type": "Point",
@@ -13401,7 +13401,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1711",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Chemin De Fauceille"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Chemin%20De%20Fauceille"
             },
             "geometry": {
                 "type": "Point",
@@ -13427,7 +13427,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1712",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Leon Serpolet"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Leon%20Serpolet"
             },
             "geometry": {
                 "type": "Point",
@@ -13452,7 +13452,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1713",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Marechal Juin"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Marechal%20Juin"
             },
             "geometry": {
                 "type": "Point",
@@ -13478,7 +13478,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1714",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Perpignan Prades"
+                "website": "https://boulangeries.marieblachere.com/Perpignan%20Prades"
             },
             "geometry": {
                 "type": "Point",
@@ -13631,7 +13631,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1719",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Petite Forêt"
+                "website": "https://boulangeries.marieblachere.com/Petite%20Forêt"
             },
             "geometry": {
                 "type": "Point",
@@ -13682,7 +13682,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1721",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pierre Benite"
+                "website": "https://boulangeries.marieblachere.com/Pierre%20Benite"
             },
             "geometry": {
                 "type": "Point",
@@ -13779,7 +13779,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1725",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Plaisance Du Touch"
+                "website": "https://boulangeries.marieblachere.com/Plaisance%20Du%20Touch"
             },
             "geometry": {
                 "type": "Point",
@@ -13804,7 +13804,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1726",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Plan D"
+                "website": "https://boulangeries.marieblachere.com/Plan%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -13854,7 +13854,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1728",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pont Saint Esprit"
+                "website": "https://boulangeries.marieblachere.com/Pont%20Saint%20Esprit"
             },
             "geometry": {
                 "type": "Point",
@@ -13880,7 +13880,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1729",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pont Sainte Marie"
+                "website": "https://boulangeries.marieblachere.com/Pont%20Sainte%20Marie"
             },
             "geometry": {
                 "type": "Point",
@@ -13905,7 +13905,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1730",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Pontarlier Casino"
+                "website": "https://boulangeries.marieblachere.com/Pontarlier%20Casino"
             },
             "geometry": {
                 "type": "Point",
@@ -14059,7 +14059,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1733",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Port De Bouc"
+                "website": "https://boulangeries.marieblachere.com/Port%20De%20Bouc"
             },
             "geometry": {
                 "type": "Point",
@@ -14084,7 +14084,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1734",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Porte Les Valences"
+                "website": "https://boulangeries.marieblachere.com/Porte%20Les%20Valences"
             },
             "geometry": {
                 "type": "Point",
@@ -14110,7 +14110,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1735",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Portet Sur Garonne"
+                "website": "https://boulangeries.marieblachere.com/Portet%20Sur%20Garonne"
             },
             "geometry": {
                 "type": "Point",
@@ -14212,7 +14212,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1739",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Puget Sur Argens"
+                "website": "https://boulangeries.marieblachere.com/Puget%20Sur%20Argens"
             },
             "geometry": {
                 "type": "Point",
@@ -14340,7 +14340,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1743",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Quimper Jules Verne"
+                "website": "https://boulangeries.marieblachere.com/Quimper%20Jules%20Verne"
             },
             "geometry": {
                 "type": "Point",
@@ -14546,7 +14546,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1748",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ria Sirach"
+                "website": "https://boulangeries.marieblachere.com/Ria%20Sirach"
             },
             "geometry": {
                 "type": "Point",
@@ -14572,7 +14572,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1749",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Riorges Gallieni"
+                "website": "https://boulangeries.marieblachere.com/Riorges%20Gallieni"
             },
             "geometry": {
                 "type": "Point",
@@ -14648,7 +14648,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1752",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Rochefort Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/Rochefort%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -14726,7 +14726,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1754",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Romilly Sur Seine"
+                "website": "https://boulangeries.marieblachere.com/Romilly%20Sur%20Seine"
             },
             "geometry": {
                 "type": "Point",
@@ -14803,7 +14803,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1757",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Rouen 2"
+                "website": "https://boulangeries.marieblachere.com/Rouen%202"
             },
             "geometry": {
                 "type": "Point",
@@ -14828,7 +14828,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1758",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Rouffiac Tolosan"
+                "website": "https://boulangeries.marieblachere.com/Rouffiac%20Tolosan"
             },
             "geometry": {
                 "type": "Point",
@@ -14854,7 +14854,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1759",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Ruaudin Les Hunaudieres"
+                "website": "https://boulangeries.marieblachere.com/Ruaudin%20Les%20Hunaudieres"
             },
             "geometry": {
                 "type": "Point",
@@ -14906,7 +14906,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1761",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sable Sur Sarthe"
+                "website": "https://boulangeries.marieblachere.com/Sable%20Sur%20Sarthe"
             },
             "geometry": {
                 "type": "Point",
@@ -14931,7 +14931,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1762",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Agathon"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Agathon"
             },
             "geometry": {
                 "type": "Point",
@@ -14957,7 +14957,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1763",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Alban Garonne"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Alban%20Garonne"
             },
             "geometry": {
                 "type": "Point",
@@ -14983,7 +14983,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1764",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Alban Leysse"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Alban%20Leysse"
             },
             "geometry": {
                 "type": "Point",
@@ -15035,7 +15035,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1765",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Andre De Cubzac"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Andre%20De%20Cubzac"
             },
             "geometry": {
                 "type": "Point",
@@ -15060,7 +15060,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1766",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Andre Les Vergers"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Andre%20Les%20Vergers"
             },
             "geometry": {
                 "type": "Point",
@@ -15085,7 +15085,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1767",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Andre Lez Lille"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Andre%20Lez%20Lille"
             },
             "geometry": {
                 "type": "Point",
@@ -15110,7 +15110,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1768",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Aygulf"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Aygulf"
             },
             "geometry": {
                 "type": "Point",
@@ -15135,7 +15135,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1769",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Benoît"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Benoît"
             },
             "geometry": {
                 "type": "Point",
@@ -15161,7 +15161,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1770",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Bonnet De Mure"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Bonnet%20De%20Mure"
             },
             "geometry": {
                 "type": "Point",
@@ -15187,7 +15187,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1771",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Brieuc"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Brieuc"
             },
             "geometry": {
                 "type": "Point",
@@ -15212,7 +15212,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1772",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Chamond"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Chamond"
             },
             "geometry": {
                 "type": "Point",
@@ -15237,7 +15237,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1773",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Chamond Varizelle"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Chamond%20Varizelle"
             },
             "geometry": {
                 "type": "Point",
@@ -15263,7 +15263,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1774",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Christol Les Ales"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Christol%20Les%20Ales"
             },
             "geometry": {
                 "type": "Point",
@@ -15289,7 +15289,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1775",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Cyr Sur Loire"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Cyr%20Sur%20Loire"
             },
             "geometry": {
                 "type": "Point",
@@ -15315,7 +15315,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1776",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Denis Les Sens"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Denis%20Les%20Sens"
             },
             "geometry": {
                 "type": "Point",
@@ -15341,7 +15341,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1777",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Die Des Vosges"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Die%20Des%20Vosges"
             },
             "geometry": {
                 "type": "Point",
@@ -15366,7 +15366,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1778",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Dizier"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Dizier"
             },
             "geometry": {
                 "type": "Point",
@@ -15391,7 +15391,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1779",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Doulchard"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Doulchard"
             },
             "geometry": {
                 "type": "Point",
@@ -15416,7 +15416,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1780",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Egreve"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Egreve"
             },
             "geometry": {
                 "type": "Point",
@@ -15442,7 +15442,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1781",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Esteve"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Esteve"
             },
             "geometry": {
                 "type": "Point",
@@ -15467,7 +15467,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1782",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Etienne De Fontbellon"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Etienne%20De%20Fontbellon"
             },
             "geometry": {
                 "type": "Point",
@@ -15492,7 +15492,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1783",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Etienne La Marandiniere"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Etienne%20La%20Marandiniere"
             },
             "geometry": {
                 "type": "Point",
@@ -15517,7 +15517,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1784",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Eulalie"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Eulalie"
             },
             "geometry": {
                 "type": "Point",
@@ -15543,7 +15543,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1785",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Fargeau Ponthierry"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Fargeau%20Ponthierry"
             },
             "geometry": {
                 "type": "Point",
@@ -15568,7 +15568,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1786",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Flour"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Flour"
             },
             "geometry": {
                 "type": "Point",
@@ -15594,7 +15594,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1787",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Gely Du Fesc"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Gely%20Du%20Fesc"
             },
             "geometry": {
                 "type": "Point",
@@ -15619,7 +15619,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1788",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Germain Du Puy"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Germain%20Du%20Puy"
             },
             "geometry": {
                 "type": "Point",
@@ -15644,7 +15644,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1789",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Gervais La Fôret"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Gervais%20La%20Fôret"
             },
             "geometry": {
                 "type": "Point",
@@ -15669,7 +15669,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1790",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Gregoire"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Gregoire"
             },
             "geometry": {
                 "type": "Point",
@@ -15695,7 +15695,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1791",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Herblain"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Herblain"
             },
             "geometry": {
                 "type": "Point",
@@ -15721,7 +15721,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1792",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Hilaire Petitville"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Hilaire%20Petitville"
             },
             "geometry": {
                 "type": "Point",
@@ -15747,7 +15747,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1793",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean"
             },
             "geometry": {
                 "type": "Point",
@@ -15773,7 +15773,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1794",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean D"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -15798,7 +15798,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1795",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean De Maurienne"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20De%20Maurienne"
             },
             "geometry": {
                 "type": "Point",
@@ -15823,7 +15823,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1796",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean De Soudain"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20De%20Soudain"
             },
             "geometry": {
                 "type": "Point",
@@ -15849,7 +15849,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1797",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean De Vedas Condamine"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20De%20Vedas%20Condamine"
             },
             "geometry": {
                 "type": "Point",
@@ -15875,7 +15875,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1798",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean De Vedas Le Rieucoulon"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20De%20Vedas%20Le%20Rieucoulon"
             },
             "geometry": {
                 "type": "Point",
@@ -15901,7 +15901,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1799",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jean Du Falga"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jean%20Du%20Falga"
             },
             "geometry": {
                 "type": "Point",
@@ -15927,7 +15927,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1800",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Jeoire Prieure"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Jeoire%20Prieure"
             },
             "geometry": {
                 "type": "Point",
@@ -15953,7 +15953,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1801",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Julien En Genevois"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Julien%20En%20Genevois"
             },
             "geometry": {
                 "type": "Point",
@@ -15978,7 +15978,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1802",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Junien"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Junien"
             },
             "geometry": {
                 "type": "Point",
@@ -16003,7 +16003,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1803",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Laurent De La Salanque"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Laurent%20De%20La%20Salanque"
             },
             "geometry": {
                 "type": "Point",
@@ -16055,7 +16055,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1804",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Louis"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Louis"
             },
             "geometry": {
                 "type": "Point",
@@ -16080,7 +16080,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1805",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Malo"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Malo"
             },
             "geometry": {
                 "type": "Point",
@@ -16105,7 +16105,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1806",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Marcel Les Valence"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Marcel%20Les%20Valence"
             },
             "geometry": {
                 "type": "Point",
@@ -16131,7 +16131,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1807",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Martin De Crau"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Martin%20De%20Crau"
             },
             "geometry": {
                 "type": "Point",
@@ -16183,7 +16183,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1808",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Martin Lacaussade"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Martin%20Lacaussade"
             },
             "geometry": {
                 "type": "Point",
@@ -16209,7 +16209,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1809",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Maximin (oise)"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Maximin%20(oise)"
             },
             "geometry": {
                 "type": "Point",
@@ -16235,7 +16235,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1810",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Maximin La Sainte Beaume"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Maximin%20La%20Sainte%20Beaume"
             },
             "geometry": {
                 "type": "Point",
@@ -16260,7 +16260,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1811",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Mitre Les Remparts"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Mitre%20Les%20Remparts"
             },
             "geometry": {
                 "type": "Point",
@@ -16286,7 +16286,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1812",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Omer"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Omer"
             },
             "geometry": {
                 "type": "Point",
@@ -16311,7 +16311,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1813",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Paul Les Dax Talance"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Paul%20Les%20Dax%20Talance"
             },
             "geometry": {
                 "type": "Point",
@@ -16336,7 +16336,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1814",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Peray"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Peray"
             },
             "geometry": {
                 "type": "Point",
@@ -16361,7 +16361,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1815",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Pierre Du Mont Kennedy"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Pierre%20Du%20Mont%20Kennedy"
             },
             "geometry": {
                 "type": "Point",
@@ -16387,7 +16387,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1816",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Pierre Du Mont Lubet"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Pierre%20Du%20Mont%20Lubet"
             },
             "geometry": {
                 "type": "Point",
@@ -16438,7 +16438,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1817",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Pôl Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Pôl%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -16464,7 +16464,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1818",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Priest"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Priest"
             },
             "geometry": {
                 "type": "Point",
@@ -16489,7 +16489,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1819",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Quay Perros"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Quay%20Perros"
             },
             "geometry": {
                 "type": "Point",
@@ -16515,7 +16515,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1820",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Quentin Pompidou"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Quentin%20Pompidou"
             },
             "geometry": {
                 "type": "Point",
@@ -16540,7 +16540,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1821",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Quentin Pontoile"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Quentin%20Pontoile"
             },
             "geometry": {
                 "type": "Point",
@@ -16694,7 +16694,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1822",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saint Yrieix La Perche"
+                "website": "https://boulangeries.marieblachere.com/Saint%20Yrieix%20La%20Perche"
             },
             "geometry": {
                 "type": "Point",
@@ -16772,7 +16772,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1823",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sainte Foy Les Lyon"
+                "website": "https://boulangeries.marieblachere.com/Sainte%20Foy%20Les%20Lyon"
             },
             "geometry": {
                 "type": "Point",
@@ -16823,7 +16823,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1824",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sainte Marie Aux Chênes"
+                "website": "https://boulangeries.marieblachere.com/Sainte%20Marie%20Aux%20Chênes"
             },
             "geometry": {
                 "type": "Point",
@@ -16848,7 +16848,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1963",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sainte Marie des Champs"
+                "website": "https://boulangeries.marieblachere.com/Sainte%20Marie%20des%20Champs"
             },
             "geometry": {
                 "type": "Point",
@@ -16874,7 +16874,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1825",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sainte Maxime"
+                "website": "https://boulangeries.marieblachere.com/Sainte%20Maxime"
             },
             "geometry": {
                 "type": "Point",
@@ -16900,7 +16900,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1826",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sainte Memmie"
+                "website": "https://boulangeries.marieblachere.com/Sainte%20Memmie"
             },
             "geometry": {
                 "type": "Point",
@@ -16925,7 +16925,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1827",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Saints Geosmes"
+                "website": "https://boulangeries.marieblachere.com/Saints%20Geosmes"
             },
             "geometry": {
                 "type": "Point",
@@ -16950,7 +16950,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1828",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Salaise Sur Sanne"
+                "website": "https://boulangeries.marieblachere.com/Salaise%20Sur%20Sanne"
             },
             "geometry": {
                 "type": "Point",
@@ -17002,7 +17002,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1829",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Salon Michelet"
+                "website": "https://boulangeries.marieblachere.com/Salon%20Michelet"
             },
             "geometry": {
                 "type": "Point",
@@ -17028,7 +17028,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1830",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Salon Szentendre"
+                "website": "https://boulangeries.marieblachere.com/Salon%20Szentendre"
             },
             "geometry": {
                 "type": "Point",
@@ -17053,7 +17053,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1831",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Salon Vitria"
+                "website": "https://boulangeries.marieblachere.com/Salon%20Vitria"
             },
             "geometry": {
                 "type": "Point",
@@ -17285,7 +17285,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1837",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Schweighouse Sur Moder"
+                "website": "https://boulangeries.marieblachere.com/Schweighouse%20Sur%20Moder"
             },
             "geometry": {
                 "type": "Point",
@@ -17335,7 +17335,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1839",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Seclin Republique"
+                "website": "https://boulangeries.marieblachere.com/Seclin%20Republique"
             },
             "geometry": {
                 "type": "Point",
@@ -17361,7 +17361,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1840",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Seclin Route De Lille"
+                "website": "https://boulangeries.marieblachere.com/Seclin%20Route%20De%20Lille"
             },
             "geometry": {
                 "type": "Point",
@@ -17413,7 +17413,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1842",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Selestat Maison Rouge"
+                "website": "https://boulangeries.marieblachere.com/Selestat%20Maison%20Rouge"
             },
             "geometry": {
                 "type": "Point",
@@ -17439,7 +17439,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1843",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Selestat Route De Colmar"
+                "website": "https://boulangeries.marieblachere.com/Selestat%20Route%20De%20Colmar"
             },
             "geometry": {
                 "type": "Point",
@@ -17541,7 +17541,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1960",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Serres Castet"
+                "website": "https://boulangeries.marieblachere.com/Serres%20Castet"
             },
             "geometry": {
                 "type": "Point",
@@ -17694,7 +17694,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1851",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sochaux Doubs"
+                "website": "https://boulangeries.marieblachere.com/Sochaux%20Doubs"
             },
             "geometry": {
                 "type": "Point",
@@ -17719,7 +17719,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1852",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Sochaux Saint Clair Du Rhone"
+                "website": "https://boulangeries.marieblachere.com/Sochaux%20Saint%20Clair%20Du%20Rhone"
             },
             "geometry": {
                 "type": "Point",
@@ -17843,7 +17843,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1856",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/St Chamond Varizelle"
+                "website": "https://boulangeries.marieblachere.com/St%20Chamond%20Varizelle"
             },
             "geometry": {
                 "type": "Point",
@@ -17869,7 +17869,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1857",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/St Cyr Sur Loire"
+                "website": "https://boulangeries.marieblachere.com/St%20Cyr%20Sur%20Loire"
             },
             "geometry": {
                 "type": "Point",
@@ -17895,7 +17895,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1858",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/St Marcel"
+                "website": "https://boulangeries.marieblachere.com/St%20Marcel"
             },
             "geometry": {
                 "type": "Point",
@@ -17921,7 +17921,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1859",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/St Paul Les Dax Bernadere"
+                "website": "https://boulangeries.marieblachere.com/St%20Paul%20Les%20Dax%20Bernadere"
             },
             "geometry": {
                 "type": "Point",
@@ -17946,7 +17946,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1860",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/St Sulpice La Pointe"
+                "website": "https://boulangeries.marieblachere.com/St%20Sulpice%20La%20Pointe"
             },
             "geometry": {
                 "type": "Point",
@@ -18072,7 +18072,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1864",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Terrasson Lavilledieu"
+                "website": "https://boulangeries.marieblachere.com/Terrasson%20Lavilledieu"
             },
             "geometry": {
                 "type": "Point",
@@ -18223,7 +18223,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1869",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Tignieu Jameyzieu"
+                "website": "https://boulangeries.marieblachere.com/Tignieu%20Jameyzieu"
             },
             "geometry": {
                 "type": "Point",
@@ -18353,7 +18353,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1873",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Toulouse Chemin De Gabardie"
+                "website": "https://boulangeries.marieblachere.com/Toulouse%20Chemin%20De%20Gabardie"
             },
             "geometry": {
                 "type": "Point",
@@ -18379,7 +18379,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1874",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Toulouse Etats-unis"
+                "website": "https://boulangeries.marieblachere.com/Toulouse%20Etats-unis"
             },
             "geometry": {
                 "type": "Point",
@@ -18405,7 +18405,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1875",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Toulouse Route D"
+                "website": "https://boulangeries.marieblachere.com/Toulouse%20Route%20D"
             },
             "geometry": {
                 "type": "Point",
@@ -18534,7 +18534,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1880",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Trans En Provence"
+                "website": "https://boulangeries.marieblachere.com/Trans%20En%20Provence"
             },
             "geometry": {
                 "type": "Point",
@@ -18765,7 +18765,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1887",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Valence Av De Provence"
+                "website": "https://boulangeries.marieblachere.com/Valence%20Av%20De%20Provence"
             },
             "geometry": {
                 "type": "Point",
@@ -18790,7 +18790,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1888",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Valence Cc Geant"
+                "website": "https://boulangeries.marieblachere.com/Valence%20Cc%20Geant"
             },
             "geometry": {
                 "type": "Point",
@@ -18865,7 +18865,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1891",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Vals Mercialys"
+                "website": "https://boulangeries.marieblachere.com/Vals%20Mercialys"
             },
             "geometry": {
                 "type": "Point",
@@ -18967,7 +18967,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1892",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Varennes Sur Seine"
+                "website": "https://boulangeries.marieblachere.com/Varennes%20Sur%20Seine"
             },
             "geometry": {
                 "type": "Point",
@@ -18992,7 +18992,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1893",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Varennes Vauzelles"
+                "website": "https://boulangeries.marieblachere.com/Varennes%20Vauzelles"
             },
             "geometry": {
                 "type": "Point",
@@ -19043,7 +19043,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1895",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Vaux Sur Mer"
+                "website": "https://boulangeries.marieblachere.com/Vaux%20Sur%20Mer"
             },
             "geometry": {
                 "type": "Point",
@@ -19246,7 +19246,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1901",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Vert Saint Denis"
+                "website": "https://boulangeries.marieblachere.com/Vert%20Saint%20Denis"
             },
             "geometry": {
                 "type": "Point",
@@ -19373,7 +19373,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1905",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villefranche De Rouergue"
+                "website": "https://boulangeries.marieblachere.com/Villefranche%20De%20Rouergue"
             },
             "geometry": {
                 "type": "Point",
@@ -19399,7 +19399,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1906",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villefranche Sur Saône"
+                "website": "https://boulangeries.marieblachere.com/Villefranche%20Sur%20Saône"
             },
             "geometry": {
                 "type": "Point",
@@ -19475,7 +19475,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1908",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villeneuve Sur Lot"
+                "website": "https://boulangeries.marieblachere.com/Villeneuve%20Sur%20Lot"
             },
             "geometry": {
                 "type": "Point",
@@ -19501,7 +19501,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1970",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villeneuve sur Lot Fumel"
+                "website": "https://boulangeries.marieblachere.com/Villeneuve%20sur%20Lot%20Fumel"
             },
             "geometry": {
                 "type": "Point",
@@ -19552,7 +19552,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1910",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villers Semeuse"
+                "website": "https://boulangeries.marieblachere.com/Villers%20Semeuse"
             },
             "geometry": {
                 "type": "Point",
@@ -19577,7 +19577,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1911",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Villiers Le Bel"
+                "website": "https://boulangeries.marieblachere.com/Villiers%20Le%20Bel"
             },
             "geometry": {
                 "type": "Point",
@@ -19729,7 +19729,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1916",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Wasquehal Cottignies"
+                "website": "https://boulangeries.marieblachere.com/Wasquehal%20Cottignies"
             },
             "geometry": {
                 "type": "Point",
@@ -19755,7 +19755,7 @@
                 "name": "Boulangerie Marie Blachère",
                 "ref:FR:MarieBlachere:id": "1917",
                 "shop": "bakery",
-                "website": "https://boulangeries.marieblachere.com/Wasquehal Jean Jaures"
+                "website": "https://boulangeries.marieblachere.com/Wasquehal%20Jean%20Jaures"
             },
             "geometry": {
                 "type": "Point",
