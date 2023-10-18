@@ -2,6 +2,18 @@ import xml.etree.ElementTree as ET
 import json
 import html
 import re
+import requests
+
+xml_url = 'https://boulangeries.marieblachere.com/wp-content/plugins/superstorefinder-wp/ssf-wp-xml.php'
+xml_file = 'ssf-wp-xml.php.xml'
+
+# Download XML file
+response = requests.get(xml_url)
+if response.status_code == 200:
+    open(xml_file, 'wb').write(response.content)
+else:
+    print(f'Error {response.status_code} when downloading: {xml_file}')
+    exit
 
 # Parse the XML file
 tree = ET.parse('ssf-wp-xml.php.xml')
