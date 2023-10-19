@@ -81,7 +81,7 @@ def parse_opening_hours(opening_hours):
             max_day = group["max_day"]
             result.append(f'{days[(min_day+1)%7]}-{days[(max_day+1)%7]} {group["hours"]}')
 
-    return ';'.join(result)
+    return '; '.join(result)
 
 # Initialize an empty list to store the geojson features
 features = []

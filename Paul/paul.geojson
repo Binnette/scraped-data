@@ -284,7 +284,7 @@
         "website": "https://www.paul.fr/stores/aire_de_chateauvillain",
         "phone": "+33 3 25 31 26 21",
         "addr:street": "Aire De Chateauvillain - Autoroute A5",
-        "opening_hours": "Mo-Sa 07:00-22:00;Su 07:00-19:00",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire De Chateauvillain - Autoroute A5",
         "fixme:oh": "Su 07:00-19:00;Mo 07:00-22:00;Tu 07:00-22:00;We 07:00-22:00;Th 07:00-22:00;Fr 07:00-22:00;Sa 07:00-22:00"
@@ -400,7 +400,7 @@
         "website": "https://www.paul.fr/stores/aire_de_macon_st_albain",
         "phone": "+33 3 85 27 94 00",
         "addr:street": "Aire de Saint-Albain - Autoroute A6",
-        "opening_hours": "Mo-Fr 07:00-22:00;Sa-Su 05:30-22:00",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 05:30-22:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire de Saint-Albain - Autoroute A6",
         "fixme:oh": "Su 05:30-22:00;Mo 07:00-22:00;Tu 07:00-22:00;We 07:00-22:00;Th 07:00-22:00;Fr 07:00-22:00;Sa 05:30-22:00"
@@ -664,7 +664,7 @@
         "email": "mag0713@mag.groupeholder.com",
         "addr:housenumber": "33",
         "addr:street": "Route de Berre",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 07:00-13:30",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 07:00-13:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "33 Route de Berre",
         "fixme:oh": "Su 07:00-13:30;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -695,7 +695,7 @@
         "email": "pansigna@orange.fr",
         "addr:housenumber": "678-712",
         "addr:street": "avenue du Club Hippique",
-        "opening_hours": "Mo-Fr 07:00-19:30;Sa 07:59-19:30;Su 07:59-13:30",
+        "opening_hours": "Mo-Fr 07:00-19:30; Sa 07:59-19:30; Su 07:59-13:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "678-712 avenue du Club Hippique",
         "fixme:oh": "Su 07:59-13:30;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:59-19:30"
@@ -754,7 +754,7 @@
         "website": "https://www.paul.fr/stores/aix_en_provence_gare",
         "phone": "+33 4 42 93 13 37",
         "addr:street": "Gare D'Aix En Provence Tgv - Route D\u00e9partementale 9",
-        "opening_hours": "Mo-Fr 05:30-19:30;Sa 06:00-19:30;Su 07:00-20:30",
+        "opening_hours": "Mo-Fr 05:30-19:30; Sa 06:00-19:30; Su 07:00-20:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare D'Aix En Provence Tgv - Route D\u00e9partementale 9",
         "fixme:oh": "Su 07:00-20:30;Mo 05:30-19:30;Tu 05:30-19:30;We 05:30-19:30;Th 05:30-19:30;Fr 05:30-19:30;Sa 06:00-19:30"
@@ -785,7 +785,7 @@
         "email": "ME0715@mag.groupeholder.com",
         "addr:housenumber": "51",
         "addr:street": "Rue Espariat",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 08:30-13:30",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 08:30-13:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "51 Rue Espariat",
         "fixme:oh": "Su 08:30-13:30;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -815,7 +815,7 @@
         "phone": "+33 4 42 67 13 94",
         "addr:housenumber": "3",
         "addr:street": "Avenue Du Mar\u00e9chal Foch",
-        "opening_hours": "Mo-Sa 07:00-20:15;Su 07:00-19:30",
+        "opening_hours": "Mo-Sa 07:00-20:15; Su 07:00-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "3, Avenue Du Mar\u00e9chal Foch",
         "fixme:oh": "Su 07:00-19:30;Mo 07:00-20:15;Tu 07:00-20:15;We 07:00-20:15;Th 07:00-20:15;Fr 07:00-20:15;Sa 07:00-20:15"
@@ -905,7 +905,7 @@
         "phone": "+33 4 95 70 00 32",
         "email": "paul.ajaccio@orange.fr",
         "addr:street": "Zone Industrielle Et Commerciale De Baleone Sarrola-Carcopino",
-        "opening_hours": "Mo-Sa 06:29-20:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 06:29-20:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Zone Industrielle Et Commerciale De Baleone Sarrola-Carcopino",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-20:30;Tu 06:29-20:30;We 06:29-20:30;Th 06:29-20:30;Fr 06:29-20:30;Sa 06:29-20:30"
@@ -935,7 +935,7 @@
         "phone": "+33 4 95 70 00 32",
         "email": "paul-kiosque.baleone@orange.fr",
         "addr:street": "Cc Grand Ajaccio Baleone T22",
-        "opening_hours": "Mo-Sa 09:00-21:00;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Cc Grand Ajaccio Baleone T22",
         "fixme:oh": "Su 00:00-23:59;Mo 09:00-21:00;Tu 09:00-21:00;We 09:00-21:00;Th 09:00-21:00;Fr 09:00-21:00;Sa 09:00-21:00"
@@ -1022,7 +1022,7 @@
         "website": "https://www.paul.fr/stores/ambreuil_chalons_sur_saone",
         "phone": "+33 3 85 44 20 64",
         "addr:street": "Aire De Saint Ambreuil - Sens Lyon Paris Autoroute A6",
-        "opening_hours": "Mo-Sa 06:29-22:00;Su 07:00-19:00",
+        "opening_hours": "Mo-Sa 06:29-22:00; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire De Saint Ambreuil - Sens Lyon Paris Autoroute A6",
         "fixme:oh": "Su 07:00-19:00;Mo 06:29-22:00;Tu 06:29-22:00;We 06:29-22:00;Th 06:29-22:00;Fr 06:29-22:00;Sa 06:29-22:00"
@@ -1083,7 +1083,7 @@
         "email": "jpmoison@hotmail.fr",
         "addr:housenumber": "101",
         "addr:street": "Avenue Chatenay",
-        "opening_hours": "Mo-Fr 07:00-19:00;Sa 07:30-19:00;Su 00:00-23:59",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:30-19:00; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "101 Avenue Chatenay",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 07:30-19:00"
@@ -1113,7 +1113,7 @@
         "email": "paulangersfoch@outlook.fr",
         "addr:housenumber": "62",
         "addr:street": "Rue Saint Aubin",
-        "opening_hours": "Mo-Fr 07:00-19:14;Sa 07:30-19:14;Su 00:00-23:59",
+        "opening_hours": "Mo-Fr 07:00-19:14; Sa 07:30-19:14; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "62 Rue Saint Aubin",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:14;Tu 07:00-19:14;We 07:00-19:14;Th 07:00-19:14;Fr 07:00-19:14;Sa 07:30-19:14"
@@ -1443,7 +1443,7 @@
         "website": "https://www.paul.fr/stores/assevillers_autoroute_a1",
         "phone": "+33 3 22 85 78 40",
         "addr:street": "Aire des C\u0153ur des Hauts-de-France Est - Autoroute A1 Sens Paris - Lille",
-        "opening_hours": "Mo-Sa 06:30-19:00;Su 06:30-21:00",
+        "opening_hours": "Mo-Sa 06:30-19:00; Su 06:30-21:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire des C\u0153ur des Hauts-de-France Est - Autoroute A1 Sens Paris - Lille",
         "fixme:oh": "Su 06:30-21:00;Mo 06:30-19:00;Tu 06:30-19:00;We 06:30-19:00;Th 06:30-19:00;Fr 06:30-19:00;Sa 06:30-19:00"
@@ -1472,7 +1472,7 @@
         "website": "https://www.paul.fr/stores/assevillers_ouest",
         "phone": "+33 3 22 85 78 35",
         "addr:street": "Aire des C\u0153ur des Hauts-de-France Ouest - Autoroute A1 Sens Lille - Paris",
-        "opening_hours": "Mo-Th 06:00-19:00;Fr 06:00-21:00;Sa 06:00-19:00;Su 06:00-21:00",
+        "opening_hours": "Mo-Th 06:00-19:00; Fr 06:00-21:00; Sa 06:00-19:00; Su 06:00-21:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire des C\u0153ur des Hauts-de-France Ouest - Autoroute A1 Sens Lille - Paris",
         "fixme:oh": "Su 06:00-21:00;Mo 06:00-19:00;Tu 06:00-19:00;We 06:00-19:00;Th 06:00-19:00;Fr 06:00-21:00;Sa 06:00-19:00"
@@ -1533,7 +1533,7 @@
         "email": "denoual.paul@gmail.com",
         "addr:housenumber": "259",
         "addr:street": "avenue des Caniers Zone industrielle des Paluds",
-        "opening_hours": "Mo-Sa 06:00-20:00;Su 06:00-19:00",
+        "opening_hours": "Mo-Sa 06:00-20:00; Su 06:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "259 avenue des Caniers Zone industrielle des Paluds",
         "fixme:oh": "Su 06:00-19:00;Mo 06:00-20:00;Tu 06:00-20:00;We 06:00-20:00;Th 06:00-20:00;Fr 06:00-20:00;Sa 06:00-20:00"
@@ -1564,7 +1564,7 @@
         "email": "paulazaylerideau@gmail.com",
         "addr:housenumber": "58",
         "addr:street": "Rue Georges Jehan ZAC LA LOGE",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 09:00-19:00",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 09:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "58 Rue Georges Jehan ZAC LA LOGE",
         "fixme:oh": "Su 09:00-19:00;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -1708,7 +1708,7 @@
         "website": "https://www.paul.fr/stores/bayonne_republique",
         "addr:housenumber": "9",
         "addr:street": "PLACE DE LA REPUBLIQUE",
-        "opening_hours": "Mo-Sa 06:00-19:30;Su 07:30-19:00",
+        "opening_hours": "Mo-Sa 06:00-19:30; Su 07:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "9 PLACE DE LA REPUBLIQUE",
         "fixme:oh": "Su 07:30-19:00;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:30;Sa 06:00-19:30"
@@ -1737,7 +1737,7 @@
         "website": "https://www.paul.fr/stores/bayonne_rue_thiers",
         "addr:housenumber": "1",
         "addr:street": "Rue Thiers",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 07:30-19:00",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 07:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1 Rue Thiers",
         "fixme:oh": "Su 07:30-19:00;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -1976,7 +1976,7 @@
         "phone": "+33 5 56 92 12 63",
         "email": "paul.bordeaux.rr@areas.com",
         "addr:street": "Gare De Bordeaux St Jean",
-        "opening_hours": "Mo-Fr 06:00-21:00;Sa 06:29-19:00;Su 07:00-19:00",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa 06:29-19:00; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Bordeaux St Jean",
         "fixme:oh": "Su 07:00-19:00;Mo 06:00-21:00;Tu 06:00-21:00;We 06:00-21:00;Th 06:00-21:00;Fr 06:00-21:00;Sa 06:29-19:00"
@@ -2068,7 +2068,7 @@
         "email": "mag0588@mag.groupeholder.com",
         "addr:housenumber": "51",
         "addr:street": "Cours Du Medoc",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 08:00-20:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "51 Cours Du Medoc",
         "fixme:oh": "Su 08:00-20:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -2160,7 +2160,7 @@
         "email": "mag0585@mag.groupeholder.com",
         "addr:housenumber": "75",
         "addr:street": "Cours Portal",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 08:00-14:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "75 Cours Portal",
         "fixme:oh": "Su 08:00-14:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -2189,7 +2189,7 @@
         "website": "https://www.paul.fr/stores/bordeaux_st_jean_1",
         "phone": "+33 5 56 92 12 63",
         "addr:street": "Gare De Bordeaux St Jean  niveau -1 - 1 Rue Charles Domercq",
-        "opening_hours": "Mo-Fr 06:00-21:00;Sa 06:29-19:00;Su 07:00-21:00",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa 06:29-19:00; Su 07:00-21:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Bordeaux St Jean  niveau -1 - 1 Rue Charles Domercq",
         "fixme:oh": "Su 07:00-21:00;Mo 06:00-21:00;Tu 06:00-21:00;We 06:00-21:00;Th 06:00-21:00;Fr 06:00-21:00;Sa 06:29-19:00"
@@ -2220,7 +2220,7 @@
         "email": "me0a01@groupeholder.com",
         "addr:housenumber": "33",
         "addr:street": "rue Sainte Catherine",
-        "opening_hours": "Mo-Sa 08:00-20:00;Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "33, rue Sainte Catherine",
         "fixme:oh": "Su 10:00-19:00;Mo 08:00-20:00;Tu 08:00-20:00;We 08:00-20:00;Th 08:00-20:00;Fr 08:00-20:00;Sa 08:00-20:00"
@@ -2251,7 +2251,7 @@
         "email": "me0488@groupeholder.com",
         "addr:housenumber": "1",
         "addr:street": "place de Tourny Cours de Tournon",
-        "opening_hours": "Mo-Fr 07:30-20:00;Sa 08:00-20:00;Su 08:00-19:00",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1, place de Tourny Cours de Tournon",
         "fixme:oh": "Su 08:00-19:00;Mo 07:30-20:00;Tu 07:30-20:00;We 07:30-20:00;Th 07:30-20:00;Fr 07:30-20:00;Sa 08:00-20:00"
@@ -2460,7 +2460,7 @@
         "phone": "+33 4 74 28 33 42",
         "addr:housenumber": "6",
         "addr:street": "Boulevard Saint Michel",
-        "opening_hours": "Mo-Sa 07:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "6 Boulevard Saint Michel",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:59;Tu 07:00-19:59;We 07:00-19:59;Th 07:00-19:59;Fr 07:00-19:59;Sa 07:00-19:59"
@@ -2520,7 +2520,7 @@
         "phone": "+33 7 64 57 85 13",
         "addr:housenumber": "1",
         "addr:street": "rue Eug\u00e8ne Freyssinet",
-        "opening_hours": "Mo 08:30-18:00;We-Fr 08:30-18:00",
+        "opening_hours": "Mo 08:30-18:00; We-Fr 08:30-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1 rue Eug\u00e8ne Freyssinet",
         "fixme:oh": "Mo 08:30-18:00;We 08:30-18:00;Th 08:30-18:00;Fr 08:30-18:00"
@@ -2579,7 +2579,7 @@
         "phone": "+33 2 98 36 98 81",
         "email": "paulbrest@icloud.com",
         "addr:street": "Angle de la rue du Moulin blanc et de la rue Eug\u00e8ne Berest",
-        "opening_hours": "Tu-Sa 06:30-20:00;Su 06:30-19:30",
+        "opening_hours": "Tu-Sa 06:30-20:00; Su 06:30-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Angle de la rue du Moulin blanc et de la rue Eug\u00e8ne Berest",
         "fixme:oh": "Su 06:30-19:30;Tu 06:30-20:00;We 06:30-20:00;Th 06:30-20:00;Fr 06:30-20:00;Sa 06:30-20:00"
@@ -2639,7 +2639,7 @@
         "email": "piegelin.herve@icloud.com",
         "addr:housenumber": "4",
         "addr:street": "RUE BLAVEAU",
-        "opening_hours": "Mo-Sa 06:30-20:00;Su 06:30-19:30",
+        "opening_hours": "Mo-Sa 06:30-20:00; Su 06:30-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "4 RUE BLAVEAU",
         "fixme:oh": "Su 06:30-19:30;Mo 06:30-20:00;Tu 06:30-20:00;We 06:30-20:00;Th 06:30-20:00;Fr 06:30-20:00;Sa 06:30-20:00"
@@ -2667,7 +2667,7 @@
         "shop": "bakery",
         "website": "https://www.paul.fr/stores/bretigny_sur_orge",
         "addr:street": "Centre Commercial Auchan La Maison Neuve RN 19",
-        "opening_hours": "Mo-Sa 08:30-20:00;Su 08:30-12:00",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-12:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Auchan La Maison Neuve RN 19",
         "fixme:oh": "Su 08:30-12:00;Mo 08:30-20:00;Tu 08:30-20:00;We 08:30-20:00;Th 08:30-20:00;Fr 08:30-20:00;Sa 08:30-20:00"
@@ -2696,7 +2696,7 @@
         "website": "https://www.paul.fr/stores/brive_la_gaillarde",
         "addr:housenumber": "13",
         "addr:street": "Avenue De Paris",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "13 Avenue De Paris",
         "fixme:oh": "Su 00:00-23:59;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -2726,7 +2726,7 @@
         "phone": "+33 6 20 26 41 92",
         "email": "philippe.bouissous@orange.fr",
         "addr:street": "Place De Lattre De Tassigny - Halles Alimentaires",
-        "opening_hours": "Tu-Fr 07:30-14:00;Sa 07:30-18:00;Su 09:00-14:00",
+        "opening_hours": "Tu-Fr 07:30-14:00; Sa 07:30-18:00; Su 09:00-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Place De Lattre De Tassigny - Halles Alimentaires",
         "fixme:oh": "Su 09:00-14:00;Tu 07:30-14:00;We 07:30-14:00;Th 07:30-14:00;Fr 07:30-14:00;Sa 07:30-18:00"
@@ -2756,7 +2756,7 @@
         "phone": "+33 4 42 02 68 28",
         "email": "paulcabriesa49@gmail.com",
         "addr:street": "PAUL CC Barneoud  Bat A Zone Plan de Campagne",
-        "opening_hours": "Mo 06:00-19:15;Tu-Fr 06:00-20:00;Sa-Su 07:00-20:00",
+        "opening_hours": "Mo 06:00-19:15; Tu-Fr 06:00-20:00; Sa-Su 07:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "PAUL CC Barneoud  Bat A Zone Plan de Campagne",
         "fixme:oh": "Su 07:00-20:00;Mo 06:00-19:15;Tu 06:00-20:00;We 06:00-20:00;Th 06:00-20:00;Fr 06:00-20:00;Sa 07:00-20:00"
@@ -2933,7 +2933,7 @@
         "phone": "+33 2 31 85 23 42",
         "addr:housenumber": "153",
         "addr:street": "rue Saint Pierre",
-        "opening_hours": "Mo-Sa 07:00-20:15;Su 08:00-20:00",
+        "opening_hours": "Mo-Sa 07:00-20:15; Su 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "153, rue Saint Pierre",
         "fixme:oh": "Su 08:00-20:00;Mo 07:00-20:15;Tu 07:00-20:15;We 07:00-20:15;Th 07:00-20:15;Fr 07:00-20:15;Sa 07:00-20:15"
@@ -3023,7 +3023,7 @@
         "phone": "+33 4 93 38 15 59",
         "addr:housenumber": "8",
         "addr:street": "Rue Meynadier",
-        "opening_hours": "Mo-Sa 07:59-19:59;Su 07:59-13:59",
+        "opening_hours": "Mo-Sa 07:59-19:59; Su 07:59-13:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8, Rue Meynadier",
         "fixme:oh": "Su 07:59-13:59;Mo 07:59-19:59;Tu 07:59-19:59;We 07:59-19:59;Th 07:59-19:59;Fr 07:59-19:59;Sa 07:59-19:59"
@@ -3141,7 +3141,7 @@
         "email": "lagourmandineandco@gmail.com",
         "addr:housenumber": "197",
         "addr:street": "Avenue Des Landiers",
-        "opening_hours": "Mo-Sa 06:29-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 06:29-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "197, Avenue Des Landiers",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-19:30;Tu 06:29-19:30;We 06:29-19:30;Th 06:29-19:30;Fr 06:29-19:30;Sa 06:29-19:30"
@@ -3230,7 +3230,7 @@
         "phone": "+33 2 37 22 27 22",
         "addr:housenumber": "26",
         "addr:street": "Place Du Cygne",
-        "opening_hours": "Mo-Sa 07:59-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:59-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "26 Place Du Cygne",
         "fixme:oh": "Su 00:00-23:59;Mo 07:59-19:59;Tu 07:59-19:59;We 07:59-19:59;Th 07:59-19:59;Fr 07:59-19:59;Sa 07:59-19:59"
@@ -3260,7 +3260,7 @@
         "phone": "+33 2 37 90 62 11",
         "email": "julienvinsot@hotmail.com",
         "addr:street": "Centre Commercial Epicentre Local N\u00b030 - Lieudit Les Orvilles BARJOUVILLE",
-        "opening_hours": "Mo-Sa 09:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 09:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Epicentre Local N\u00b030 - Lieudit Les Orvilles BARJOUVILLE",
         "fixme:oh": "Su 00:00-23:59;Mo 09:00-19:59;Tu 09:00-19:59;We 09:00-19:59;Th 09:00-19:59;Fr 09:00-19:59;Sa 09:00-19:59"
@@ -3289,7 +3289,7 @@
         "website": "https://www.paul.fr/stores/chartres_place_des_halles",
         "addr:housenumber": "21",
         "addr:street": "Place Des Halles",
-        "opening_hours": "Mo-We 09:00-18:00;Fr-Su 09:00-18:00",
+        "opening_hours": "Mo-We 09:00-18:00; Fr-Su 09:00-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "21 Place Des Halles",
         "fixme:oh": "Su 09:00-18:00;Mo 09:00-18:00;Tu 09:00-18:00;We 09:00-18:00;Fr 09:00-18:00;Sa 09:00-18:00"
@@ -3318,7 +3318,7 @@
         "website": "https://www.paul.fr/stores/clermont_jaude_b",
         "phone": "+33 4 73 93 94 74",
         "addr:street": "Centre Commercial Jaude - 18 Rue D'Allagnat",
-        "opening_hours": "Mo-Sa 09:00-19:14;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 09:00-19:14; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Jaude - 18 Rue D'Allagnat",
         "fixme:oh": "Su 00:00-23:59;Mo 09:00-19:14;Tu 09:00-19:14;We 09:00-19:14;Th 09:00-19:14;Fr 09:00-19:14;Sa 09:00-19:14"
@@ -3347,7 +3347,7 @@
         "website": "https://www.paul.fr/stores/clermont_jaude_st",
         "phone": "+33 4 73 93 94 74",
         "addr:street": "Centre Commercial Jaude - 19 Rue D'Allagnat",
-        "opening_hours": "Mo-Sa 10:00-19:00;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Jaude - 19 Rue D'Allagnat",
         "fixme:oh": "Su 00:00-23:59;Mo 10:00-19:00;Tu 10:00-19:00;We 10:00-19:00;Th 10:00-19:00;Fr 10:00-19:00;Sa 10:00-19:00"
@@ -3378,7 +3378,7 @@
         "email": "paul.colmarladhof@groupebk.com",
         "addr:housenumber": "1",
         "addr:street": "rue du Ladhof Angle de la route de Selestat",
-        "opening_hours": "Mo-Fr 06:00-19:30;Sa 06:00-18:30;Su 07:00-13:00",
+        "opening_hours": "Mo-Fr 06:00-19:30; Sa 06:00-18:30; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1, rue du Ladhof Angle de la route de Selestat",
         "fixme:oh": "Su 07:00-13:00;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:30;Sa 06:00-18:30"
@@ -3409,7 +3409,7 @@
         "email": "paul.colmarclefs@groupebk.com",
         "addr:housenumber": "54",
         "addr:street": "rue des Clefs",
-        "opening_hours": "Mo-Fr 07:30-18:30;Sa 07:00-18:00",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:00-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "54, rue des Clefs",
         "fixme:oh": "Mo 07:30-18:30;Tu 07:30-18:30;We 07:30-18:30;Th 07:30-18:30;Fr 07:30-18:30;Sa 07:00-18:00"
@@ -3529,7 +3529,7 @@
         "phone": "+33 1 48 99 78 43",
         "email": "mag0014@mag.groupeholder.com",
         "addr:street": "All\u00e9e Parmentier - Centre Commercial Cr\u00e9teil Palais",
-        "opening_hours": "Mo-Fr 07:30-19:00;Sa 08:00-17:30",
+        "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "All\u00e9e Parmentier - Centre Commercial Cr\u00e9teil Palais",
         "fixme:oh": "Mo 07:30-19:00;Tu 07:30-19:00;We 07:30-19:00;Th 07:30-19:00;Fr 07:30-19:00;Sa 08:00-17:30"
@@ -3679,7 +3679,7 @@
         "email": "gc.brandao@sfr.fr",
         "addr:housenumber": "7-9",
         "addr:street": "place Denfert Rochereau",
-        "opening_hours": "Mo-Fr 07:00-20:00;Sa-Su 07:30-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:30-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "7-9, place Denfert Rochereau",
         "fixme:oh": "Su 07:30-20:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:30-20:00"
@@ -3708,7 +3708,7 @@
         "website": "https://www.paul.fr/stores/dijon_gare",
         "phone": "+33 3 80 29 11 83",
         "addr:street": "Gare de Dijon - 31, cour de la gare Hall d'arriv\u00e9e",
-        "opening_hours": "Mo-Th 06:00-20:30;Fr 06:00-21:00;Sa 06:30-20:30;Su 07:30-21:00",
+        "opening_hours": "Mo-Th 06:00-20:30; Fr 06:00-21:00; Sa 06:30-20:30; Su 07:30-21:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Dijon - 31, cour de la gare Hall d'arriv\u00e9e",
         "fixme:oh": "Su 07:30-21:00;Mo 06:00-20:30;Tu 06:00-20:30;We 06:00-20:30;Th 06:00-20:30;Fr 06:00-21:00;Sa 06:30-20:30"
@@ -3768,7 +3768,7 @@
         "website": "https://www.paul.fr/stores/dijon_quetigny_carrefour",
         "email": "pauldijonquetigny@free.fr",
         "addr:street": "Centre Commercial Carrefour Grand Quetigny - Avenue De Bourgogne",
-        "opening_hours": "Mo-Sa 09:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 09:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Carrefour Grand Quetigny - Avenue De Bourgogne",
         "fixme:oh": "Su 00:00-23:59;Mo 09:00-19:59;Tu 09:00-19:59;We 09:00-19:59;Th 09:00-19:59;Fr 09:00-19:59;Sa 09:00-19:59"
@@ -4083,7 +4083,7 @@
         "phone": "+33 1 64 97 86 62",
         "addr:housenumber": "2",
         "addr:street": "boulevard de l'Europe C.C. Evry 2",
-        "opening_hours": "Mo-Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15",
+        "opening_hours": "Mo-Th 08:30-20:15; Fr 08:30-21:00; Sa 08:30-20:15",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "2, boulevard de l'Europe C.C. Evry 2",
         "fixme:oh": "Mo 08:30-20:15;Tu 08:30-20:15;We 08:30-20:15;Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15"
@@ -4113,7 +4113,7 @@
         "phone": "+33 1 69 36 31 83",
         "addr:housenumber": "2",
         "addr:street": "boulevard de l'Europe C.C. Evry 2 - Local 33",
-        "opening_hours": "Mo-Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15",
+        "opening_hours": "Mo-Th 08:30-20:15; Fr 08:30-21:00; Sa 08:30-20:15",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "2, boulevard de l'Europe C.C. Evry 2 - Local 33",
         "fixme:oh": "Mo 08:30-20:15;Tu 08:30-20:15;We 08:30-20:15;Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15"
@@ -4143,7 +4143,7 @@
         "phone": "+33 1 60 79 49 26",
         "addr:housenumber": "2",
         "addr:street": "boulevard de l'Europe C.C. Evry 2 - Niveau1- Local K1",
-        "opening_hours": "Mo-Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15",
+        "opening_hours": "Mo-Th 08:30-20:15; Fr 08:30-21:00; Sa 08:30-20:15",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "2, boulevard de l'Europe C.C. Evry 2 - Niveau1- Local K1",
         "fixme:oh": "Mo 08:30-20:15;Tu 08:30-20:15;We 08:30-20:15;Th 08:30-20:15;Fr 08:30-21:00;Sa 08:30-20:15"
@@ -4261,7 +4261,7 @@
         "website": "https://www.paul.fr/stores/gare_bordeaux_pavillon",
         "phone": "+33 5 56 92 12 63",
         "addr:street": "Gare De Bordeaux St Jean - Situ\u00e9 entre les  Parvis Hall 1 et Hall 2, en face du Tramway",
-        "opening_hours": "Mo-Fr 06:00-19:59;Sa 06:00-18:00;Su 07:00-19:59",
+        "opening_hours": "Mo-Fr 06:00-19:59; Sa 06:00-18:00; Su 07:00-19:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Bordeaux St Jean - Situ\u00e9 entre les  Parvis Hall 1 et Hall 2, en face du Tramway",
         "fixme:oh": "Su 07:00-19:59;Mo 06:00-19:59;Tu 06:00-19:59;We 06:00-19:59;Th 06:00-19:59;Fr 06:00-19:59;Sa 06:00-18:00"
@@ -4290,7 +4290,7 @@
         "website": "https://www.paul.fr/stores/gare_de_l_est",
         "phone": "+33 1 44 89 27 00",
         "addr:street": "Gare de l'Est, rue du 8 Mai 1945 - Niveau -1",
-        "opening_hours": "Mo-Th 06:30-21:00;Fr 06:30-21:30;Sa 06:30-21:00;Su 06:30-21:29",
+        "opening_hours": "Mo-Th 06:30-21:00; Fr 06:30-21:30; Sa 06:30-21:00; Su 06:30-21:29",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de l'Est, rue du 8 Mai 1945 - Niveau -1",
         "fixme:oh": "Su 06:30-21:29;Mo 06:30-21:00;Tu 06:30-21:00;We 06:30-21:00;Th 06:30-21:00;Fr 06:30-21:30;Sa 06:30-21:00"
@@ -4319,7 +4319,7 @@
         "website": "https://www.paul.fr/stores/gare_de_l_est_paul_quai",
         "phone": "+33 1 44 89 27 00",
         "addr:street": "Gare de l'Est, rue du 8 Mai 1945 Niveau quai - Sur le quai transversal, Hall Jaune, face aux voies 10 et 11.",
-        "opening_hours": "Mo-Th 06:30-21:00;Fr 06:30-21:30;Sa 06:30-21:00;Su 06:30-21:29",
+        "opening_hours": "Mo-Th 06:30-21:00; Fr 06:30-21:30; Sa 06:30-21:00; Su 06:30-21:29",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de l'Est, rue du 8 Mai 1945 Niveau quai - Sur le quai transversal, Hall Jaune, face aux voies 10 et 11.",
         "fixme:oh": "Su 06:30-21:29;Mo 06:30-21:00;Tu 06:30-21:00;We 06:30-21:00;Th 06:30-21:00;Fr 06:30-21:30;Sa 06:30-21:00"
@@ -4377,7 +4377,7 @@
         "website": "https://www.paul.fr/stores/gare_de_nancy_arrivee",
         "phone": "+33 3 83 22 10 94",
         "addr:street": "Gare de Nancy - 3 place Thiers, hall R\u00e9publique",
-        "opening_hours": "Mo 06:29-19:30;Tu-Th 06:29-19:00;Fr-Su 06:29-19:59",
+        "opening_hours": "Mo 06:29-19:30; Tu-Th 06:29-19:00; Fr-Su 06:29-19:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Nancy - 3 place Thiers, hall R\u00e9publique",
         "fixme:oh": "Su 06:29-19:59;Mo 06:29-19:30;Tu 06:29-19:00;We 06:29-19:00;Th 06:29-19:00;Fr 06:29-19:59;Sa 06:29-19:59"
@@ -4406,7 +4406,7 @@
         "website": "https://www.paul.fr/stores/gare_de_nancy_3",
         "phone": "+33 3 83 22 10 94",
         "addr:street": "Gare de Nancy - 3 place Thiers, hall Thiers",
-        "opening_hours": "Mo 06:29-19:30;Tu-Th 06:29-19:00;Fr 06:29-19:59;Sa 07:00-13:30;Su 12:00-18:29",
+        "opening_hours": "Mo 06:29-19:30; Tu-Th 06:29-19:00; Fr 06:29-19:59; Sa 07:00-13:30; Su 12:00-18:29",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Nancy - 3 place Thiers, hall Thiers",
         "fixme:oh": "Su 12:00-18:29;Mo 06:29-19:30;Tu 06:29-19:00;We 06:29-19:00;Th 06:29-19:00;Fr 06:29-19:59;Sa 07:00-13:30"
@@ -4493,7 +4493,7 @@
         "website": "https://www.paul.fr/stores/gare_du_mans_nord",
         "phone": "+33 2 43 28 16 15",
         "addr:street": "Gare Du Mans Nord - Place Du 8 Mai 1945",
-        "opening_hours": "Mo-Th 07:00-20:00;Fr 07:00-21:00;Sa 07:00-15:00;Su 10:00-20:00",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-15:00; Su 10:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare Du Mans Nord - Place Du 8 Mai 1945",
         "fixme:oh": "Su 10:00-20:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-21:00;Sa 07:00-15:00"
@@ -4610,7 +4610,7 @@
         "website": "https://www.paul.fr/stores/gare_massy_tgv",
         "phone": "+33 1 69 20 53 79",
         "addr:street": "Gare de Massy TGV - 38 Avenue Carnot, Situ\u00e9 dans le Hall 1, \u00e0 proximit\u00e9 de la sortie cot\u00e9 parvis",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 07:00-19:30",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 07:00-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Massy TGV - 38 Avenue Carnot, Situ\u00e9 dans le Hall 1, \u00e0 proximit\u00e9 de la sortie cot\u00e9 parvis",
         "fixme:oh": "Su 07:00-19:30;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -4640,7 +4640,7 @@
         "phone": "+33 4 67 34 06 67",
         "email": "anthony.jaunier@areas.com",
         "addr:street": "Gare De Montpellier Saint-Roch - Place Auguste Gibert",
-        "opening_hours": "Mo-Th 06:00-19:00;Fr 06:00-20:00;Sa-Su 07:30-20:00",
+        "opening_hours": "Mo-Th 06:00-19:00; Fr 06:00-20:00; Sa-Su 07:30-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Montpellier Saint-Roch - Place Auguste Gibert",
         "fixme:oh": "Su 07:30-20:00;Mo 06:00-19:00;Tu 06:00-19:00;We 06:00-19:00;Th 06:00-19:00;Fr 06:00-20:00;Sa 07:30-20:00"
@@ -4785,7 +4785,7 @@
         "website": "https://www.paul.fr/stores/gare_toulouse_depart",
         "phone": "+33 5 62 80 69 57",
         "addr:street": "Gare de Toulouse Matabiau, 64, Boulevard Pierre S\u00e9mard - Situ\u00e9 hall 1, en face de Quick et \u00e0 c\u00f4t\u00e9 de RELAY",
-        "opening_hours": "Mo-Th 06:00-20:00;Fr 06:00-21:00;Sa 06:00-20:00;Su 06:30-21:00",
+        "opening_hours": "Mo-Th 06:00-20:00; Fr 06:00-21:00; Sa 06:00-20:00; Su 06:30-21:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Toulouse Matabiau, 64, Boulevard Pierre S\u00e9mard - Situ\u00e9 hall 1, en face de Quick et \u00e0 c\u00f4t\u00e9 de RELAY",
         "fixme:oh": "Su 06:30-21:00;Mo 06:00-20:00;Tu 06:00-20:00;We 06:00-20:00;Th 06:00-20:00;Fr 06:00-21:00;Sa 06:00-20:00"
@@ -4845,7 +4845,7 @@
         "phone": "+33 4 50 40 81 42",
         "addr:housenumber": "61",
         "addr:street": "rue des transporteurs Route de Divonne",
-        "opening_hours": "Mo-Sa 06:00-20:00;Su 06:00-12:30",
+        "opening_hours": "Mo-Sa 06:00-20:00; Su 06:00-12:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "61 rue des transporteurs Route de Divonne",
         "fixme:oh": "Su 06:00-12:30;Mo 06:00-20:00;Tu 06:00-20:00;We 06:00-20:00;Th 06:00-20:00;Fr 06:00-20:00;Sa 06:00-20:00"
@@ -4904,7 +4904,7 @@
         "phone": "+33 4 76 27 83 26",
         "email": "PCASERNE38@gmail.com.",
         "addr:street": "Zac De Bonne, Centre Commercial Caserne De Bonne",
-        "opening_hours": "Mo-Sa 07:30-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:30-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Zac De Bonne, Centre Commercial Caserne De Bonne",
         "fixme:oh": "Su 00:00-23:59;Mo 07:30-19:59;Tu 07:30-19:59;We 07:30-19:59;Th 07:30-19:59;Fr 07:30-19:59;Sa 07:30-19:59"
@@ -4934,7 +4934,7 @@
         "phone": "+33 4 82 29 98 92",
         "email": "pgrenoble38@gmail.com",
         "addr:street": "Zac De La Presqu'\u00cele - 78, Avenue Des Martyrs",
-        "opening_hours": "Mo-Fr 07:00-19:00;Sa 07:59-13:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:59-13:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Zac De La Presqu'\u00cele - 78, Avenue Des Martyrs",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 07:59-13:59"
@@ -4994,7 +4994,7 @@
         "phone": "+33 3 88 40 20 31",
         "email": "paul.illkirch@finarest.com",
         "addr:street": "Centre commercial Baggers\u00e9e",
-        "opening_hours": "Mo-Fr 08:30-19:30;Sa 08:30-19:00",
+        "opening_hours": "Mo-Fr 08:30-19:30; Sa 08:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre commercial Baggers\u00e9e",
         "fixme:oh": "Mo 08:30-19:30;Tu 08:30-19:30;We 08:30-19:30;Th 08:30-19:30;Fr 08:30-19:30;Sa 08:30-19:00"
@@ -5024,7 +5024,7 @@
         "email": "pauljacou@gmail.com",
         "addr:housenumber": "115",
         "addr:street": "RUE DU CLOS DE VIVIERS JACOU",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 08:00-13:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "115, RUE DU CLOS DE VIVIERS JACOU",
         "fixme:oh": "Su 08:00-13:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -5082,7 +5082,7 @@
         "website": "https://www.paul.fr/stores/juvignac",
         "phone": "+33 4 67 45 21 50",
         "addr:street": "CC Les Portes du Soleil Route de Saint Georges",
-        "opening_hours": "Mo-Sa 08:00-19:30;Su 08:00-13:00",
+        "opening_hours": "Mo-Sa 08:00-19:30; Su 08:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "CC Les Portes du Soleil Route de Saint Georges",
         "fixme:oh": "Su 08:00-13:00;Mo 08:00-19:30;Tu 08:00-19:30;We 08:00-19:30;Th 08:00-19:30;Fr 08:00-19:30;Sa 08:00-19:30"
@@ -5110,7 +5110,7 @@
         "shop": "bakery",
         "website": "https://www.paul.fr/stores/kingersheim",
         "addr:street": "rue de Richwiller et de la rue de Guebwiller",
-        "opening_hours": "Mo-Sa 06:00-19:00;Su 07:00-14:00",
+        "opening_hours": "Mo-Sa 06:00-19:00; Su 07:00-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "rue de Richwiller et de la rue de Guebwiller",
         "fixme:oh": "Su 07:00-14:00;Mo 06:00-19:00;Tu 06:00-19:00;We 06:00-19:00;Th 06:00-19:00;Fr 06:00-19:00;Sa 06:00-19:00"
@@ -5139,7 +5139,7 @@
         "website": "https://www.paul.fr/stores/la_celle_st_cloud",
         "phone": "+33 1 30 82 22 96",
         "addr:street": "Centre Commercial La Caravelle - 19 Avenue Andr\u00e9 Ren\u00e9 Guibert",
-        "opening_hours": "Mo-Sa 07:30-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:30-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial La Caravelle - 19 Avenue Andr\u00e9 Ren\u00e9 Guibert",
         "fixme:oh": "Su 00:00-23:59;Mo 07:30-19:59;Tu 07:30-19:59;We 07:30-19:59;Th 07:30-19:59;Fr 07:30-19:59;Sa 07:30-19:59"
@@ -5228,7 +5228,7 @@
         "website": "https://www.paul.fr/stores/la_defense",
         "phone": "+33 1 41 02 94 03",
         "addr:street": "Gare de la D\u00e9fense RER A, La D\u00e9fense - Galerie Commerciale du RER A",
-        "opening_hours": "Mo-We 06:30-19:30;Th 06:30-20:00;Fr 06:30-19:30;Sa 07:30-19:00",
+        "opening_hours": "Mo-We 06:30-19:30; Th 06:30-20:00; Fr 06:30-19:30; Sa 07:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de la D\u00e9fense RER A, La D\u00e9fense - Galerie Commerciale du RER A",
         "fixme:oh": "Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-20:00;Fr 06:30-19:30;Sa 07:30-19:00"
@@ -5377,7 +5377,7 @@
         "email": "mag0563@mag.groupeholder.com",
         "addr:housenumber": "256",
         "addr:street": "rue de Lille - village Paul",
-        "opening_hours": "Tu-Sa 07:00-19:30;Su 07:00-13:00",
+        "opening_hours": "Tu-Sa 07:00-19:30; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "256 rue de Lille - village Paul",
         "fixme:oh": "Su 07:00-13:00;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -5465,7 +5465,7 @@
         "phone": "+33 1 39 55 36 49",
         "email": "mag0165@mag.groupeholder.com",
         "addr:street": "Centre Commercial Parly 2 - Lots 2/3",
-        "opening_hours": "Mo-Sa 08:30-20:00;Su 11:00-19:00",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 11:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Parly 2 - Lots 2/3",
         "fixme:oh": "Su 11:00-19:00;Mo 08:30-20:00;Tu 08:30-20:00;We 08:30-20:00;Th 08:30-20:00;Fr 08:30-20:00;Sa 08:30-20:00"
@@ -5495,7 +5495,7 @@
         "phone": "+33 1 39 54 02 80",
         "email": "mag0349@mag.groupeholder.com",
         "addr:street": "Centre Commercial Parly 2 - Niveau Bas Local K952",
-        "opening_hours": "Mo-Sa 08:30-20:00;Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 10:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Parly 2 - Niveau Bas Local K952",
         "fixme:oh": "Su 10:00-19:00;Mo 08:30-20:00;Tu 08:30-20:00;We 08:30-20:00;Th 08:30-20:00;Fr 08:30-20:00;Sa 08:30-20:00"
@@ -5526,7 +5526,7 @@
         "email": "pauldumansrepublique@gmail.com",
         "addr:housenumber": "38",
         "addr:street": "Place De La R\u00e9publique",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "38 Place De La R\u00e9publique",
         "fixme:oh": "Su 00:00-23:59;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -5586,7 +5586,7 @@
         "phone": "+33 1 60 60 90 43",
         "email": "senardis@ginvest.fr",
         "addr:street": "Centre Commercial Carr\u00e9 S\u00e9nart",
-        "opening_hours": "Mo-Sa 09:00-20:30;Su 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-20:30; Su 09:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Carr\u00e9 S\u00e9nart",
         "fixme:oh": "Su 09:00-19:00;Mo 09:00-20:30;Tu 09:00-20:30;We 09:00-20:30;Th 09:00-20:30;Fr 09:00-20:30;Sa 09:00-20:30"
@@ -5616,7 +5616,7 @@
         "phone": "+33 1 64 13 02 74",
         "email": "senardis@ginvest.fr",
         "addr:street": "Centre Commercial Carr\u00e9 S\u00e9nart - Niveau Bas",
-        "opening_hours": "Mo-Sa 09:00-20:30;Su 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-20:30; Su 09:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Carr\u00e9 S\u00e9nart - Niveau Bas",
         "fixme:oh": "Su 09:00-19:00;Mo 09:00-20:30;Tu 09:00-20:30;We 09:00-20:30;Th 09:00-20:30;Fr 09:00-20:30;Sa 09:00-20:30"
@@ -5736,7 +5736,7 @@
         "website": "https://www.paul.fr/stores/lille_europe",
         "phone": "+33 3 66 19 37 83",
         "addr:street": "Gare De Lille Europe - Hall 2",
-        "opening_hours": "Mo-Fr 06:30-19:00;Sa 07:00-18:00;Su 08:00-19:00",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa 07:00-18:00; Su 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Lille Europe - Hall 2",
         "fixme:oh": "Su 08:00-19:00;Mo 06:30-19:00;Tu 06:30-19:00;We 06:30-19:00;Th 06:30-19:00;Fr 06:30-19:00;Sa 07:00-18:00"
@@ -5765,7 +5765,7 @@
         "website": "https://www.paul.fr/stores/lille_europe_kiosque",
         "phone": "+33 3 66 19 37 83",
         "addr:street": "Gare De Lille Europe - Hall 4",
-        "opening_hours": "Mo-Fr 06:30-19:00;Sa 07:00-18:00;Su 08:00-19:00",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa 07:00-18:00; Su 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare De Lille Europe - Hall 4",
         "fixme:oh": "Su 08:00-19:00;Mo 06:30-19:00;Tu 06:30-19:00;We 06:30-19:00;Th 06:30-19:00;Fr 06:30-19:00;Sa 07:00-18:00"
@@ -5796,7 +5796,7 @@
         "email": "mag0633@mag.groupeholder.com",
         "addr:housenumber": "44",
         "addr:street": "Rue Lepelletier",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 08:30-19:00",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 08:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "44 Rue Lepelletier",
         "fixme:oh": "Su 08:30-19:00;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -5827,7 +5827,7 @@
         "email": "mag0625@mag.groupeholder.com",
         "addr:housenumber": "6",
         "addr:street": "Place De Strasbourg",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 07:00-13:00",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "6 Place De Strasbourg",
         "fixme:oh": "Su 07:00-13:00;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -5858,7 +5858,7 @@
         "email": "mag0635@mag.groupeholder.com",
         "addr:housenumber": "8",
         "addr:street": "\u00e0 12 Rue Pierre Mauroy - 12 Rue Des Manneliers",
-        "opening_hours": "Mo-Fr 07:00-20:30;Sa 07:00-21:00;Su 07:00-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:30; Sa 07:00-21:00; Su 07:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8 \u00e0 12 Rue Pierre Mauroy - 12 Rue Des Manneliers",
         "fixme:oh": "Su 07:00-20:00;Mo 07:00-20:30;Tu 07:00-20:30;We 07:00-20:30;Th 07:00-20:30;Fr 07:00-20:30;Sa 07:00-21:00"
@@ -5950,7 +5950,7 @@
         "email": "afp.gestion@wanadoo.fr",
         "addr:housenumber": "25",
         "addr:street": "Route Du Puy D'Or",
-        "opening_hours": "Mo-Sa 06:29-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 06:29-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "25 Route Du Puy D'Or",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-19:59;Tu 06:29-19:59;We 06:29-19:59;Th 06:29-19:59;Fr 06:29-19:59;Sa 06:29-19:59"
@@ -6282,7 +6282,7 @@
         "phone": "+33 9 70 19 93 56",
         "email": "antoine.rivasseau@areas.com",
         "addr:street": "Gare de Lyon Perrache - 14, cours de Verdun Hall Niveau 1",
-        "opening_hours": "Mo-Fr 05:15-20:15;Sa 05:15-19:59;Su 05:15-21:15",
+        "opening_hours": "Mo-Fr 05:15-20:15; Sa 05:15-19:59; Su 05:15-21:15",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Lyon Perrache - 14, cours de Verdun Hall Niveau 1",
         "fixme:oh": "Su 05:15-21:15;Mo 05:15-20:15;Tu 05:15-20:15;We 05:15-20:15;Th 05:15-20:15;Fr 05:15-20:15;Sa 05:15-19:59"
@@ -6371,7 +6371,7 @@
         "website": "https://www.paul.fr/stores/mandelieu_la_napoule",
         "phone": "+33 4 93 47 80 66",
         "addr:street": "Parc D'Activit\u00e9 De La Canardi\u00e8re - Avenue Du Mar\u00e9chal Liautey",
-        "opening_hours": "Mo-Sa 07:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Parc D'Activit\u00e9 De La Canardi\u00e8re - Avenue Du Mar\u00e9chal Liautey",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:59;Tu 07:00-19:59;We 07:00-19:59;Th 07:00-19:59;Fr 07:00-19:59;Sa 07:00-19:59"
@@ -6402,7 +6402,7 @@
         "email": "mag0634@mag.groupeholder.com",
         "addr:housenumber": "71",
         "addr:street": "Rue Nationale - village Paul",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 07:30-13:00",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 07:30-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "71 Rue Nationale - village Paul",
         "fixme:oh": "Su 07:30-13:00;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -6520,7 +6520,7 @@
         "phone": "+33 4 91 27 24 14",
         "addr:housenumber": "184",
         "addr:street": "Route Des Trois Lucs",
-        "opening_hours": "Mo-Th 06:00-19:30;Fr-Su 06:00-19:59",
+        "opening_hours": "Mo-Th 06:00-19:30; Fr-Su 06:00-19:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "184, Route Des Trois Lucs",
         "fixme:oh": "Su 06:00-19:59;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:59;Sa 06:00-19:59"
@@ -6582,7 +6582,7 @@
         "email": "SERGE.MOUCHET@GMAIL.COM",
         "addr:housenumber": "570",
         "addr:street": "Rue Paradis",
-        "opening_hours": "Mo 07:00-18:29;Tu-Sa 07:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo 07:00-18:29; Tu-Sa 07:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "570, Rue Paradis",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-18:29;Tu 07:00-19:59;We 07:00-19:59;Th 07:00-19:59;Fr 07:00-19:59;Sa 07:00-19:59"
@@ -6613,7 +6613,7 @@
         "email": "thery_pascal@yahoo.fr",
         "addr:housenumber": "24",
         "addr:street": "Place De France, Centre Commercial Cora - Lot N\u00b0116 - Lieudit Des Grands Champs Ronds Et Le Petit Etang",
-        "opening_hours": "Mo-Sa 09:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 09:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "24 Place De France, Centre Commercial Cora - Lot N\u00b0116 - Lieudit Des Grands Champs Ronds Et Le Petit Etang",
         "fixme:oh": "Su 00:00-23:59;Mo 09:00-19:59;Tu 09:00-19:59;We 09:00-19:59;Th 09:00-19:59;Fr 09:00-19:59;Sa 09:00-19:59"
@@ -6827,7 +6827,7 @@
         "email": "clercsf45@lorpaul.fr",
         "addr:housenumber": "23",
         "addr:street": "RUE DES CLERCS",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 07:00-19:00",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "23 RUE DES CLERCS",
         "fixme:oh": "Su 07:00-19:00;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -6888,7 +6888,7 @@
         "phone": "+33 4 76 52 47 19",
         "addr:housenumber": "73",
         "addr:street": "Avenue Du Gr\u00e9sivaudan",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "73 Avenue Du Gr\u00e9sivaudan",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -7007,7 +7007,7 @@
         "email": "claude.gouda@free.fr",
         "addr:housenumber": "23/25",
         "addr:street": "Rue D'Assas",
-        "opening_hours": "Mo-Sa 07:00-19:59;Su 07:30-13:30",
+        "opening_hours": "Mo-Sa 07:00-19:59; Su 07:30-13:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "23/25 Rue D'Assas",
         "fixme:oh": "Su 07:30-13:30;Mo 07:00-19:59;Tu 07:00-19:59;We 07:00-19:59;Th 07:00-19:59;Fr 07:00-19:59;Sa 07:00-19:59"
@@ -7094,7 +7094,7 @@
         "phone": "+33 1 49 72 94 39",
         "email": "me0849@mag.groupeholder.com",
         "addr:street": "Centre Commercial Grand Angle - ZAC C\u0153ur de Ville",
-        "opening_hours": "Mo-Fr 07:30-18:30;Sa 09:00-18:00",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 09:00-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Grand Angle - ZAC C\u0153ur de Ville",
         "fixme:oh": "Mo 07:30-18:30;Tu 07:30-18:30;We 07:30-18:30;Th 07:30-18:30;Fr 07:30-18:30;Sa 09:00-18:00"
@@ -7153,7 +7153,7 @@
         "email": "panifoch.foch@j3a.fr",
         "addr:housenumber": "8",
         "addr:street": "place Andr\u00e9 Maginot 54000 NANCY",
-        "opening_hours": "Mo-Fr 07:00-19:00;Sa 08:00-19:00",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8 place Andr\u00e9 Maginot 54000 NANCY",
         "fixme:oh": "Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 08:00-19:00"
@@ -7274,7 +7274,7 @@
         "website": "https://www.paul.fr/stores/nantes_gare_sud",
         "phone": "+33 2 51 86 14 98",
         "addr:street": "Gare de Nantes, quai de Lourmel - Hall Sud situ\u00e9 dans la rotonde basse",
-        "opening_hours": "Mo-Fr 05:45-19:00;Sa-Su 07:00-19:00",
+        "opening_hours": "Mo-Fr 05:45-19:00; Sa-Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Nantes, quai de Lourmel - Hall Sud situ\u00e9 dans la rotonde basse",
         "fixme:oh": "Su 07:00-19:00;Mo 05:45-19:00;Tu 05:45-19:00;We 05:45-19:00;Th 05:45-19:00;Fr 05:45-19:00;Sa 07:00-19:00"
@@ -7333,7 +7333,7 @@
         "phone": "+33 1 46 24 79 98",
         "addr:housenumber": "90",
         "addr:street": "Avenue Charles de Gaulle",
-        "opening_hours": "Mo-Fr 07:30-20:00;Sa 08:00-20:30",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "90 Avenue Charles de Gaulle",
         "fixme:oh": "Mo 07:30-20:00;Tu 07:30-20:00;We 07:30-20:00;Th 07:30-20:00;Fr 07:30-20:00;Sa 08:00-20:30"
@@ -7364,7 +7364,7 @@
         "email": "boulangeriepaul.gambetta@gmail.com",
         "addr:housenumber": "44",
         "addr:street": "BOULEVARD GAMBETTA",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 07:00-19:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "44 BOULEVARD GAMBETTA",
         "fixme:oh": "Su 07:00-19:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -7426,7 +7426,7 @@
         "email": "paul.victorhugo@gmail.com",
         "addr:housenumber": "3",
         "addr:street": "Boulevard Victor Hugo",
-        "opening_hours": "Mo-Fr 07:00-20:00;Sa 07:00-21:00;Su 08:00-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-21:00; Su 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "3 Boulevard Victor Hugo",
         "fixme:oh": "Su 08:00-20:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-21:00"
@@ -7455,7 +7455,7 @@
         "website": "https://www.paul.fr/stores/nimes_gare",
         "phone": "+33 4 66 27 61 30",
         "addr:street": "Gare de N\u00eemes - 1  boulevard Sergent Triaire",
-        "opening_hours": "Mo-Fr 07:00-19:00;Sa 07:59-19:00;Su 09:00-19:00",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:59-19:00; Su 09:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de N\u00eemes - 1  boulevard Sergent Triaire",
         "fixme:oh": "Su 09:00-19:00;Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 07:59-19:00"
@@ -7485,7 +7485,7 @@
         "phone": "+33 1 43 05 61 10",
         "email": "mag0607@mag.groupeholder.com",
         "addr:street": "Centre Commercial Les Arcades - Clos Mont Est Lots 115/117/118",
-        "opening_hours": "Mo-Fr 07:00-20:00;Sa 08:30-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:30-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Les Arcades - Clos Mont Est Lots 115/117/118",
         "fixme:oh": "Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 08:30-20:00"
@@ -7515,7 +7515,7 @@
         "phone": "+33 1 43 03 44 89",
         "email": "mag0355@mag.groupeholder.com",
         "addr:street": "Centre Commercial Les Arcades Niveau 1 - Clos Mont D'Est  Local 113",
-        "opening_hours": "Mo-Fr 07:00-20:00;Sa 08:30-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:30-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Les Arcades Niveau 1 - Clos Mont D'Est  Local 113",
         "fixme:oh": "Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 08:30-20:00"
@@ -7546,7 +7546,7 @@
         "email": "paul.ollioules@gmail.com",
         "addr:housenumber": "363",
         "addr:street": "Route De La Seyne  - Quartier Capellane",
-        "opening_hours": "Mo-Fr 06:29-19:59;Sa 07:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Fr 06:29-19:59; Sa 07:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "363 Route De La Seyne  - Quartier Capellane",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-19:59;Tu 06:29-19:59;We 06:29-19:59;Th 06:29-19:59;Fr 06:29-19:59;Sa 07:00-19:59"
@@ -7576,7 +7576,7 @@
         "phone": "+33 4 94 15 06 40",
         "email": "paul.ollioules@gmail.com",
         "addr:street": "Centre Commercial Carrefour (Entr\u00e9e 3) Quartier Quiez - 55 Chemin De La Bouy\u00e8re",
-        "opening_hours": "Mo-Sa 08:30-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 08:30-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Carrefour (Entr\u00e9e 3) Quartier Quiez - 55 Chemin De La Bouy\u00e8re",
         "fixme:oh": "Su 00:00-23:59;Mo 08:30-19:59;Tu 08:30-19:59;We 08:30-19:59;Th 08:30-19:59;Fr 08:30-19:59;Sa 08:30-19:59"
@@ -7635,7 +7635,7 @@
         "website": "https://www.paul.fr/stores/orleans_gidy",
         "phone": "+33 2 38 79 02 10",
         "addr:street": "Aire d'Orl\u00e9ans Gidy - Autoroute A10 Sens Bordeaux - Paris",
-        "opening_hours": "Mo-Sa 07:00-18:30;Su 06:00-22:00",
+        "opening_hours": "Mo-Sa 07:00-18:30; Su 06:00-22:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aire d'Orl\u00e9ans Gidy - Autoroute A10 Sens Bordeaux - Paris",
         "fixme:oh": "Su 06:00-22:00;Mo 07:00-18:30;Tu 07:00-18:30;We 07:00-18:30;Th 07:00-18:30;Fr 07:00-18:30;Sa 07:00-18:30"
@@ -7694,7 +7694,7 @@
         "phone": "+33 6 78 58 52 92",
         "addr:housenumber": "39",
         "addr:street": "RUE ROYALE",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 07:00-13:00",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "39 RUE ROYALE",
         "fixme:oh": "Su 07:00-13:00;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -8215,7 +8215,7 @@
         "website": "https://www.paul.fr/stores/paris_gare_de_lyon",
         "phone": "+33 1 83 96 36 62",
         "addr:street": "Gare de Lyon, 43-49 place Louis Armand - HALL 2, proche de la voie 23",
-        "opening_hours": "Mo-We 05:30-20:30;Th 05:30-21:00;Fr 05:30-21:29;Sa 05:30-19:59;Su 05:30-21:29",
+        "opening_hours": "Mo-We 05:30-20:30; Th 05:30-21:00; Fr 05:30-21:29; Sa 05:30-19:59; Su 05:30-21:29",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Lyon, 43-49 place Louis Armand - HALL 2, proche de la voie 23",
         "fixme:oh": "Su 05:30-21:29;Mo 05:30-20:30;Tu 05:30-20:30;We 05:30-20:30;Th 05:30-21:00;Fr 05:30-21:29;Sa 05:30-19:59"
@@ -8306,7 +8306,7 @@
         "email": "mag0359@mag.groupeholder.com",
         "addr:housenumber": "5",
         "addr:street": "Rue Du Havre",
-        "opening_hours": "Mo-Fr 08:00-20:00;Sa 09:00-20:00",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "5 Rue Du Havre",
         "fixme:oh": "Mo 08:00-20:00;Tu 08:00-20:00;We 08:00-20:00;Th 08:00-20:00;Fr 08:00-20:00;Sa 09:00-20:00"
@@ -8336,7 +8336,7 @@
         "phone": "+33 1 45 89 82 83",
         "email": "ME0602@mag.groupeholder.com",
         "addr:street": "C.C.Italie2 Lots 106/107/28/2930 Avenue D'Italie",
-        "opening_hours": "Mo-Sa 09:00-20:00;Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "C.C.Italie2 Lots 106/107/28/2930 Avenue D'Italie",
         "fixme:oh": "Su 10:00-19:00;Mo 09:00-20:00;Tu 09:00-20:00;We 09:00-20:00;Th 09:00-20:00;Fr 09:00-20:00;Sa 09:00-20:00"
@@ -8367,7 +8367,7 @@
         "email": "ME0G50@mag.groupeholder.com",
         "addr:housenumber": "41",
         "addr:street": "Boulevard Malesherbes",
-        "opening_hours": "Mo-Fr 07:30-19:00;Sa 09:30-18:00",
+        "opening_hours": "Mo-Fr 07:30-19:00; Sa 09:30-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "41 Boulevard Malesherbes",
         "fixme:oh": "Mo 07:30-19:00;Tu 07:30-19:00;We 07:30-19:00;Th 07:30-19:00;Fr 07:30-19:00;Sa 09:30-18:00"
@@ -8490,7 +8490,7 @@
         "phone": "+33 1 45 61 00 05",
         "addr:housenumber": "15",
         "addr:street": "rue de Ponthieu",
-        "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-19:00;Su 08:00-18:30",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-19:00; Su 08:00-18:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "15 rue de Ponthieu",
         "fixme:oh": "Su 08:00-18:30;Mo 08:00-18:30;Tu 08:00-18:30;We 08:00-18:30;Th 08:00-18:30;Fr 08:00-18:30;Sa 08:00-19:00"
@@ -8581,7 +8581,7 @@
         "phone": "+33 9 67 33 31 18",
         "addr:housenumber": "14",
         "addr:street": "Bd St Michel",
-        "opening_hours": "Mo-Fr 08:00-19:00;Sa-Su 08:00-20:00",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "14, Bd St Michel",
         "fixme:oh": "Su 08:00-20:00;Mo 08:00-19:00;Tu 08:00-19:00;We 08:00-19:00;Th 08:00-19:00;Fr 08:00-19:00;Sa 08:00-20:00"
@@ -8611,7 +8611,7 @@
         "phone": "+33 4 50 45 16 40",
         "addr:housenumber": "7",
         "addr:street": "Rue De La Republique",
-        "opening_hours": "Mo-Sa 06:29-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 06:29-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "7 Rue De La Republique",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-19:59;Tu 06:29-19:59;We 06:29-19:59;Th 06:29-19:59;Fr 06:29-19:59;Sa 06:29-19:59"
@@ -8731,7 +8731,7 @@
         "website": "https://www.paul.fr/stores/paul_lyon_st_exupery",
         "phone": "+33 4 72 23 94 26",
         "addr:street": "Aeroport De Lyon Saint Exupery - Niveau 0 Terminal 2 zone publique",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 07:59-20:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:59-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Aeroport De Lyon Saint Exupery - Niveau 0 Terminal 2 zone publique",
         "fixme:oh": "Su 07:59-20:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -8761,7 +8761,7 @@
         "phone": "+33 3 89 44 07 65",
         "email": "paul.riedisheim@groupebk.com",
         "addr:street": "Angle rue Gustave Dollfuset- rue du Mar\u00e9chal Joffre",
-        "opening_hours": "Mo-Fr 06:00-19:30;Sa 06:00-18:30;Su 07:00-13:00",
+        "opening_hours": "Mo-Fr 06:00-19:30; Sa 06:00-18:30; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Angle rue Gustave Dollfuset- rue du Mar\u00e9chal Joffre",
         "fixme:oh": "Su 07:00-13:00;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:30;Sa 06:00-18:30"
@@ -8820,7 +8820,7 @@
         "phone": "+33 4 74 31 92 45",
         "email": "saslacvie@gmail.com",
         "addr:street": "Centre Commercial Monoprix  - 2 Rue Du Colonel Arnaud Beltrame",
-        "opening_hours": "Mo-Sa 07:30-19:00;Su 07:59-12:29",
+        "opening_hours": "Mo-Sa 07:30-19:00; Su 07:59-12:29",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Monoprix  - 2 Rue Du Colonel Arnaud Beltrame",
         "fixme:oh": "Su 07:59-12:29;Mo 07:30-19:00;Tu 07:30-19:00;We 07:30-19:00;Th 07:30-19:00;Fr 07:30-19:00;Sa 07:30-19:00"
@@ -8849,7 +8849,7 @@
         "website": "https://www.paul.fr/stores/perpignan_chateau_roussillon",
         "phone": "+33 4 68 56 59 23",
         "addr:street": "Centre Commercial Ch\u00e2teau Roussillon - Route Du Canet, Chemin De La Roseraie",
-        "opening_hours": "Mo-Th 07:30-19:00;Fr 07:00-19:00;Sa 07:00-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Th 07:30-19:00; Fr 07:00-19:00; Sa 07:00-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Ch\u00e2teau Roussillon - Route Du Canet, Chemin De La Roseraie",
         "fixme:oh": "Su 00:00-23:59;Mo 07:30-19:00;Tu 07:30-19:00;We 07:30-19:00;Th 07:30-19:00;Fr 07:00-19:00;Sa 07:00-19:30"
@@ -8879,7 +8879,7 @@
         "phone": "+33 4 82 29 99 69",
         "addr:housenumber": "18",
         "addr:street": "Rue Louis Blanc",
-        "opening_hours": "Mo-Sa 07:59-19:00;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:59-19:00; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "18 Rue Louis Blanc",
         "fixme:oh": "Su 00:00-23:59;Mo 07:59-19:00;Tu 07:59-19:00;We 07:59-19:00;Th 07:59-19:00;Fr 07:59-19:00;Sa 07:59-19:00"
@@ -8909,7 +8909,7 @@
         "phone": "+33 4 68 34 47 76",
         "addr:housenumber": "27",
         "addr:street": "Rue Mailly",
-        "opening_hours": "Mo-Sa 08:30-19:00;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 08:30-19:00; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "27, Rue Mailly",
         "fixme:oh": "Su 00:00-23:59;Mo 08:30-19:00;Tu 08:30-19:00;We 08:30-19:00;Th 08:30-19:00;Fr 08:30-19:00;Sa 08:30-19:00"
@@ -9056,7 +9056,7 @@
         "phone": "+33 4 50 09 73 92",
         "addr:housenumber": "25",
         "addr:street": "Route D'Annecy",
-        "opening_hours": "Mo-Sa 05:30-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 05:30-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "25 Route D'Annecy",
         "fixme:oh": "Su 00:00-23:59;Mo 05:30-19:59;Tu 05:30-19:59;We 05:30-19:59;Th 05:30-19:59;Fr 05:30-19:59;Sa 05:30-19:59"
@@ -9086,7 +9086,7 @@
         "phone": "+33 1 34 84 94 69",
         "addr:housenumber": "31",
         "addr:street": "RUE DU GENERAL DE GAULLE",
-        "opening_hours": "Mo-We 08:00-20:00;Fr-Sa 08:00-20:00;Su 08:00-19:00",
+        "opening_hours": "Mo-We 08:00-20:00; Fr-Sa 08:00-20:00; Su 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "31 RUE DU GENERAL DE GAULLE",
         "fixme:oh": "Su 08:00-19:00;Mo 08:00-20:00;Tu 08:00-20:00;We 08:00-20:00;Fr 08:00-20:00;Sa 08:00-20:00"
@@ -9117,7 +9117,7 @@
         "email": "champrelreims@gmail.com",
         "addr:housenumber": "20",
         "addr:street": "et 22 Place Myrron Herrick",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 07:30-15:00",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 07:30-15:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "20 et 22 Place Myrron Herrick",
         "fixme:oh": "Su 07:30-15:00;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -9148,7 +9148,7 @@
         "email": "boulangeriepaulreims2@gmail.com",
         "addr:housenumber": "1",
         "addr:street": "PLACE DROUET D'ERLON",
-        "opening_hours": "Mo-Sa 06:30-20:00;Su 07:00-18:00",
+        "opening_hours": "Mo-Sa 06:30-20:00; Su 07:00-18:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1 PLACE DROUET D'ERLON",
         "fixme:oh": "Su 07:00-18:00;Mo 06:30-20:00;Tu 06:30-20:00;We 06:30-20:00;Th 06:30-20:00;Fr 06:30-20:00;Sa 06:30-20:00"
@@ -9647,7 +9647,7 @@
         "phone": "+33 3 20 26 39 07",
         "addr:housenumber": "116-118",
         "addr:street": "boulevard du G\u00e9n\u00e9ral de Gaulle",
-        "opening_hours": "Mo-Sa 07:00-19:00;Su 07:00-13:00",
+        "opening_hours": "Mo-Sa 07:00-19:00; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "116-118 boulevard du G\u00e9n\u00e9ral de Gaulle",
         "fixme:oh": "Su 07:00-13:00;Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 07:00-19:00"
@@ -9707,7 +9707,7 @@
         "phone": "+33 2 35 07 45 28",
         "addr:housenumber": "35",
         "addr:street": "Rue Jeanne d'Arc",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 07:00-19:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "35 Rue Jeanne d'Arc",
         "fixme:oh": "Su 07:00-19:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -9738,7 +9738,7 @@
         "email": "mag0062@mag.groupeholder.com",
         "addr:housenumber": "193",
         "addr:street": "Rue de Bercy - Les Tours Gamma B\u00e2timent C 193 \u00e0 197",
-        "opening_hours": "Mo-Fr 07:00-20:00;Sa 07:30-14:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:30-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "193 Rue de Bercy - Les Tours Gamma B\u00e2timent C 193 \u00e0 197",
         "fixme:oh": "Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:30-14:00"
@@ -9769,7 +9769,7 @@
         "email": "paulstavertin@gmail.com",
         "addr:housenumber": "8",
         "addr:street": "rue du G\u00e9n\u00e9ral Mocquery",
-        "opening_hours": "Mo-Sa 08:00-20:00;Su 08:30-12:30",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-12:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8 rue du G\u00e9n\u00e9ral Mocquery",
         "fixme:oh": "Su 08:30-12:30;Mo 08:00-20:00;Tu 08:00-20:00;We 08:00-20:00;Th 08:00-20:00;Fr 08:00-20:00;Sa 08:00-20:00"
@@ -9799,7 +9799,7 @@
         "phone": "+33 4 74 01 33 40",
         "addr:housenumber": "169-171",
         "addr:street": "Route Nationale 6",
-        "opening_hours": "Mo-Sa 06:29-19:59;Su 00:00-00:00",
+        "opening_hours": "Mo-Sa 06:29-19:59; Su 00:00-00:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "169-171 Route Nationale 6",
         "fixme:oh": "Su 00:00-00:00;Mo 06:29-19:59;Tu 06:29-19:59;We 06:29-19:59;Th 06:29-19:59;Fr 06:29-19:59;Sa 06:29-19:59"
@@ -9890,7 +9890,7 @@
         "phone": "+33 2 48 55 19 72",
         "email": "recrutement18.36@gmail.com",
         "addr:street": "La Sente \u00e0 Rabot Route de la charit\u00e9",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 07:30-18:30",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 07:30-18:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "La Sente \u00e0 Rabot Route de la charit\u00e9",
         "fixme:oh": "Su 07:30-18:30;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -9977,7 +9977,7 @@
         "website": "https://www.paul.fr/stores/saint_lazare_paul_centre_commercial",
         "addr:housenumber": "13",
         "addr:street": "rue d'Amsterdam - Niveau centre commercial RDC",
-        "opening_hours": "Mo-Fr 06:00-20:30;Sa-Su 07:00-20:30",
+        "opening_hours": "Mo-Fr 06:00-20:30; Sa-Su 07:00-20:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "13 rue d'Amsterdam - Niveau centre commercial RDC",
         "fixme:oh": "Su 07:00-20:30;Mo 06:00-20:30;Tu 06:00-20:30;We 06:00-20:30;Th 06:00-20:30;Fr 06:00-20:30;Sa 07:00-20:30"
@@ -10008,7 +10008,7 @@
         "email": "paul.saintlouis@groupebk.com",
         "addr:housenumber": "103",
         "addr:street": "avenue du G\u00e9n\u00e9ral de Gaulle",
-        "opening_hours": "Mo-Fr 06:00-19:30;Sa 06:00-19:00;Su 07:00-13:00",
+        "opening_hours": "Mo-Fr 06:00-19:30; Sa 06:00-19:00; Su 07:00-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "103, avenue du G\u00e9n\u00e9ral de Gaulle",
         "fixme:oh": "Su 07:00-13:00;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:30;Sa 06:00-19:00"
@@ -10039,7 +10039,7 @@
         "email": "Paul.titan@groupebk.com",
         "addr:housenumber": "2",
         "addr:street": "RUE DE SEVILLE -  (ANGLE RUE DE MULHOUSE)",
-        "opening_hours": "Mo-Fr 06:00-19:30;Sa 06:00-19:00;Su 06:00-13:30",
+        "opening_hours": "Mo-Fr 06:00-19:30; Sa 06:00-19:00; Su 06:00-13:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "2 RUE DE SEVILLE -  (ANGLE RUE DE MULHOUSE)",
         "fixme:oh": "Su 06:00-13:30;Mo 06:00-19:30;Tu 06:00-19:30;We 06:00-19:30;Th 06:00-19:30;Fr 06:00-19:30;Sa 06:00-19:00"
@@ -10070,7 +10070,7 @@
         "email": "psmh38@gmail.com",
         "addr:housenumber": "117",
         "addr:street": "Avenue Gabriel P\u00e9ri",
-        "opening_hours": "Mo-Sa 07:00-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:00-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "117 Avenue Gabriel P\u00e9ri",
         "fixme:oh": "Su 00:00-23:59;Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 07:00-19:30"
@@ -10129,7 +10129,7 @@
         "website": "https://www.paul.fr/stores/saint_priest_en_jarez",
         "phone": "+33 4 77 73 42 34",
         "addr:street": "Angle De La Route De L'Etrat Et Du 1 Rue L\u00e9o Lagrange",
-        "opening_hours": "Mo-Fr 06:30-19:30;Sa-Su 07:30-19:00",
+        "opening_hours": "Mo-Fr 06:30-19:30; Sa-Su 07:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Angle De La Route De L'Etrat Et Du 1 Rue L\u00e9o Lagrange",
         "fixme:oh": "Su 07:30-19:00;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 07:30-19:00"
@@ -10159,7 +10159,7 @@
         "phone": "+33 3 23 64 80 20",
         "addr:housenumber": "1-3",
         "addr:street": "rue d'Isle",
-        "opening_hours": "Mo-Sa 07:00-19:00;Su 07:30-12:30",
+        "opening_hours": "Mo-Sa 07:00-19:00; Su 07:30-12:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "1-3, rue d'Isle",
         "fixme:oh": "Su 07:30-12:30;Mo 07:00-19:00;Tu 07:00-19:00;We 07:00-19:00;Th 07:00-19:00;Fr 07:00-19:00;Sa 07:00-19:00"
@@ -10309,7 +10309,7 @@
         "email": "me0698@mag.groupeholder.com",
         "addr:housenumber": "14",
         "addr:street": "cours du Danube - Centre Commercial Disneyland, Loc R1 207/209",
-        "opening_hours": "Mo-Th 09:00-20:00;Fr-Sa 09:00-20:30;Su 09:00-19:00",
+        "opening_hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-20:30; Su 09:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "14 cours du Danube - Centre Commercial Disneyland, Loc R1 207/209",
         "fixme:oh": "Su 09:00-19:00;Mo 09:00-20:00;Tu 09:00-20:00;We 09:00-20:00;Th 09:00-20:00;Fr 09:00-20:30;Sa 09:00-20:30"
@@ -10339,7 +10339,7 @@
         "phone": "+33 1 60 42 35 72",
         "email": "me0747@mag.groupeholder.com",
         "addr:street": "Centre Commercial Disneyland Local W021 - Niveau 0 ZAC Val D'Europe",
-        "opening_hours": "Mo-Sa 08:30-21:30;Su 08:30-19:00",
+        "opening_hours": "Mo-Sa 08:30-21:30; Su 08:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Disneyland Local W021 - Niveau 0 ZAC Val D'Europe",
         "fixme:oh": "Su 08:30-19:00;Mo 08:30-21:30;Tu 08:30-21:30;We 08:30-21:30;Th 08:30-21:30;Fr 08:30-21:30;Sa 08:30-21:30"
@@ -10400,7 +10400,7 @@
         "email": "paul.ollioules@gmail.com",
         "addr:housenumber": "2",
         "addr:street": "Corniche De Solviou",
-        "opening_hours": "Mo-Fr 06:29-19:59;Sa 07:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Fr 06:29-19:59; Sa 07:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "2 Corniche De Solviou",
         "fixme:oh": "Su 00:00-23:59;Mo 06:29-19:59;Tu 06:29-19:59;We 06:29-19:59;Th 06:29-19:59;Fr 06:29-19:59;Sa 07:00-19:59"
@@ -10461,7 +10461,7 @@
         "email": "mag0121@mag.groupeholder.com",
         "addr:housenumber": "3",
         "addr:street": "Rue Jean Jaur\u00e8s Ilot 8 Lot 34 - Centre Commercial St Denis Basilique",
-        "opening_hours": "Mo-Sa 07:00-20:00;Su 07:30-14:00",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:30-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "3 Rue Jean Jaur\u00e8s Ilot 8 Lot 34 - Centre Commercial St Denis Basilique",
         "fixme:oh": "Su 07:30-14:00;Mo 07:00-20:00;Tu 07:00-20:00;We 07:00-20:00;Th 07:00-20:00;Fr 07:00-20:00;Sa 07:00-20:00"
@@ -10491,7 +10491,7 @@
         "phone": "+33 4 77 32 33 29",
         "email": "souleyman.bah@areas.com",
         "addr:street": "Gare de Saint-Etienne Ch\u00e2teaucreux, 2, rue Esplanade de France - Situ\u00e9 dans le hall de la gare",
-        "opening_hours": "Mo-Fr 05:45-20:00;Sa 05:45-18:00;Su 09:00-20:00",
+        "opening_hours": "Mo-Fr 05:45-20:00; Sa 05:45-18:00; Su 09:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Saint-Etienne Ch\u00e2teaucreux, 2, rue Esplanade de France - Situ\u00e9 dans le hall de la gare",
         "fixme:oh": "Su 09:00-20:00;Mo 05:45-20:00;Tu 05:45-20:00;We 05:45-20:00;Th 05:45-20:00;Fr 05:45-20:00;Sa 05:45-18:00"
@@ -10640,7 +10640,7 @@
         "phone": "+33 1 30 57 12 44",
         "email": "mag0151@mag.groupeholder.com",
         "addr:street": "Centre Commercial Carrefour - Rue Des Epices",
-        "opening_hours": "Mo-Fr 08:00-20:30;Sa 08:00-20:00",
+        "opening_hours": "Mo-Fr 08:00-20:30; Sa 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Carrefour - Rue Des Epices",
         "fixme:oh": "Mo 08:00-20:30;Tu 08:00-20:30;We 08:00-20:30;Th 08:00-20:30;Fr 08:00-20:30;Sa 08:00-20:00"
@@ -10670,7 +10670,7 @@
         "phone": "+33 1 69 25 07 74",
         "addr:housenumber": "8",
         "addr:street": "Avenue De La Croix Blanche",
-        "opening_hours": "Mo-Sa 07:59-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:59-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8, Avenue De La Croix Blanche",
         "fixme:oh": "Su 00:00-23:59;Mo 07:59-19:30;Tu 07:59-19:30;We 07:59-19:30;Th 07:59-19:30;Fr 07:59-19:30;Sa 07:59-19:30"
@@ -10791,7 +10791,7 @@
         "phone": "+33 3 88 27 01 30",
         "email": "lucie.gillmann@finarest.com",
         "addr:street": "GALERIE MARCHANDE AUCHAN 11 Place Andr\u00e9 Maurois",
-        "opening_hours": "Mo-Fr 08:00-19:30;Sa 07:30-19:30",
+        "opening_hours": "Mo-Fr 08:00-19:30; Sa 07:30-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "GALERIE MARCHANDE AUCHAN 11 Place Andr\u00e9 Maurois",
         "fixme:oh": "Mo 08:00-19:30;Tu 08:00-19:30;We 08:00-19:30;Th 08:00-19:30;Fr 08:00-19:30;Sa 07:30-19:30"
@@ -10822,7 +10822,7 @@
         "email": "panarcades-hdf@finarest.com",
         "addr:housenumber": "8",
         "addr:street": "rue du Noyer",
-        "opening_hours": "Mo-Fr 07:00-19:30;Sa 08:00-19:30",
+        "opening_hours": "Mo-Fr 07:00-19:30; Sa 08:00-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "8 rue du Noyer",
         "fixme:oh": "Mo 07:00-19:30;Tu 07:00-19:30;We 07:00-19:30;Th 07:00-19:30;Fr 07:00-19:30;Sa 08:00-19:30"
@@ -10850,7 +10850,7 @@
         "shop": "bakery",
         "website": "https://www.paul.fr/stores/strasbourg_paul_sud",
         "addr:street": "PLACE DE LA GARE",
-        "opening_hours": "Mo-Fr 06:00-20:30;Sa 06:00-20:00;Su 06:30-20:30",
+        "opening_hours": "Mo-Fr 06:00-20:30; Sa 06:00-20:00; Su 06:30-20:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "PLACE DE LA GARE",
         "fixme:oh": "Su 06:30-20:30;Mo 06:00-20:30;Tu 06:00-20:30;We 06:00-20:30;Th 06:00-20:30;Fr 06:00-20:30;Sa 06:00-20:00"
@@ -10910,7 +10910,7 @@
         "phone": "+33 3 88 65 93 27",
         "email": "paul.rivetoile@finarest.com",
         "addr:street": "C.C. Rivetoile 3, place Dauphine Local n\u00b0 38",
-        "opening_hours": "Mo-Fr 10:00-20:00;Sa 09:00-20:00",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "C.C. Rivetoile 3, place Dauphine Local n\u00b0 38",
         "fixme:oh": "Mo 10:00-20:00;Tu 10:00-20:00;We 10:00-20:00;Th 10:00-20:00;Fr 10:00-20:00;Sa 09:00-20:00"
@@ -11030,7 +11030,7 @@
         "phone": "+33 1 46 86 44 78",
         "email": "mag0011@mag.groupeholder.com",
         "addr:street": "Centre Commercial Belle Epine - Local 76 / 77",
-        "opening_hours": "Mo 08:30-20:00;Tu 08:30-21:00;We-Fr 08:30-20:00;Sa 08:30-20:30",
+        "opening_hours": "Mo 08:30-20:00; Tu 08:30-21:00; We-Fr 08:30-20:00; Sa 08:30-20:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Belle Epine - Local 76 / 77",
         "fixme:oh": "Mo 08:30-20:00;Tu 08:30-21:00;We 08:30-20:00;Th 08:30-20:00;Fr 08:30-20:00;Sa 08:30-20:30"
@@ -11274,7 +11274,7 @@
         "phone": "+33 4 94 46 58 81",
         "email": "paul.ollioules@gmail.com",
         "addr:street": "Centre Commercial Mayol - Rue Des M\u00fbriers",
-        "opening_hours": "Mo-Sa 08:30-19:30;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 08:30-19:30; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Mayol - Rue Des M\u00fbriers",
         "fixme:oh": "Su 00:00-23:59;Mo 08:30-19:30;Tu 08:30-19:30;We 08:30-19:30;Th 08:30-19:30;Fr 08:30-19:30;Sa 08:30-19:30"
@@ -11303,7 +11303,7 @@
         "website": "https://www.paul.fr/stores/toulouse_metro_jean_jaures",
         "phone": "+33 5 82 08 12 77",
         "addr:street": "Gare de Toulouse M\u00e9tro B, 16 avenue Jean Jaur\u00e8s - Station Jean Jaures, Pr\u00e8s du m\u00e9tro Ligne B, au niveau -1",
-        "opening_hours": "Mo-Fr 06:30-20:00;Sa 08:30-19:00",
+        "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:30-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Gare de Toulouse M\u00e9tro B, 16 avenue Jean Jaur\u00e8s - Station Jean Jaures, Pr\u00e8s du m\u00e9tro Ligne B, au niveau -1",
         "fixme:oh": "Mo 06:30-20:00;Tu 06:30-20:00;We 06:30-20:00;Th 06:30-20:00;Fr 06:30-20:00;Sa 08:30-19:00"
@@ -11392,7 +11392,7 @@
         "email": "paulfondettes@gmail.com",
         "addr:housenumber": "72",
         "addr:street": "avenue du G\u00e9n\u00e9ral de Gaulle",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 07:30-13:00",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 07:30-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "72 avenue du G\u00e9n\u00e9ral de Gaulle",
         "fixme:oh": "Su 07:30-13:00;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -11573,7 +11573,7 @@
         "email": "mag0336@mag.groupeholder.com",
         "addr:housenumber": "22",
         "addr:street": "Avenue De L'Europe - Centre Commercial V\u00e9lizy, Cellule 263",
-        "opening_hours": "Mo-Sa 09:30-21:00;Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:30-21:00; Su 10:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "22 Avenue De L'Europe - Centre Commercial V\u00e9lizy, Cellule 263",
         "fixme:oh": "Su 10:00-19:00;Mo 09:30-21:00;Tu 09:30-21:00;We 09:30-21:00;Th 09:30-21:00;Fr 09:30-21:00;Sa 09:30-21:00"
@@ -11604,7 +11604,7 @@
         "email": "mag0348@mag.groupeholder.com",
         "addr:housenumber": "22",
         "addr:street": "Avenue De L'Europe Local 177Bis - Centre Commercial V\u00e9lizy",
-        "opening_hours": "Mo-Sa 10:00-21:00;Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "22 Avenue De L'Europe Local 177Bis - Centre Commercial V\u00e9lizy",
         "fixme:oh": "Su 10:00-19:00;Mo 10:00-21:00;Tu 10:00-21:00;We 10:00-21:00;Th 10:00-21:00;Fr 10:00-21:00;Sa 10:00-21:00"
@@ -11723,7 +11723,7 @@
         "email": "mag0671@mag.groupeholder.com",
         "addr:housenumber": "4",
         "addr:street": "Rue Georges Clemenceau",
-        "opening_hours": "Mo-Fr 07:30-20:00;Sa 08:00-20:00",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "4 Rue Georges Clemenceau",
         "fixme:oh": "Mo 07:30-20:00;Tu 07:30-20:00;We 07:30-20:00;Th 07:30-20:00;Fr 07:30-20:00;Sa 08:00-20:00"
@@ -11754,7 +11754,7 @@
         "email": "vichyq95@gmail.com",
         "addr:housenumber": "36",
         "addr:street": "rue Georges Cl\u00e9menceau",
-        "opening_hours": "Mo-Sa 07:30-19:30;Su 08:00-19:30",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 08:00-19:30",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "36 rue Georges Cl\u00e9menceau",
         "fixme:oh": "Su 08:00-19:30;Mo 07:30-19:30;Tu 07:30-19:30;We 07:30-19:30;Th 07:30-19:30;Fr 07:30-19:30;Sa 07:30-19:30"
@@ -11785,7 +11785,7 @@
         "email": "sasvastavie@gmail.com",
         "addr:housenumber": "20",
         "addr:street": "COURS ROMESTANG",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 07:30-13:00",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 07:30-13:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "20 COURS ROMESTANG",
         "fixme:oh": "Su 07:30-13:00;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -11815,7 +11815,7 @@
         "phone": "+33 4 82 29 98 64",
         "email": "vbcvillefontaine@gmail.com",
         "addr:street": "Parc Du Couvent  - The Village G05B",
-        "opening_hours": "Mo-Sa 07:59-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 07:59-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Parc Du Couvent  - The Village G05B",
         "fixme:oh": "Su 00:00-23:59;Mo 07:59-19:59;Tu 07:59-19:59;We 07:59-19:59;Th 07:59-19:59;Fr 07:59-19:59;Sa 07:59-19:59"
@@ -12025,7 +12025,7 @@
         "phone": "+33 4 42 10 48 49",
         "email": "SERGE.MOUCHET@GMAIL.COM",
         "addr:street": "Zac Le Liourat - 80 Avenue Padovani",
-        "opening_hours": "Mo-Sa 06:00-19:59;Su 00:00-23:59",
+        "opening_hours": "Mo-Sa 06:00-19:59; Su 00:00-23:59",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Zac Le Liourat - 80 Avenue Padovani",
         "fixme:oh": "Su 00:00-23:59;Mo 06:00-19:59;Tu 06:00-19:59;We 06:00-19:59;Th 06:00-19:59;Fr 06:00-19:59;Sa 06:00-19:59"
@@ -12055,7 +12055,7 @@
         "phone": "+33 3 20 82 50 03",
         "email": "malivraisonpaul@gmail.com",
         "addr:street": "Quartier du Noir BonnetBP 52Angle Gd Cottignies - J.Jaur\u00e8s",
-        "opening_hours": "Mo-Sa 06:30-19:30;Su 06:30-14:00",
+        "opening_hours": "Mo-Sa 06:30-19:30; Su 06:30-14:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Quartier du Noir BonnetBP 52Angle Gd Cottignies - J.Jaur\u00e8s",
         "fixme:oh": "Su 06:30-14:00;Mo 06:30-19:30;Tu 06:30-19:30;We 06:30-19:30;Th 06:30-19:30;Fr 06:30-19:30;Sa 06:30-19:30"
@@ -12115,7 +12115,7 @@
         "phone": "+33 3 89 50 12 79",
         "email": "paul.wittenheim@groupebk.com",
         "addr:street": "Centre Commercial Witty2 130, route de Soultz",
-        "opening_hours": "Mo-Fr 08:00-20:00;Sa 08:00-19:00",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00",
         "fixme": "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh",
         "fixme:addr": "Centre Commercial Witty2 130, route de Soultz",
         "fixme:oh": "Mo 08:00-20:00;Tu 08:00-20:00;We 08:00-20:00;Th 08:00-20:00;Fr 08:00-20:00;Sa 08:00-19:00"
