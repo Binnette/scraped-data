@@ -22,6 +22,70 @@ soup = BeautifulSoup(html, "html.parser")
 # Find all the script elements with type "text/x-magento-init"
 scripts = soup.find_all("script", {"type": "text/x-magento-init"})
 
+def simple_opening_hours(opening_hours):
+    days = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa']
+    result = []
+
+    for i, hours in enumerate(opening_hours):
+        if hours:
+            result.append(f"{days[i]} {hours[0]['start_time']}-{hours[0]['end_time']}")
+
+    return ';'.join(result)
+
+def parse_opening_hours(opening_hours):
+    if len(opening_hours) == 0:
+        return ""
+    days = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa']
+    day_hours = [None]*7
+    for i in range(1, 8):
+        index = i % 7
+        if opening_hours[index]:
+            day_hours[i-1] = f"{opening_hours[index][0]['start_time']}-{opening_hours[index][0]['end_time']}"
+
+    groups = []
+    cur_group = None
+    for i in range(0, 7):
+        h = day_hours[i]
+        if h == None:
+            if cur_group:
+                groups.append(cur_group)
+                cur_group = None
+            continue
+        if cur_group == None:
+            cur_group = {
+                "hours": h,
+                "min_day": i,
+                "max_day": i
+            }
+        elif cur_group["hours"] == h:
+            cur_group["max_day"] = max(cur_group["max_day"], i)    
+        else:
+            groups.append(cur_group)
+            cur_group = {
+                "hours": h,
+                "min_day": i,
+                "max_day": i
+            }
+    if cur_group:
+        groups.append(cur_group)
+
+    result = []
+    if len(groups) == 0:
+        return ""
+    if len(groups) == 1 and groups[0]["min_day"] == 0 and groups[0]["max_day"] == 6:
+        return groups[0]["hours"]
+
+    for group in groups:
+        if group["min_day"] == group["max_day"]:
+            day = group["min_day"]
+            result.append(f"{days[(day+1)%7]} {group["hours"]}")
+        else:
+            min_day = group["min_day"]
+            max_day = group["max_day"]
+            result.append(f"{days[(min_day+1)%7]}-{days[(max_day+1)%7]} {group["hours"]}")
+
+    return ';'.join(result)
+
 # Initialize an empty list to store the geojson features
 features = []
 
@@ -42,7 +106,7 @@ for script in scripts:
 
             properties = {
                 "shop": "bakery",
-                "name": "Boulangerie Paul",
+                "name": "Paul",
                 "website": marker["url"],
                 "addr:city": marker["city"].title(),
                 "addr:postcode": postcode,
@@ -63,7 +127,7 @@ for script in scripts:
             address = marker["street"][0]
             
             # Use a regular expression to find the house number and street name in the address
-            match = re.search("^(\d+[-\/]?\d?[\w]*),?\s+(.*)", address)
+            match = re.search(r"^(\d+[-\/]?\d?[\w]*),?\s+(.*)", address)
             
             # If there is a match, assign the groups to the corresponding properties
             if match:
@@ -71,6 +135,13 @@ for script in scripts:
                 properties["addr:street"] = match.group(2)
             else:
                 properties["addr:street"] = address
+
+            # Parse Opening Hours
+            properties["opening_hours"] = parse_opening_hours(marker["schedule"]["openingHours"])
+
+            properties["fixme"] = "Check address and opening hours, then the fixme, fixme:addr and fixme:oh"
+            properties["fixme:addr"] = address
+            properties["fixme:oh"] = simple_opening_hours(marker["schedule"]["openingHours"])
 
             # Parse the marker data and convert it to a geojson feature
             feature = geojson.Feature(
@@ -87,3 +158,5 @@ feature_collection = geojson.FeatureCollection(features)
 # Write the geojson feature collection to a file named "paul.geojson" with 2 spaces indentation
 with open("paul.geojson", "w") as f:
     geojson.dump(feature_collection, f, indent=2)
+
+print(f'Dump {len(features)} shops in paul.geojson')
