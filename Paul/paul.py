@@ -1,10 +1,7 @@
-# Import the requests and BeautifulSoup libraries
 import requests
-from bs4 import BeautifulSoup
-
-# Import the json and geojson libraries
 import json
 import geojson
+from bs4 import BeautifulSoup
 
 # Import the re library for regular expressions
 import re
@@ -78,11 +75,11 @@ def parse_opening_hours(opening_hours):
     for group in groups:
         if group["min_day"] == group["max_day"]:
             day = group["min_day"]
-            result.append(f"{days[(day+1)%7]} {group["hours"]}")
+            result.append(f'{days[(day+1)%7]} {group["hours"]}')
         else:
             min_day = group["min_day"]
             max_day = group["max_day"]
-            result.append(f"{days[(min_day+1)%7]}-{days[(max_day+1)%7]} {group["hours"]}")
+            result.append(f'{days[(min_day+1)%7]}-{days[(max_day+1)%7]} {group["hours"]}')
 
     return ';'.join(result)
 
@@ -105,12 +102,17 @@ for script in scripts:
             postcode = ("0" + marker["postCode"])[-5:]
 
             properties = {
-                "shop": "bakery",
-                "name": "Paul",
-                "website": marker["url"],
                 "addr:city": marker["city"].title(),
                 "addr:postcode": postcode,
+                "alt_name": marker["name"],
+                "brand": "Paul",
+                "brand:website": "https://www.paul.fr/",
+                "brand:wikidata": "Q3370417",
+                "brand:wikipedia": "en:Paul (bakery)",
+                "name": "Paul",
                 "ref:FR:Paul:id": marker["id"],
+                "shop": "bakery",
+                "website": marker["url"]
             }
 
             # Format phone
@@ -139,7 +141,7 @@ for script in scripts:
             # Parse Opening Hours
             properties["opening_hours"] = parse_opening_hours(marker["schedule"]["openingHours"])
 
-            properties["fixme"] = "Check address and opening hours, then the fixme, fixme:addr and fixme:oh"
+            properties["fixme"] = "Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh"
             properties["fixme:addr"] = address
             properties["fixme:oh"] = simple_opening_hours(marker["schedule"]["openingHours"])
 
