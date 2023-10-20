@@ -1,0 +1,1093 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-25421' lat='47.44852' lon='-0.540623'>
+    <tag k='addr:city' v='Angers' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='49000' />
+    <tag k='addr:street' v='boulevard Blanchoin' />
+    <tag k='alt_name' v='Angers' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='feuilletteangers@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='2 boulevard Blanchoin' />
+    <tag k='fixme:oh' v='Ouvert 7j/7 de 6h à 21h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 41 91 05 90' />
+    <tag k='ref:FR:Feuillette:extranet' v='32' />
+    <tag k='ref:FR:Feuillette:id' v='1963' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25422' lat='47.806' lon='3.56504'>
+    <tag k='addr:city' v='Auxerre' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='89000' />
+    <tag k='addr:street' v='Avenue Charles de Gaulle' />
+    <tag k='alt_name' v='Auxerre' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='auxerre@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='29 Avenue Charles de Gaulle' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='ref:FR:Feuillette:extranet' v='61' />
+    <tag k='ref:FR:Feuillette:id' v='4925' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-09-05' />
+  </node>
+  <node id='-25423' lat='49.416494' lon='2.113192'>
+    <tag k='addr:city' v='Beauvais' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='60000' />
+    <tag k='addr:street' v='avenue Blaise Pascal' />
+    <tag k='alt_name' v='Beauvais' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='beauvais@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='26 avenue Blaise Pascal' />
+    <tag k='fixme:oh' v='Ouvert de 6h à 20h du lundi au samedi et de 7h à 20h le dimanche&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 64 19 82 57' />
+    <tag k='ref:FR:Feuillette:extranet' v='1' />
+    <tag k='ref:FR:Feuillette:id' v='738' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25424' lat='49.438142' lon='2.118014'>
+    <tag k='addr:city' v='Beauvais' />
+    <tag k='addr:postcode' v='60000' />
+    <tag k='addr:street' v='Rue Jean Baptiste Godin - PAE du Haut-Villé' />
+    <tag k='alt_name' v='Beauvais (Leroy Merlin)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='beauvais@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Rue Jean Baptiste Godin - PAE du Haut-Villé' />
+    <tag k='fixme:oh' v='Ouvert de 9h à 20h du lundi au samedi et de 9h à 18h le dimanche&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 74 09 10 28' />
+    <tag k='ref:FR:Feuillette:extranet' v='1' />
+    <tag k='ref:FR:Feuillette:id' v='3981' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-08-30' />
+  </node>
+  <node id='-25425' lat='47.598194' lon='1.324283'>
+    <tag k='addr:city' v='Blois' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='41000' />
+    <tag k='addr:street' v='avenue de Vendôme' />
+    <tag k='alt_name' v='Blois' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='blois@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='37 avenue de Vendôme' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 42 44 00 95' />
+    <tag k='ref:FR:Feuillette:extranet' v='37' />
+    <tag k='ref:FR:Feuillette:id' v='2039' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2020-08-25' />
+  </node>
+  <node id='-25426' lat='47.605175' lon='1.352477'>
+    <tag k='addr:city' v='La Chaussée-Saint- Victor' />
+    <tag k='addr:housenumber' v='7B' />
+    <tag k='addr:postcode' v='41260' />
+    <tag k='addr:street' v='route nationale' />
+    <tag k='alt_name' v='Blois (La Chaussée Saint-Victor)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='lachaussee@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='7B route nationale' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 54 58 85 56' />
+    <tag k='ref:FR:Feuillette:extranet' v='2' />
+    <tag k='ref:FR:Feuillette:id' v='726' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25427' lat='47.567518' lon='1.364083'>
+    <tag k='addr:city' v='Saint-Gervais-la- Forêt' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='41350' />
+    <tag k='addr:street' v='route nationale' />
+    <tag k='alt_name' v='Blois (Saint-Gervais-La-Forêt)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='stgervais@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='69 route nationale' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 54 42 28 78' />
+    <tag k='ref:FR:Feuillette:extranet' v='3' />
+    <tag k='ref:FR:Feuillette:id' v='727' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25428' lat='47.066066' lon='2.370344'>
+    <tag k='addr:city' v='Bourges' />
+    <tag k='addr:housenumber' v='144' />
+    <tag k='addr:postcode' v='18000' />
+    <tag k='addr:street' v='avenue d’Issoudun' />
+    <tag k='alt_name' v='Bourges' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='bourges@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='144 avenue d’Issoudun' />
+    <tag k='fixme:oh' v='Ouvert toute l&apos;année, 7j/7 de 6h à 21h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 48 64 13 74' />
+    <tag k='ref:FR:Feuillette:extranet' v='5' />
+    <tag k='ref:FR:Feuillette:id' v='729' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25429' lat='45.15221' lon='1.50484'>
+    <tag k='addr:city' v='Brive-la-Gaillarde' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='19100' />
+    <tag k='addr:street' v='Avenue Guynemer' />
+    <tag k='alt_name' v='Brive-la-Gaillarde' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='brivelagaillarde@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='15 Avenue Guynemer' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 19 08 11 19' />
+    <tag k='ref:FR:Feuillette:extranet' v='64' />
+    <tag k='ref:FR:Feuillette:id' v='4926' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-09-05' />
+  </node>
+  <node id='-25430' lat='49.170101' lon='-0.322678'>
+    <tag k='addr:city' v='Mondeville' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='14120' />
+    <tag k='addr:street' v='route de Paris' />
+    <tag k='alt_name' v='Caen (Mondeville)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='caen@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='81 route de Paris' />
+    <tag k='fixme:oh' v='Ouvert toute l&apos;année, 7J/7, de 7h à 20h.&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 31 72 26 80' />
+    <tag k='ref:FR:Feuillette:extranet' v='6' />
+    <tag k='ref:FR:Feuillette:id' v='730' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25431' lat='48.44448' lon='1.486446'>
+    <tag k='addr:city' v='Chartres' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='28000' />
+    <tag k='addr:street' v='rue du Bois Merrain' />
+    <tag k='alt_name' v='Chartres (centre ville)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='centreville.feuillette.chartres@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='1 rue du Bois Merrain' />
+    <tag k='fixme:oh' v='Ouvert de 9h à 19h30&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 37 22 42 37' />
+    <tag k='ref:FR:Feuillette:extranet' v='43' />
+    <tag k='ref:FR:Feuillette:id' v='2304' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25432' lat='48.434741' lon='1.468969'>
+    <tag k='addr:city' v='Lucé' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='28110' />
+    <tag k='addr:street' v='rue du Maréchal Leclerc' />
+    <tag k='alt_name' v='Chartres (Lucé)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='feuillette.chartres@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='34 rue du Maréchal Leclerc' />
+    <tag k='fixme:oh' v='Ouvert 7j/7 de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 34 40 11 70' />
+    <tag k='ref:FR:Feuillette:extranet' v='7' />
+    <tag k='ref:FR:Feuillette:id' v='731' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25433' lat='46.796576' lon='1.729315'>
+    <tag k='addr:city' v='Le Poinçonnet' />
+    <tag k='addr:postcode' v='36330' />
+    <tag k='addr:street' v='Route de Montluçon' />
+    <tag k='alt_name' v='Chateauroux (Le Poinçonnet)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='poinconnet@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Route de Montluçon' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 42 05 00 90' />
+    <tag k='ref:FR:Feuillette:extranet' v='13' />
+    <tag k='ref:FR:Feuillette:id' v='1609' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25434' lat='47.055644' lon='-0.860215'>
+    <tag k='addr:city' v='Cholet' />
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:postcode' v='49300' />
+    <tag k='addr:street' v='rue de Lorraine' />
+    <tag k='alt_name' v='Cholet' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='cholet@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='172 rue de Lorraine' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 9 66 92 11 02' />
+    <tag k='ref:FR:Feuillette:extranet' v='45' />
+    <tag k='ref:FR:Feuillette:id' v='732' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25435' lat='45.886016' lon='3.06468'>
+    <tag k='addr:city' v='Malauzat' />
+    <tag k='addr:postcode' v='63200' />
+    <tag k='addr:street' v='Rue des gardelles - Rond-point Usine des Eaux de Volvic' />
+    <tag k='alt_name' v='Clermont-Ferrand (Malauzat)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='espacemozac@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Rue des gardelles - Rond-point Usine des Eaux de Volvic' />
+    <tag k='fixme:oh' v='Espace Mozac&#xD;&#xA;Ouvert tous les jours de 7h à 20h&#xD;&#xA;&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 73 63 28 32' />
+    <tag k='ref:FR:Feuillette:extranet' v='33' />
+    <tag k='ref:FR:Feuillette:id' v='2453' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2020-08-18' />
+  </node>
+  <node id='-25436' lat='45.79332' lon='3.11797'>
+    <tag k='addr:city' v='Clermont-Ferrand' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='63100' />
+    <tag k='addr:street' v='Boulevard Léon Jouhaux' />
+    <tag k='alt_name' v='Clermont-Ferrand (Montferrand)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='montferrand@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='44 Boulevard Léon Jouhaux' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h.' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 73 15 61 30' />
+    <tag k='ref:FR:Feuillette:extranet' v='33' />
+    <tag k='ref:FR:Feuillette:id' v='4854' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-05-25' />
+  </node>
+  <node id='-25437' lat='48.08243' lon='7.36365'>
+    <tag k='addr:city' v='Colmar' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='68000' />
+    <tag k='addr:street' v='Route de Selestat' />
+    <tag k='alt_name' v='Colmar' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='colmar@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='8 Route de Selestat' />
+    <tag k='fixme:oh' v='Ouvert tous les jours, 7j/7 de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 89 20 71 75' />
+    <tag k='ref:FR:Feuillette:extranet' v='38' />
+    <tag k='ref:FR:Feuillette:id' v='2955' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-02-16' />
+  </node>
+  <node id='-25438' lat='48.196717' lon='6.466652'>
+    <tag k='addr:city' v='Epinal' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='88000' />
+    <tag k='addr:street' v='bis rue de la bazaine' />
+    <tag k='alt_name' v='Epinal' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='epinal@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='6 bis rue de la bazaine' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 56 11 00 30' />
+    <tag k='ref:FR:Feuillette:extranet' v='9' />
+    <tag k='ref:FR:Feuillette:id' v='1610' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25439' lat='43.69648' lon='1.4001'>
+    <tag k='addr:city' v='Fenouillet' />
+    <tag k='addr:housenumber' v='161' />
+    <tag k='addr:postcode' v='31150' />
+    <tag k='addr:street' v='Route de Paris' />
+    <tag k='alt_name' v='Fenouillet' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='fenouillet@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='161 Route de Paris' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 67 91 71 23' />
+    <tag k='ref:FR:Feuillette:extranet' v='67' />
+    <tag k='ref:FR:Feuillette:id' v='4927' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-09-12' />
+  </node>
+  <node id='-25440' lat='49.056935' lon='1.168085'>
+    <tag k='addr:city' v='Gravigny' />
+    <tag k='addr:housenumber' v='277' />
+    <tag k='addr:postcode' v='27930' />
+    <tag k='addr:street' v='Avenue Aristide Briand' />
+    <tag k='alt_name' v='Gravigny' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='gravigny@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='277 Avenue Aristide Briand' />
+    <tag k='fixme:oh' v='Ouvert du lundi au samedi de 6h à 20h&#xD;&#xA;Ouvert le dimanche de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 78 77 12 95' />
+    <tag k='ref:FR:Feuillette:extranet' v='52' />
+    <tag k='ref:FR:Feuillette:id' v='3997' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25441' lat='46.18727' lon='-1.325374'>
+    <tag k='addr:city' v='La Flotte' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='17630' />
+    <tag k='addr:street' v='rue du Général de Gaulle' />
+    <tag k='alt_name' v='Ile de Ré (La Flotte en Ré)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='laflotte@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='20 rue du Général de Gaulle' />
+    <tag k='fixme:oh' v='Ouvert du mardi au samedi, de 7h à 13h et de 15h à 19h.&#xD;&#xA;Ouvert le dimanche de 7h à 13h.&#xD;&#xA;Fermé le lundi&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 46 09 60 28' />
+    <tag k='ref:FR:Feuillette:extranet' v='10' />
+    <tag k='ref:FR:Feuillette:id' v='745' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25442' lat='45.568919' lon='5.430368'>
+    <tag k='addr:city' v='Saint Jean de Soudain' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='38110' />
+    <tag k='addr:street' v='Chemin de Chapon' />
+    <tag k='alt_name' v='La Tour-du-Pin (Saint-Jean-de-Soudain)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='saintjeandesoudain@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='17 Chemin de Chapon' />
+    <tag k='fixme:oh' v='Ouvert du lundi au dimanche de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 74 83 90 24' />
+    <tag k='ref:FR:Feuillette:extranet' v='49' />
+    <tag k='ref:FR:Feuillette:id' v='4060' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-11-16' />
+  </node>
+  <node id='-25443' lat='49.514765' lon='0.196057'>
+    <tag k='addr:city' v='Harfleur' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='76700' />
+    <tag k='addr:street' v='rue Friedrich Engels' />
+    <tag k='alt_name' v='Le Havre (Harfleur)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='harfleur@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='12 rue Friedrich Engels' />
+    <tag k='fixme:oh' v='Ouvert 7J/7 de 6h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 35 51 64 08' />
+    <tag k='ref:FR:Feuillette:extranet' v='47' />
+    <tag k='ref:FR:Feuillette:id' v='3931' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-08-03' />
+  </node>
+  <node id='-25444' lat='47.976063' lon='0.167924'>
+    <tag k='addr:city' v='Le Mans' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='72100' />
+    <tag k='addr:street' v='rue Pierre Martin' />
+    <tag k='alt_name' v='Le Mans' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='lemans@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='1 rue Pierre Martin' />
+    <tag k='fixme:oh' v='Ouverte de 7h à 20h, dès le mardi 1er juin 2021' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 52 99 03 95' />
+    <tag k='ref:FR:Feuillette:extranet' v='50' />
+    <tag k='ref:FR:Feuillette:id' v='3658' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-06-01' />
+  </node>
+  <node id='-25445' lat='47.93455' lon='0.18683'>
+    <tag k='addr:city' v='Arnage' />
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:postcode' v='72230' />
+    <tag k='addr:street' v='Boulevard Pierre Lefaucheux' />
+    <tag k='alt_name' v='Le Mans (Arnage)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='l.lemesle@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='182 Boulevard Pierre Lefaucheux' />
+    <tag k='fixme:oh' v='Ouvert 7j/7 de 7h à 20h du lundi au samedi et de 7h30 à 14h le dimanche&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 43 42 65 94' />
+    <tag k='ref:FR:Feuillette:extranet' v='11' />
+    <tag k='ref:FR:Feuillette:id' v='733' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25446' lat='47.999379' lon='0.236213'>
+    <tag k='addr:city' v='Yvré l’Evêque' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='72100' />
+    <tag k='addr:street' v='rue douce amie' />
+    <tag k='alt_name' v='Le Mans (Yvré l’Evêque)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='yvre@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='2 rue douce amie' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 43 85 98 28' />
+    <tag k='ref:FR:Feuillette:extranet' v='12' />
+    <tag k='ref:FR:Feuillette:id' v='734' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25447' lat='49.4242' lon='1.05534'>
+    <tag k='addr:city' v='Le Petit-Quevilly' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:postcode' v='76140' />
+    <tag k='addr:street' v='Avenue des Alliés' />
+    <tag k='alt_name' v='Le Petit-Quevilly' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='lepetitquevilly@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='163 Avenue des Alliés' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='ref:FR:Feuillette:extranet' v='54' />
+    <tag k='ref:FR:Feuillette:id' v='4928' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-09-26' />
+  </node>
+  <node id='-25448' lat='44.904225' lon='-0.224078'>
+    <tag k='addr:city' v='Libourne' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='33500' />
+    <tag k='addr:street' v='avenue du Général de Gaulle' />
+    <tag k='alt_name' v='Libourne (Avenue du Général de Gaulle)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='libourne@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='95 avenue du Général de Gaulle' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 57 24 43 70' />
+    <tag k='ref:FR:Feuillette:extranet' v='4' />
+    <tag k='ref:FR:Feuillette:id' v='728' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25449' lat='44.93266' lon='-0.23817'>
+    <tag k='addr:city' v='Libourne' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='33500' />
+    <tag k='addr:street' v='Avenue Georges Pompidou' />
+    <tag k='alt_name' v='Libourne (Avenue Georges Pompidou)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='libournepompidou@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='59 Avenue Georges Pompidou' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='ref:FR:Feuillette:extranet' v='4' />
+    <tag k='ref:FR:Feuillette:id' v='4885' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-07-18' />
+  </node>
+  <node id='-25450' lat='45.851984' lon='1.253921'>
+    <tag k='addr:city' v='Limoges' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='87100' />
+    <tag k='addr:street' v='rue des Tuilières' />
+    <tag k='alt_name' v='Limoges (87100)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='feuillette.limoges@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='141 rue des Tuilières' />
+    <tag k='fixme:oh' v='Ouvert toute l&apos;année, 7J/7, de 6h30 à 21h.&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 55 57 30 99' />
+    <tag k='ref:FR:Feuillette:extranet' v='14' />
+    <tag k='ref:FR:Feuillette:id' v='735' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25451' lat='45.883435' lon='1.283902'>
+    <tag k='addr:city' v='Limoges' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='87280' />
+    <tag k='addr:street' v='rue Nicolas Appert' />
+    <tag k='alt_name' v='Limoges (87280)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='feuillette.limoges@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='4 rue Nicolas Appert' />
+    <tag k='fixme:oh' v='Ouvert 7J/7 de 6h30 à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 55 35 10 37' />
+    <tag k='ref:FR:Feuillette:extranet' v='42' />
+    <tag k='ref:FR:Feuillette:id' v='2468' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25452' lat='46.675462' lon='5.544215'>
+    <tag k='addr:city' v='Lons-le-Saunier' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='39000' />
+    <tag k='addr:street' v='place du Maréchal Juin' />
+    <tag k='alt_name' v='Lons-le-Saunier' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='lonslesaunier@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='60 place du Maréchal Juin' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 39 49 00 29' />
+    <tag k='ref:FR:Feuillette:extranet' v='57' />
+    <tag k='ref:FR:Feuillette:id' v='4682' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-11-22' />
+  </node>
+  <node id='-25453' lat='47.763972' lon='-3.394978'>
+    <tag k='addr:city' v='Lorient' />
+    <tag k='addr:postcode' v='56100' />
+    <tag k='addr:street' v='Rond point du Keryado' />
+    <tag k='alt_name' v='Lorient' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='lorient@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Rond point du Keryado' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 97 80 09 00' />
+    <tag k='ref:FR:Feuillette:extranet' v='15' />
+    <tag k='ref:FR:Feuillette:id' v='744' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25454' lat='49.078003' lon='6.102615'>
+    <tag k='addr:city' v='Augny' />
+    <tag k='addr:postcode' v='57685' />
+    <tag k='addr:street' v='Zone Actisud - 1, rue des trente jours' />
+    <tag k='alt_name' v='Metz (Augny)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='augny@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Zone Actisud - 1, rue des trente jours' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 87 52 29 79' />
+    <tag k='ref:FR:Feuillette:extranet' v='16' />
+    <tag k='ref:FR:Feuillette:id' v='1583' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25455' lat='49.263455' lon='6.174274'>
+    <tag k='addr:city' v='Mondelange' />
+    <tag k='addr:postcode' v='57300' />
+    <tag k='addr:street' v='rue de bousse' />
+    <tag k='alt_name' v='Metz (Mondelange)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='mondelange@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='rue de bousse' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 72 51 00 60' />
+    <tag k='ref:FR:Feuillette:extranet' v='17' />
+    <tag k='ref:FR:Feuillette:id' v='1611' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25456' lat='49.156771' lon='6.159531'>
+    <tag k='addr:city' v='Woippy' />
+    <tag k='addr:postcode' v='57140' />
+    <tag k='addr:street' v='rue des gravières' />
+    <tag k='alt_name' v='Metz (Woippy)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='woippy@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='rue des gravières' />
+    <tag k='fixme:oh' v='Ouvert toute l&apos;année, 7J/7, de 7h à 20h.&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 72 51 04 25' />
+    <tag k='ref:FR:Feuillette:extranet' v='28' />
+    <tag k='ref:FR:Feuillette:id' v='1760' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2019-10-29' />
+  </node>
+  <node id='-25457' lat='48.70945401465' lon='6.24101590697'>
+    <tag k='addr:city' v='Essey Les Nancy' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='54270' />
+    <tag k='addr:street' v='Av du 69ème Régiment d’infanterie' />
+    <tag k='alt_name' v='Nancy (Essey Les Nancy)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='esseylesnancy@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='120 Av du 69ème Régiment d’infanterie' />
+    <tag k='fixme:oh' v='Ouvert du lundi au dimanche de 6h30 à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 83 30 67 47' />
+    <tag k='ref:FR:Feuillette:extranet' v='60' />
+    <tag k='ref:FR:Feuillette:id' v='4615' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-07-19' />
+  </node>
+  <node id='-25458' lat='48.64797' lon='6.183239'>
+    <tag k='addr:city' v='Heillecourt' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='54180' />
+    <tag k='addr:street' v='Rue des Coteaux' />
+    <tag k='alt_name' v='Nancy (Heillecourt)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='heillecourt@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='1 Rue des Coteaux' />
+    <tag k='fixme:oh' v='ZAC d’Houdemont – ZI Ouest 54180 HEILLECOURT&#xD;&#xA;Ouvert toute l&apos;année, 7J/7, de 6h30 à 20h&#xD;&#xA;&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 83 98 77 84' />
+    <tag k='ref:FR:Feuillette:extranet' v='18' />
+    <tag k='ref:FR:Feuillette:id' v='1125' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25459' lat='46.993448' lon='3.149054'>
+    <tag k='addr:city' v='Nevers' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='58000' />
+    <tag k='addr:street' v='rue des docks' />
+    <tag k='alt_name' v='Nevers' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='nevers@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='2 rue des docks' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h30 à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 71 42 02 19' />
+    <tag k='ref:FR:Feuillette:extranet' v='36' />
+    <tag k='ref:FR:Feuillette:id' v='2454' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2020-08-25' />
+  </node>
+  <node id='-25460' lat='47.914848' lon='1.86965'>
+    <tag k='addr:city' v='Saint-Jean de la Ruelle' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='45140' />
+    <tag k='addr:street' v='rue Charles Beauhaire' />
+    <tag k='alt_name' v='Orléans (Saint-Jean-de-la-Ruelle)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='stjean@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='140 rue Charles Beauhaire' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h&#xD;&#xA;La boulangerie reste ouverte pendant toute la durée des travaux' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 38 54 70 88' />
+    <tag k='ref:FR:Feuillette:extranet' v='19' />
+    <tag k='ref:FR:Feuillette:id' v='736' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25461' lat='48.178891' lon='2.251829'>
+    <tag k='addr:city' v='Pithiviers' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='45300' />
+    <tag k='addr:street' v='avenue du 11 novembre 1918' />
+    <tag k='alt_name' v='Pithiviers' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='pithiviers@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='6 avenue du 11 novembre 1918' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 42 07 05 65' />
+    <tag k='ref:FR:Feuillette:extranet' v='44' />
+    <tag k='ref:FR:Feuillette:id' v='3053' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-04-13' />
+  </node>
+  <node id='-25462' lat='46.582719' lon='0.368125'>
+    <tag k='addr:city' v='Poitiers' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='86000' />
+    <tag k='addr:street' v='rue des Chalons' />
+    <tag k='alt_name' v='Poitiers' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='feuillette.poitiers@gmail.com' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='3 rue des Chalons' />
+    <tag k='fixme:oh' v='Ouvert de 6h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 49 11 72 62' />
+    <tag k='ref:FR:Feuillette:extranet' v='20' />
+    <tag k='ref:FR:Feuillette:id' v='737' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25463' lat='47.256237' lon='-2.316603'>
+    <tag k='addr:city' v='Pornichet' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='44380' />
+    <tag k='addr:street' v='allée des Cèdres - ZI Hecqueux' />
+    <tag k='alt_name' v='Pornichet' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='pornichet@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='1 allée des Cèdres - ZI Hecqueux' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 28 55 81 98' />
+    <tag k='ref:FR:Feuillette:extranet' v='29' />
+    <tag k='ref:FR:Feuillette:id' v='1801' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25464' lat='46.05386' lon='4.06381'>
+    <tag k='addr:city' v='Riorges' />
+    <tag k='addr:housenumber' v='381' />
+    <tag k='addr:postcode' v='42153' />
+    <tag k='addr:street' v='Avenue Charles de Gaulle' />
+    <tag k='alt_name' v='Riorges' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='riorges@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='381 Avenue Charles de Gaulle' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 12 05 19 55' />
+    <tag k='ref:FR:Feuillette:extranet' v='66' />
+    <tag k='ref:FR:Feuillette:id' v='4929' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-09-26' />
+  </node>
+  <node id='-25465' lat='46.158835' lon='-1.271577'>
+    <tag k='addr:city' v='Rivedoux-Plage' />
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:postcode' v='17940' />
+    <tag k='addr:street' v='Avenue Gustave Perreau' />
+    <tag k='alt_name' v='Rivedoux-Plage' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='rivedoux@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='126 Avenue Gustave Perreau' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 22h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 19 08 12 90' />
+    <tag k='ref:FR:Feuillette:extranet' v='69' />
+    <tag k='ref:FR:Feuillette:id' v='4884' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-11-22' />
+  </node>
+  <node id='-25466' lat='48.510364' lon='3.725028'>
+    <tag k='addr:city' v='Romilly-sur-Seine' />
+    <tag k='addr:housenumber' v='197' />
+    <tag k='addr:postcode' v='10100' />
+    <tag k='addr:street' v='rue Aristide Briand' />
+    <tag k='alt_name' v='Romilly-sur-Seine' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='romilly@feuillette-troyes.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='197 rue Aristide Briand' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h.' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 51 19 99 97' />
+    <tag k='ref:FR:Feuillette:extranet' v='26' />
+    <tag k='ref:FR:Feuillette:id' v='4679' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-11-01' />
+  </node>
+  <node id='-25467' lat='47.368343' lon='1.710551'>
+    <tag k='addr:city' v='Pruniers-en-Sologne' />
+    <tag k='addr:postcode' v='41200' />
+    <tag k='addr:street' v='Le Patureau de la Grange' />
+    <tag k='alt_name' v='Romorantin Lanthenay (Pruniers-en-Sologne)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='pruniers@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Le Patureau de la Grange' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 54 97 01 33' />
+    <tag k='ref:FR:Feuillette:extranet' v='22' />
+    <tag k='ref:FR:Feuillette:id' v='742' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25468' lat='46.694304' lon='-1.913407'>
+    <tag k='addr:city' v='Saint Gilles Croix de Vie' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='85800' />
+    <tag k='addr:street' v='rue des Potiers' />
+    <tag k='alt_name' v='Saint Gilles Croix de Vie' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='stgilles@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='2 rue des Potiers' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 55 65 00 90' />
+    <tag k='ref:FR:Feuillette:extranet' v='39' />
+    <tag k='ref:FR:Feuillette:id' v='1613' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25469' lat='48.4927' lon='-2.76364'>
+    <tag k='addr:city' v='Trégueux' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='22950' />
+    <tag k='addr:street' v='Rue Jean Monnet' />
+    <tag k='alt_name' v='Saint-Brieuc (Trégueux)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='tregueux@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='7 Rue Jean Monnet' />
+    <tag k='fixme:oh' v='Ouvert du lundi au dimanche de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 21 81 01 34' />
+    <tag k='ref:FR:Feuillette:extranet' v='48' />
+    <tag k='ref:FR:Feuillette:id' v='4143' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-01-25' />
+  </node>
+  <node id='-25470' lat='48.275309' lon='6.964006'>
+    <tag k='addr:city' v='Sainte-Marguerite' />
+    <tag k='addr:housenumber' v='557' />
+    <tag k='addr:postcode' v='88100' />
+    <tag k='addr:street' v='Rue Ernest Charlier' />
+    <tag k='alt_name' v='Sainte-Marguerite' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='saintemarguerite@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='557 Rue Ernest Charlier' />
+    <tag k='fixme:oh' v='Ouvert du lundi au dimanche, de 6h30 à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 83 40 60 61' />
+    <tag k='ref:FR:Feuillette:extranet' v='53' />
+    <tag k='ref:FR:Feuillette:id' v='4228' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-03-01' />
+  </node>
+  <node id='-25471' lat='45.750205' lon='-0.646236'>
+    <tag k='addr:city' v='Saintes' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='17100' />
+    <tag k='addr:street' v='cours du maréchal LECLERC' />
+    <tag k='alt_name' v='Saintes' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='saintes@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='36 cours du maréchal LECLERC' />
+    <tag k='fixme:oh' v='Ouvert 7J/7 de 6h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 5 46 94 63 33' />
+    <tag k='ref:FR:Feuillette:extranet' v='46' />
+    <tag k='ref:FR:Feuillette:id' v='3054' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-04-13' />
+  </node>
+  <node id='-25472' lat='47.348' lon='0.656774'>
+    <tag k='addr:city' v='Joué-Lès-Tours' />
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:postcode' v='37300' />
+    <tag k='addr:street' v='Boulevard Jean-Jaurès' />
+    <tag k='alt_name' v='Tours (Joué-Lès-Tours)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='jouelestours@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='155 Boulevard Jean-Jaurès' />
+    <tag k='fixme:oh' v='Ouvert du lundi au samedi de 6h à 20h&#xD;&#xA;Ouvert le dimanche de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 47 87 27 57' />
+    <tag k='ref:FR:Feuillette:extranet' v='24' />
+    <tag k='ref:FR:Feuillette:id' v='739' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25473' lat='47.419737' lon='0.664596'>
+    <tag k='addr:city' v='Saint-Cyr-sur- Loire' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='37540' />
+    <tag k='addr:street' v='rue de la Ménardière' />
+    <tag k='alt_name' v='Tours (Saint-Cyr-sur Loire)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='stcyr@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='9 rue de la Ménardière' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 9 67 32 43 35' />
+    <tag k='ref:FR:Feuillette:extranet' v='25' />
+    <tag k='ref:FR:Feuillette:id' v='740' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25474' lat='47.431329' lon='0.690965'>
+    <tag k='addr:city' v='Tours' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='37100' />
+    <tag k='addr:street' v='rue Thalès de Milet' />
+    <tag k='alt_name' v='Tours Nord' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='tours@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='15 rue Thalès de Milet' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 42 06 02 05' />
+    <tag k='ref:FR:Feuillette:extranet' v='35' />
+    <tag k='ref:FR:Feuillette:id' v='2040' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2020-06-23' />
+  </node>
+  <node id='-25475' lat='48.303515' lon='4.029458'>
+    <tag k='addr:city' v='La Chapelle St Luc' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:postcode' v='10600' />
+    <tag k='addr:street' v='rue du Général Sarrail' />
+    <tag k='alt_name' v='Troyes (La Chapelle Saint-Luc)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='troyes@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='130 rue du Général Sarrail' />
+    <tag k='fixme:oh' v='Ouvert du lundi au samedi de 6h à 20h&#xD;&#xA;Ouvert le dimanche de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 25 72 63 15' />
+    <tag k='ref:FR:Feuillette:extranet' v='26' />
+    <tag k='ref:FR:Feuillette:id' v='741' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25476' lat='48.32972647866' lon='4.09950078994'>
+    <tag k='addr:city' v='Lavau' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='10150' />
+    <tag k='addr:street' v='Rue des Sirettes' />
+    <tag k='alt_name' v='Troyes (Lavau)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='troyes@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='5 Rue des Sirettes' />
+    <tag k='fixme:oh' v='Ouvert du lundi au samedi de 6h à 20h&#xD;&#xA;Ouvert le dimanche de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 53 50 00 55' />
+    <tag k='ref:FR:Feuillette:extranet' v='26' />
+    <tag k='ref:FR:Feuillette:id' v='4589' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-05-02' />
+  </node>
+  <node id='-25477' lat='48.272763' lon='4.055818'>
+    <tag k='addr:city' v='Saint-André-les-Vergers' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:postcode' v='10120' />
+    <tag k='addr:street' v='Route d&apos;Auxerre' />
+    <tag k='alt_name' v='Troyes (Saint-André-les-Vergers)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='troyes@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='73 Route d&apos;Auxerre' />
+    <tag k='fixme:oh' v='Ouvert du lundi au samedi de 6h à 20h&#xD;&#xA;Ouvert le dimanche de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 53 50 00 25' />
+    <tag k='ref:FR:Feuillette:extranet' v='' />
+    <tag k='ref:FR:Feuillette:id' v='3996' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-10-01' />
+  </node>
+  <node id='-25478' lat='44.959235' lon='4.884298'>
+    <tag k='addr:city' v='Bourg-lès-Valence' />
+    <tag k='addr:housenumber' v='165' />
+    <tag k='addr:postcode' v='26500' />
+    <tag k='addr:street' v='rue des Chabanneries' />
+    <tag k='alt_name' v='Valence (Bourg-lès-Valence)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='valence@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='165 rue des Chabanneries' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h.' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 75 78 92 33' />
+    <tag k='ref:FR:Feuillette:extranet' v='55' />
+    <tag k='ref:FR:Feuillette:id' v='4681' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-11-15' />
+  </node>
+  <node id='-25479' lat='47.798126' lon='1.063897'>
+    <tag k='addr:city' v='Vendôme' />
+    <tag k='addr:housenumber' v='15B' />
+    <tag k='addr:postcode' v='41100' />
+    <tag k='addr:street' v='Avenue Gérard Yvon' />
+    <tag k='alt_name' v='Vendôme' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='vendome@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='15B Avenue Gérard Yvon' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 54 89 02 18' />
+    <tag k='ref:FR:Feuillette:extranet' v='27' />
+    <tag k='ref:FR:Feuillette:id' v='743' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='-25480' lat='48.71724' lon='1.36825'>
+    <tag k='addr:city' v='Vernouillet' />
+    <tag k='addr:postcode' v='28500' />
+    <tag k='addr:street' v='Rue de Bruxelles, ZC Plein Sud' />
+    <tag k='alt_name' v='Vernouillet' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='vernouillet@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Rue de Bruxelles, ZC Plein Sud' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 46 83 06 00' />
+    <tag k='ref:FR:Feuillette:extranet' v='66' />
+    <tag k='ref:FR:Feuillette:id' v='4941' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-10-10' />
+  </node>
+  <node id='-25481' lat='47.232741' lon='2.083301'>
+    <tag k='addr:city' v='Vierzon' />
+    <tag k='addr:postcode' v='18100' />
+    <tag k='addr:street' v='Avenue du 8 mai 1945' />
+    <tag k='alt_name' v='Vierzon' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='vierzon@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='Avenue du 8 mai 1945' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 2 19 06 00 70' />
+    <tag k='ref:FR:Feuillette:extranet' v='51' />
+    <tag k='ref:FR:Feuillette:id' v='3079' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2021-10-19' />
+  </node>
+  <node id='-25482' lat='50.587866' lon='3.052141'>
+    <tag k='addr:city' v='Wattignies' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='59139' />
+    <tag k='addr:street' v='rue Clemenceau' />
+    <tag k='alt_name' v='Wattignies' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='wattignies@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='225 rue Clemenceau' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 6h à 20h.' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 3 74 02 10 90' />
+    <tag k='ref:FR:Feuillette:extranet' v='59' />
+    <tag k='ref:FR:Feuillette:id' v='4680' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2022-11-15' />
+  </node>
+  <node id='-25483' lat='46.54729' lon='3.34092'>
+    <tag k='addr:city' v='Yzeure' />
+    <tag k='addr:housenumber' v='132' />
+    <tag k='addr:postcode' v='03400' />
+    <tag k='addr:street' v='route de Lyon' />
+    <tag k='alt_name' v='Yzeure (Ouverture le 7 novembre 2023)' />
+    <tag k='brand' v='Feuillette' />
+    <tag k='email' v='moulins@feuillette.fr' />
+    <tag k='fixme' v='Check address and opening hours, then delete the fixme, fixme:addr and fixme:oh' />
+    <tag k='fixme:addr' v='132 route de Lyon' />
+    <tag k='fixme:oh' v='Ouvert tous les jours de 7h à 20h&#xD;&#xA;' />
+    <tag k='name' v='Boulangerie Feuillette' />
+    <tag k='phone' v='+33 4 12 05 39 65' />
+    <tag k='ref:FR:Feuillette:extranet' v='79' />
+    <tag k='ref:FR:Feuillette:id' v='4953' />
+    <tag k='shop' v='bakery' />
+    <tag k='start_date' v='2023-11-07' />
+  </node>
+</osm>
