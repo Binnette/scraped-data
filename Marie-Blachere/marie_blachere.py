@@ -1,110 +1,171 @@
-import xml.etree.ElementTree as ET
-import json
+import csv
+import datetime
 import html
+import json
 import re
 import requests
-import urllib.parse
+from bs4 import BeautifulSoup
+from geojson2osm import geojson2osm
+from tqdm import tqdm
+from multiprocessing import Pool, cpu_count
 
-xml_url = 'https://boulangeries.marieblachere.com/wp-content/plugins/superstorefinder-wp/ssf-wp-xml.php'
-xml_file = 'ssf-wp-xml.php.xml'
+# Constants
+SSL_VERIFY = False
+JSON_URL = 'https://boulangeries.marieblachere.com/_next/data/6QhMlpC_aVGtbWYxnjA9t/fr/all.json'
+HISTORY_FILE = 'bakery_count_history.csv'
 
-# Download XML file
-response = requests.get(xml_url)
-if response.status_code == 200:
-    open(xml_file, 'wb').write(response.content)
-else:
-    print(f'Error {response.status_code} when downloading: {xml_file}')
-    exit
+def fetch_json_data(url):
+    """Fetch JSON data from the given URL."""
+    response = requests.get(url, verify=SSL_VERIFY)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f'Error {response.status_code} when fetching data from: {url}')
+        exit()
 
-# Parse the XML file
-tree = ET.parse('ssf-wp-xml.php.xml')
-root = tree.getroot()
+def capitalize_first_letter(input_string):
+    """Capitalize the first letter of the input string."""
+    if len(input_string) < 2:
+        return input_string
+    return input_string[0].upper() + input_string[1:]
 
-# Create an empty list to store the features
-features = []
-
-# Parse address from a string
-def parse_address(address):
-    properties = None
-    # Use regular expressions to extract the components of the address
-    # Assume the address format is: number street city, zipcode
-    # Use named groups to capture the components
-    #pattern = r'(?P<number>\d+)\s+(?P<street>.+?)\s+(?P<city>.+?),\s+(?P<zipcode>\d+)'
-    #pattern = r'(?:(?P<number>\d+)\s+)?(?P<street>.+?)\s+(?P<city>.+?),\s+(?P<zipcode>\d+)'
-    pattern = r'(?:(?P<number>\d+)\s+)?(?P<street>.+?)\s\s(?P<city>.+?),\s+(?P<zipcode>\d+)'
-
-    match = re.search(pattern, address)
-    # If the address matches the pattern, assign the properties from the match groups
+def parse_street_address(street_address):
+    """Parse the street address into house number and street name."""
+    properties = {}
+    pattern = r'(?P<number>\d+\sà\s\d+)\s(?P<street>.+)'
+    match = re.search(pattern, street_address)
     if match:
-        properties = {}
-        properties['addr:city'] = match.group('city')
         properties['addr:housenumber'] = match.group('number')
-        properties['addr:postcode'] = match.group('zipcode')
-        properties['addr:street'] = match.group('street')
-    # Return the object with properties
+        properties['addr:street'] = capitalize_first_letter(match.group('street'))
     return properties
 
-# Loop through the items inside the store block
-for item in root.find('store'):
-    # Create a dictionary to store the feature properties
-    properties = {}
+def convert_opening_hours(opening_hours_spec):
+    """Convert opening hours specification to a formatted string."""
+    day_mapping = {
+        "http://schema.org/Monday": "Mo",
+        "http://schema.org/Tuesday": "Tu",
+        "http://schema.org/Wednesday": "We",
+        "http://schema.org/Thursday": "Th",
+        "http://schema.org/Friday": "Fr",
+        "http://schema.org/Saturday": "Sa",
+        "http://schema.org/Sunday": "Su"
+    }
+    formatted_hours = []
+    for spec in opening_hours_spec:
+        day = day_mapping.get(spec["dayOfWeek"], "")
+        opens = spec["opens"]
+        closes = spec["closes"]
+        formatted_hours.append(f"{day} {opens}-{closes}")
+    return "; ".join(formatted_hours)
 
-    # Unescape alt_name
-    alt_name = item.find('location').text
-    alt_name = html.unescape(alt_name)
+def format_fr_phone_number(phone_number):
+    """Format a French phone number to the international format."""
+    digits = re.sub(r'\D', '', phone_number)
+    if digits.startswith('0'):
+        digits = '+33' + digits[1:]
+    if len(digits) == 12:
+        return f"+33 {digits[3]} {digits[4:6]} {digits[6:8]} {digits[8:10]} {digits[10:12]}"
+    return digits
 
-    # Parse address
-    address = item.find('address').text
-    address = html.unescape(address)
-    addr = parse_address(address)
+def extract_json_ld(url):
+    """Extract JSON-LD data from the given URL."""
+    response = requests.get(url, verify=SSL_VERIFY)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        script_tag = soup.find('script', type='application/ld+json')
+        if script_tag:
+            return json.loads(script_tag.string)
+    return None
 
-    # Assign the properties from the item elements By alphabetic order
-    if addr:
-        if addr['addr:city']:
-            properties['addr:city'] = addr['addr:city'].title().strip()
-        if addr['addr:housenumber']:
-            properties['addr:housenumber'] = addr['addr:housenumber'].strip()
-        if addr['addr:postcode']:
-            properties['addr:postcode'] = addr['addr:postcode'].strip()
-        if addr['addr:street']:
-            properties['addr:street'] = addr['addr:street'].strip().capitalize()
+def process_bakery(bakery_data):
+    """Process a single bakery's data and return a GeoJSON feature."""
+    properties = {
+        'alt_name': html.unescape(bakery_data['label']),
+        'addr:city': bakery_data['City'].capitalize(),
+        'addr:postcode': bakery_data['PostalCode']
+    }
 
-    properties['alt_name'] = alt_name
-    properties['brand'] = 'Marie Blachère'
-    properties['brand:wikidata'] = 'Q62082410'
-    properties['brand:wikipedia'] = 'fr:Marie Blachère'
-    properties['fixme'] = 'Check address and delete fixme and fixme:addr.'
-    properties['fixme:addr'] = address
-    properties['name'] = 'Boulangerie Marie Blachère'
-    properties['ref:FR:MarieBlachere:id'] = item.find('storeId').text
-    properties['shop'] = 'bakery'
-    properties['website'] = item.find('exturl').text.replace(" ", "%20")
+    bakery_url = f"https://boulangeries.marieblachere.com{bakery_data['url']}"
+    json_ld = extract_json_ld(bakery_url)
 
-    # Create a dictionary to store the feature geometry
-    geometry = {}
-    # Assign the geometry type and coordinates from the properties
-    geometry['type'] = 'Point'
-    geometry['coordinates'] = [float(item.find('longitude').text), float(item.find('latitude').text)]
+    if json_ld:
+        bakery_info = json_ld[0]
+        address_info = bakery_info['address']
+        geo_info = bakery_info['geo']
 
-    # Create a dictionary to store the feature
-    feature = {}
-    # Assign the feature type, properties and geometry
-    feature['type'] = 'Feature'
-    feature['properties'] = properties
-    feature['geometry'] = geometry
+        if bakery_data['City'] != address_info['addressLocality']:
+            properties['fixme:addr:city'] = f"Two different city names: {bakery_data['City']} and {address_info['addressLocality']}"
+        if bakery_data['PostalCode'] != address_info['postalCode']:
+            properties['fixme:addr:postcode'] = f"Two different postal codes: {bakery_data['PostalCode']} and {address_info['postalCode']}"
 
-    # Append the feature to the list of features
-    features.append(feature)
+        properties.update(parse_street_address(address_info['streetAddress']))
 
-# Create a dictionary to store the geojson object
-geojson = {}
-# Assign the geojson type and features
-geojson['type'] = 'FeatureCollection'
-geojson['features'] = features
+        phone = bakery_info.get('telephone', '')
+        if address_info['addressCountry'] == 'FR':
+            phone = format_fr_phone_number(phone)
 
-# Write the geojson object to a file named marie_blachere.geojson
-with open('marie_blachere.geojson', 'w', encoding='utf-8') as f:
-    json.dump(geojson, f, indent=4, ensure_ascii=False)
+        properties.update({
+            'brand': 'Marie Blachère',
+            'brand:wikidata': 'Q62082410',
+            'brand:wikipedia': 'fr:Marie Blachère',
+            'fixme': 'Check address and opening_hours and delete all fixmes',
+            'fixme:addr': f'{address_info["streetAddress"]} {address_info["postalCode"]} {address_info["addressLocality"]}',
+            'name': 'Boulangerie Marie Blachère',
+            'ref:FR:MarieBlachere:id': bakery_data['Id'],
+            'ref:FR:MarieBlachere:code': bakery_data['Code'],
+            'shop': 'bakery',
+            'website': bakery_url.replace(" ", "%20"),
+            'phone': phone,
+            'email': bakery_info.get('email', ''),
+            'opening_hours': convert_opening_hours(bakery_info['openingHoursSpecification'])
+        })
 
-# Print a message to indicate the completion of the task
-print('The geojson file has been created successfully.')
+        geometry = {
+            'type': 'Point',
+            'coordinates': [geo_info['longitude'], geo_info['latitude']]
+        }
+
+        feature = {
+            'type': 'Feature',
+            'properties': properties,
+            'geometry': geometry
+        }
+
+        return feature
+    return None
+
+def main():
+    data = fetch_json_data(JSON_URL)
+    bakery_data_list = data['pageProps']['allPois']
+
+    # Use multiprocessing Pool to process bakeries in parallel
+    with Pool(cpu_count()) as pool:
+        results = list(tqdm(pool.imap_unordered(process_bakery, bakery_data_list), total=len(bakery_data_list), desc="Processing bakeries"))
+
+    features = [feature for feature in results if feature is not None]
+
+    geojson = {
+        'type': 'FeatureCollection',
+        'features': features
+    }
+
+    with open('marie_blachere.geojson', 'w', encoding='utf-8') as file:
+        json.dump(geojson, file, indent=4, ensure_ascii=False)
+
+    print('The geojson file has been created successfully.')
+
+    osm_xml = geojson2osm(geojson)
+
+    with open('marie_blachere.osm', 'w', encoding='utf-8') as output_file:
+        output_file.write(osm_xml)
+
+    print('The OSM file has been created successfully.')
+
+    # Record the number of bakeries extracted
+    current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+    with open(HISTORY_FILE, 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow([current_date, len(features)])
+
+if __name__ == "__main__":
+    main()
