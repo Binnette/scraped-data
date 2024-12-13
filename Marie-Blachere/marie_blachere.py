@@ -135,6 +135,8 @@ def process_bakery(bakery_data):
     return None
 
 def main():
+    print(f"Number of CPU cores available: {cpu_count()}")
+
     data = fetch_json_data(JSON_URL)
     bakery_data_list = data['pageProps']['allPois']
 
