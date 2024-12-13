@@ -1,12 +1,12 @@
-name: Marie-Blachere Workflow
+name: Skaping Workflow
 
 on:
   schedule:
-    - cron: '0 1 1 * *'  # Runs at 01:00 UTC on the first day of every month
+    - cron: '0 2 1 * *'  # Runs at 01:00 UTC on the first day of every month
   workflow_dispatch:  # Allows manual triggering from the GitHub web interface
 
 jobs:
-  run-marie-blachere:
+  run-skaping:
     runs-on: ubuntu-latest
 
     permissions:
@@ -26,9 +26,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4 geojson2osm tqdm pandas matplotlib
 
-    - name: Run marie_blachere.py
-      run: python marie_blachere.py
-      working-directory: Marie-Blachere
+    - name: Run skaping.py
+      run: python skaping.py
+      working-directory: Skaping
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -45,9 +45,9 @@ jobs:
 
     - name: Generate graphic
       run: python generate_graphic.py
-      working-directory: Marie-Blachere
+      working-directory: Skaping
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Marie-Blachere $(date +'%Y-%m-%d')"
+        commit_message: "Skaping $(date +'%Y-%m-%d')"
