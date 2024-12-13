@@ -10,7 +10,7 @@ from tqdm import tqdm
 from multiprocessing import Pool, cpu_count
 
 # Constants
-SSL_VERIFY = False
+SSL_VERIFY = True
 JSON_URL = 'https://boulangeries.marieblachere.com/_next/data/6QhMlpC_aVGtbWYxnjA9t/fr/all.json'
 HISTORY_FILE = 'bakery_count_history.csv'
 
