@@ -1,0 +1,4136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.153763,
+          43.953811
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Lescure D'Albigeois",
+        "addr:housenumber": "",
+        "addr:street": "centre commercial Pop'A",
+        "addr:postcode": "81380",
+        "addr:city": "Lescure D Albigeois",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Lieu-dit L'Arquipeyre - Route de la Drèche à côté de Leclerc centre commercial Pop'A 81380 Lescure D Albigeois FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ABI",
+        "website": "https://www.stokomani.fr/stokomani-lescure-d-albigeois.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.637034,
+          44.176186
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Agen",
+        "addr:housenumber": "83",
+        "addr:street": "rue des gardes",
+        "addr:postcode": "47550",
+        "addr:city": "Boe",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC des gardes 83 rue des gardes 47550 Boe FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AGE",
+        "website": "https://www.stokomani.fr/stokomani-agen.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.094568,
+          46.101456
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Angoulins-Sur- Mer",
+        "addr:housenumber": "",
+        "addr:street": "rue Du Moulin De La Pierre",
+        "addr:postcode": "17690",
+        "addr:city": "Angoulins",
+        "addr:place": "près de Boulanger",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Z.A des Ormeaux près de Boulanger rue Du Moulin De La Pierre 17690 Angoulins FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AGL",
+        "website": "https://www.stokomani.fr/stokomani-angoulins-sur-mer.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.063307,
+          48.433573
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Alençon",
+        "addr:housenumber": "",
+        "addr:street": "Rue de bretagne",
+        "addr:postcode": "61250",
+        "addr:city": "Conde Sur Sarthe",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Rue de bretagne 61250 Conde Sur Sarthe FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ALC",
+        "website": "https://www.stokomani.fr/stokomani-alencon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.092164,
+          44.106322
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Ales",
+        "addr:housenumber": "846",
+        "addr:street": "avenue Olivier De Serres",
+        "addr:postcode": "30100",
+        "addr:city": "Ales",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Rocade Sud 846 avenue Olivier De Serres 30100 Ales FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ALE",
+        "website": "https://www.stokomani.fr/stokomani-ales.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.627271,
+          47.485575
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Angers",
+        "addr:housenumber": "",
+        "addr:street": "Rue de Saint-Clément-de-la-Place",
+        "addr:postcode": "49070",
+        "addr:city": "Beaucouzé",
+        "addr:place": "ZA du Buisson",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial L'Atoll Angers ZA du Buisson Rue de Saint-Clément-de-la-Place 49070 Beaucouzé FRANCE",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ALO",
+        "website": "https://www.stokomani.fr/stokomani-angers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307338,
+          49.921535
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Amiens",
+        "addr:housenumber": "",
+        "addr:street": "Rainneville Shopping Promenade",
+        "addr:postcode": "80000",
+        "addr:city": "Amiens",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Cœur Picardie - Carrefour Rainneville Shopping Promenade 80000 Amiens FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AMS",
+        "website": "https://www.stokomani.fr/stokomani-amiens.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.174335,
+          45.690595
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Angoulême Champniers",
+        "addr:housenumber": "",
+        "addr:street": "zone commerciale Des Montagnes Angoulême Nord",
+        "addr:postcode": "16430",
+        "addr:city": "Champniers",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Lieu dit Plantier zone commerciale Des Montagnes Angoulême Nord 16430 Champniers FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ANM",
+        "website": "https://www.stokomani.fr/stokomani-angouleme-champniers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27802,
+          50.73119
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Arques",
+        "addr:housenumber": "",
+        "addr:street": "avenue Yves Montand",
+        "addr:postcode": "62510",
+        "addr:city": "Arques",
+        "addr:place": "ZAC de la Garennne à côté de Darty",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de la Garennne à côté de Darty avenue Yves Montand 62510 Arques FRANCE",
+        "opening_hours": "Mo-Sa 08:30-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AQE",
+        "website": "https://www.stokomani.fr/stokomani-arques.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.726175,
+          50.306343
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Arras - Duisans",
+        "addr:housenumber": "",
+        "addr:street": "promenade D'Artois",
+        "addr:postcode": "62161",
+        "addr:city": "Duisans",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Commerciale Arras promenade D'Artois 62161 Duisans FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ARA",
+        "website": "https://www.stokomani.fr/stokomani-arras-duisans.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403293,
+          44.895675
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Aurillac",
+        "addr:housenumber": "",
+        "addr:street": ": 45 route de Toulouse",
+        "addr:postcode": "15130",
+        "addr:city": "Ytrac",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de King Jouet : 45 route de Toulouse 15130 Ytrac FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AUR",
+        "website": "https://www.stokomani.fr/stokomani-aurillac.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.270549,
+          46.972501
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Autun",
+        "addr:housenumber": "4",
+        "addr:street": "rue joséphine baker",
+        "addr:postcode": "71400",
+        "addr:city": "Autun",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Parc d’Activité de Bellevue 4 rue joséphine baker 71400 Autun FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AUT",
+        "website": "https://www.stokomani.fr/stokomani-autun.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.868621,
+          43.920405
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Avignon Sud",
+        "addr:housenumber": "270",
+        "addr:street": "Av. Marcou Delanglade",
+        "addr:postcode": "84140",
+        "addr:city": "Avignon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 270 Av. Marcou Delanglade 84140 Avignon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_AVI",
+        "website": "https://www.stokomani.fr/stokomani-avignon-sud.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.972569,
+          49.531263
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Pissy Poville",
+        "addr:housenumber": "",
+        "addr:street": "zone commerciale Le Parvis Des Senteurs",
+        "addr:postcode": "76360",
+        "addr:city": "Pissy Poville",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Maltzaize zone commerciale Le Parvis Des Senteurs 76360 Pissy Poville FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BAR",
+        "website": "https://www.stokomani.fr/stokomani-pissy-poville.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565103,
+          44.871039
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Bordeaux",
+        "addr:housenumber": "213",
+        "addr:street": "boulevard Alfred Daney",
+        "addr:postcode": "33000",
+        "addr:city": "Bordeaux",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 213 boulevard Alfred Daney 33000 Bordeaux FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BDX",
+        "website": "https://www.stokomani.fr/stokomani-bordeaux.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.235757,
+          46.208873
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Bourg En Bresse",
+        "addr:housenumber": "25",
+        "addr:street": "boulevard Irène Joliot Currie",
+        "addr:postcode": "01000",
+        "addr:city": "Bourg En Bresse",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 25 boulevard Irène Joliot Currie 01000 Bourg En Bresse FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BEB",
+        "website": "https://www.stokomani.fr/stokomani-bourg-en-bresse.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.457339,
+          44.838754
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Bergerac",
+        "addr:housenumber": "",
+        "addr:street": "Route de Bordeaux",
+        "addr:postcode": "24100",
+        "addr:city": "Bergerac",
+        "addr:place": "ZA de la Cavaille D936",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZA de la Cavaille D936 Route de Bordeaux 24100 Bergerac FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BER",
+        "website": "https://www.stokomani.fr/stokomani-bergerac.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.247019,
+          45.589842
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Bourgoin-Jallieu",
+        "addr:housenumber": "1",
+        "addr:street": "rue Edouard Branly",
+        "addr:postcode": "38300",
+        "addr:city": "Bourgoin-Jallieu",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de la Maladière 1 rue Edouard Branly 38300 Bourgoin-Jallieu FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BGN",
+        "website": "https://www.stokomani.fr/stokomani-bourgoin-jallieu.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48014,
+          45.144511
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Brive La Gaillarde",
+        "addr:housenumber": "",
+        "addr:street": "avenue Jean Charles Rive",
+        "addr:postcode": "19100",
+        "addr:city": "Brive La Gaillarde",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Jean Charles Rive 19100 Brive La Gaillarde FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BIV",
+        "website": "https://www.stokomani.fr/stokomani-brive-la-gaillarde.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.36617,
+          43.643905
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Blagnac",
+        "addr:housenumber": "2",
+        "addr:street": "impasse Roland Garros",
+        "addr:postcode": "31700",
+        "addr:city": "Blagnac",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZA Grand Noble 2 impasse Roland Garros 31700 Blagnac FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BLA",
+        "website": "https://www.stokomani.fr/stokomani-blagnac.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473133,
+          48.426393
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Brest",
+        "addr:housenumber": "",
+        "addr:street": "Rue Graham Bell",
+        "addr:postcode": "29200",
+        "addr:city": "Brest",
+        "addr:place": "Zone de Kergaradec",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone de Kergaradec Rue Graham Bell 29200 Brest FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BRT",
+        "website": "https://www.stokomani.fr/stokomani-brest.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.461186,
+          47.186195
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Basse Goulaine",
+        "addr:housenumber": "10",
+        "addr:street": "rue De L'Atlantique",
+        "addr:postcode": "44115",
+        "addr:city": "Basse Goulaine",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 10 rue De L'Atlantique 44115 Basse Goulaine FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BSI",
+        "website": "https://www.stokomani.fr/stokomani-basse-goulaine.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.115266,
+          49.413651
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Beauvais",
+        "addr:housenumber": "",
+        "addr:street": "rue Bernard Palissy",
+        "addr:postcode": "60000",
+        "addr:city": "Beauvais",
+        "addr:place": "ZAC du Ther",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC du Ther rue Bernard Palissy 60000 Beauvais FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BVS",
+        "website": "https://www.stokomani.fr/stokomani-beauvais.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2646,
+          43.339263
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Béziers",
+        "addr:housenumber": "1",
+        "addr:street": "rue de Terret",
+        "addr:postcode": "34500",
+        "addr:city": "Beziers",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 rue de Terret 34500 Beziers FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_BZE",
+        "website": "https://www.stokomani.fr/stokomani-beziers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368162,
+          43.235397
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Carcassonne",
+        "addr:housenumber": "440",
+        "addr:street": "rue Magellan",
+        "addr:postcode": "11000",
+        "addr:city": "Carcassonne",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone du Pont Rouge 440 rue Magellan 11000 Carcassonne FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CAS",
+        "website": "https://www.stokomani.fr/stokomani-carcassonne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.595622,
+          49.639215
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cherbourg",
+        "addr:housenumber": "260",
+        "addr:street": "Rue du Grand Pré",
+        "addr:postcode": "50110",
+        "addr:city": "Cherbourg-En-Cotentin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ancien Intermarché 260 Rue du Grand Pré 50110 Cherbourg-En-Cotentin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CBG",
+        "website": "https://www.stokomani.fr/stokomani-cherbourg.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.258491,
+          49.159523
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chambly",
+        "addr:housenumber": "590",
+        "addr:street": "rue Jean Lenoir",
+        "addr:postcode": "60230",
+        "addr:city": "Chambly",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC la porte sud de l'Oise - à 100m de Lidl 590 rue Jean Lenoir 60230 Chambly FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CBY",
+        "website": "https://www.stokomani.fr/stokomani-chambly.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.194343,
+          48.953755
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cormeilles En Parisis",
+        "addr:housenumber": "7",
+        "addr:street": "All. du 7ème Art",
+        "addr:postcode": "95240",
+        "addr:city": "Cormeilles-En-Parisis",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC 7 All. du 7ème Art 95240 Cormeilles-En-Parisis FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CEP",
+        "website": "https://www.stokomani.fr/stokomani-cormeilles-en-parisis.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.933145,
+          48.753435
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Coignieres",
+        "addr:housenumber": "",
+        "addr:street": "centre commercial Les Portes De Chevreuse",
+        "addr:postcode": "78310",
+        "addr:city": "Coignieres",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani N10 Rue Laennec - Rue du Gibet centre commercial Les Portes De Chevreuse 78310 Coignieres FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CGE",
+        "website": "https://www.stokomani.fr/stokomani-coignieres.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.645469,
+          46.777815
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chateauroux - Saint Maur",
+        "addr:housenumber": "1",
+        "addr:street": "All. du Commerce",
+        "addr:postcode": "36250",
+        "addr:city": "Saint-Maur",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial Cap Sud 1 All. du Commerce 36250 Saint-Maur FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CHA",
+        "website": "https://www.stokomani.fr/stokomani-chateauroux-saint-maur.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.295436,
+          46.548254
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Croutelle",
+        "addr:housenumber": "",
+        "addr:street": "rue De La Saulaie",
+        "addr:postcode": "86240",
+        "addr:city": "Croutelle",
+        "addr:place": "A côté d'Alinéa",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté d'Alinéa rue De La Saulaie 86240 Croutelle FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CHL",
+        "website": "https://www.stokomani.fr/stokomani-croutelle.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.098727,
+          48.801845
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Coulommiers",
+        "addr:housenumber": "50",
+        "addr:street": "rue De L’Orgeval",
+        "addr:postcode": "77120",
+        "addr:city": "Coulommiers",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 50 rue De L’Orgeval 77120 Coulommiers FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CIR",
+        "website": "https://www.stokomani.fr/stokomani-coulommiers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.839351,
+          50.940605
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Calais",
+        "addr:housenumber": "400",
+        "addr:street": "avenue Danton",
+        "addr:postcode": "62100",
+        "addr:city": "Calais",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 400 avenue Danton 62100 Calais FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CIS",
+        "website": "https://www.stokomani.fr/stokomani-calais.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364704,
+          48.109061
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani  Colmar",
+        "addr:housenumber": "6",
+        "addr:street": "rue Des Métiers",
+        "addr:postcode": "68000",
+        "addr:city": "Colmar",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de But 6 rue Des Métiers 68000 Colmar FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CLM",
+        "website": "https://www.stokomani.fr/stokomani-colmar.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.699101,
+          47.336871
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chambray Les Tours",
+        "addr:housenumber": "",
+        "addr:street": "rue Philippe Maupas",
+        "addr:postcode": "37170",
+        "addr:city": "Chambray Les Tours",
+        "addr:place": "En face d'Auchan",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani En face d'Auchan rue Philippe Maupas 37170 Chambray Les Tours FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CMB",
+        "website": "https://www.stokomani.fr/stokomani-chambray-les-tours.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.046528,
+          49.212189
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cormontreuil",
+        "addr:housenumber": "",
+        "addr:street": "rue De La Sentelle",
+        "addr:postcode": "51350",
+        "addr:city": "Cormontreuil",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue De La Sentelle 51350 Cormontreuil FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CMT",
+        "website": "https://www.stokomani.fr/stokomani-cormontreuil.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31056,
+          45.68048
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cognac - Châteaubernard",
+        "addr:housenumber": "",
+        "addr:street": "rue Pierre Latécoère",
+        "addr:postcode": "16100",
+        "addr:city": "Chateaubernard",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue Pierre Latécoère 16100 Chateaubernard FRANCE",
+        "opening_hours": "Mo-Sa 08:30-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CNC",
+        "website": "https://www.stokomani.fr/stokomani-cognac-chateaubernard.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.844789,
+          47.072797
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cholet",
+        "addr:housenumber": "24",
+        "addr:street": "avenue Edmond Michelet",
+        "addr:postcode": "49300",
+        "addr:city": "Cholet",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 24 avenue Edmond Michelet 49300 Cholet FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_COE",
+        "website": "https://www.stokomani.fr/stokomani-cholet.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.793394,
+          49.393771
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Compiègne",
+        "addr:housenumber": "23",
+        "addr:street": "esplanade Marguerite Perey",
+        "addr:postcode": "60200",
+        "addr:city": "Compiegne",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 23 esplanade Marguerite Perey 60200 Compiegne FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CPG",
+        "website": "https://www.stokomani.fr/stokomani-compiegne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.216538,
+          50.148002
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Cambrai - Proville",
+        "addr:housenumber": "",
+        "addr:street": "rue Renée Descartes",
+        "addr:postcode": "59267",
+        "addr:city": "Proville",
+        "addr:place": "ZAC du Faubourg de Paris",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC du Faubourg de Paris rue Renée Descartes 59267 Proville FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CRA",
+        "website": "https://www.stokomani.fr/stokomani-cambrai-proville.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.451215,
+          48.609562
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Corbeil Essonnes",
+        "addr:housenumber": "",
+        "addr:street": "avenue Du 8 Mai",
+        "addr:postcode": "91100",
+        "addr:city": "Corbeil Essonnes",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Du 8 Mai 91100 Corbeil Essonnes FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CRB",
+        "website": "https://www.stokomani.fr/stokomani-corbeil-essonnes.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.170766,
+          48.036947
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani La Chapelle Saint Aubin",
+        "addr:housenumber": "",
+        "addr:street": "rue Louis Delage",
+        "addr:postcode": "72650",
+        "addr:city": "La Chapelle Saint Aubin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue Louis Delage 72650 La Chapelle Saint Aubin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CSA",
+        "website": "https://www.stokomani.fr/stokomani-la-chapelle-saint-aubin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86646,
+          46.775189
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chalon Sur Saône",
+        "addr:housenumber": "1",
+        "addr:street": "Rue René Cassin",
+        "addr:postcode": "71100",
+        "addr:city": "Chalon-Sur-Saône",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 Rue René Cassin 71100 Chalon-Sur-Saône FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CSS",
+        "website": "https://www.stokomani.fr/stokomani-chalon-sur-saone.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386712,
+          47.704718
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chateaubriant",
+        "addr:housenumber": "1",
+        "addr:street": "rue Général Patton",
+        "addr:postcode": "44110",
+        "addr:city": "Chateaubriant",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Retail Park CASTELLO à côté de Decathlon Darty Fnac 1 rue Général Patton 44110 Chateaubriant FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CTA",
+        "website": "https://www.stokomani.fr/stokomani-chateaubriant.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.664406,
+          48.953471
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Claye Souilly",
+        "addr:housenumber": "",
+        "addr:street": "Rue Jean Monnet",
+        "addr:postcode": "77410",
+        "addr:city": "Claye Souilly",
+        "addr:place": "ZAC des Sablons",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC des Sablons Rue Jean Monnet 77410 Claye Souilly FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_CYE",
+        "website": "https://www.stokomani.fr/stokomani-claye-souilly.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09821,
+          47.312493
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Dijon - Quetigny",
+        "addr:housenumber": "1",
+        "addr:street": "boulevard Du Grand Marché",
+        "addr:postcode": "21800",
+        "addr:city": "Quetigny",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 boulevard Du Grand Marché 21800 Quetigny FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_DIJ",
+        "website": "https://www.stokomani.fr/stokomani-dijon-quetigny.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.689753,
+          45.256693
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Davezieux",
+        "addr:housenumber": "425",
+        "addr:street": "chemin Du Mas",
+        "addr:postcode": "07430",
+        "addr:city": "Davezieux",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zac le Mas Ouest 425 chemin Du Mas 07430 Davezieux FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_DVZ",
+        "website": "https://www.stokomani.fr/stokomani-davezieux.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.692905,
+          45.144546
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Echirolles",
+        "addr:housenumber": "23",
+        "addr:street": "rue De Comboire",
+        "addr:postcode": "38130",
+        "addr:city": "Echirolles",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 23 rue De Comboire 38130 Echirolles FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ECH",
+        "website": "https://www.stokomani.fr/stokomani-echirolles.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240924,
+          48.711853
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Essey Les Nancy",
+        "addr:housenumber": "3",
+        "addr:street": "rue Jean Ferrat",
+        "addr:postcode": "54270",
+        "addr:city": "Essey Les Nancy",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone de la Porte Verte 3 rue Jean Ferrat 54270 Essey Les Nancy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ELN",
+        "website": "https://www.stokomani.fr/stokomani-essey-les-nancy.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.971834,
+          50.628915
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Englos",
+        "addr:housenumber": "",
+        "addr:street": "Avenue de la Boutillerie",
+        "addr:postcode": "59320",
+        "addr:city": "Sequedin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Avenue de la Boutillerie 59320 Sequedin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ENG",
+        "website": "https://www.stokomani.fr/stokomani-englos.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.473468,
+          48.189113
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Epinal",
+        "addr:housenumber": "12",
+        "addr:street": "avenue Des Terres Saint Jean",
+        "addr:postcode": "88000",
+        "addr:city": "Epinal",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani zac Les Terres St Jean 12 avenue Des Terres Saint Jean 88000 Epinal FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_EPI",
+        "website": "https://www.stokomani.fr/stokomani-epinal.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.172107,
+          49.00675
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Evreux -  Guichainville",
+        "addr:housenumber": "2",
+        "addr:street": "rue Des Caravelles",
+        "addr:postcode": "27930",
+        "addr:city": "Guichainville",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de la Garennne 2 rue Des Caravelles 27930 Guichainville FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ERX",
+        "website": "https://www.stokomani.fr/stokomani-evreux-guichainville.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.485479,
+          44.912892
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Sainte Eulalie",
+        "addr:housenumber": "2",
+        "addr:street": "Rue de l'Aire du Temps",
+        "addr:postcode": "33560",
+        "addr:city": "Sainte Eulalie",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial L’Air du Temps 2 Rue de l'Aire du Temps 33560 Sainte Eulalie FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_EUL",
+        "website": "https://www.stokomani.fr/stokomani-sainte-eulalie.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.993482,
+          47.285383
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chatillon Le Duc",
+        "addr:housenumber": "3",
+        "addr:street": "Rue  De Châtillon",
+        "addr:postcode": "25480",
+        "addr:city": "École-Valentin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zac Valentin 3 Rue  De Châtillon 25480 École-Valentin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_EVA",
+        "website": "https://www.stokomani.fr/stokomani-chatillon-le-duc.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389692,
+          48.94456
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Chalons En Champagne",
+        "addr:housenumber": "1",
+        "addr:street": "rue Des Catalaunes",
+        "addr:postcode": "51470",
+        "addr:city": "Saint-Memmie",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC 1 rue Des Catalaunes 51470 Saint-Memmie FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_FAG",
+        "website": "https://www.stokomani.fr/stokomani-chalons-en-champagne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.918288,
+          47.946912
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Fleury Les Aubrais",
+        "addr:housenumber": "5",
+        "addr:street": "rue Frédéric Et Irène Joliot Curie",
+        "addr:postcode": "45400",
+        "addr:city": "Fleury Les Aubrais",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Place du Commerce 5 rue Frédéric Et Irène Joliot Curie 45400 Fleury Les Aubrais FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_FLA",
+        "website": "https://www.stokomani.fr/stokomani-fleury-les-aubrais.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.029931,
+          47.355206
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Fontaine Les Dijon",
+        "addr:housenumber": "5",
+        "addr:street": "rue Georges Bourgoin",
+        "addr:postcode": "21121",
+        "addr:city": "Fontaine Les Dijon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 5 rue Georges Bourgoin 21121 Fontaine Les Dijon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_FON",
+        "website": "https://www.stokomani.fr/stokomani-fontaine-les-dijon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318917,
+          48.934008
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Gennevilliers",
+        "addr:housenumber": "112",
+        "addr:street": "avenue Du Général De Gaulle",
+        "addr:postcode": "92230",
+        "addr:city": "Gennevilliers",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Commerciale Les Chanteraines 112 avenue Du Général De Gaulle 92230 Gennevilliers FRANCE",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_GEN",
+        "website": "https://www.stokomani.fr/stokomani-gennevilliers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.043664,
+          49.419773
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Le Grand Quevilly",
+        "addr:housenumber": "10",
+        "addr:street": "rue Paul Vaillant Couturier",
+        "addr:postcode": "76120",
+        "addr:city": "Le Grand Quevilly",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial Avenue Bois Cany 10 rue Paul Vaillant Couturier 76120 Le Grand Quevilly FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_GQV",
+        "website": "https://www.stokomani.fr/stokomani-le-grand-quevilly.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.691225,
+          48.13839
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Gregoire",
+        "addr:housenumber": "8",
+        "addr:street": "rue De La Cerisaie",
+        "addr:postcode": "35760",
+        "addr:city": "Saint Gregoire",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial du Grand Quartier  derrière le garage Mercedes 8 rue De La Cerisaie 35760 Saint Gregoire FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_GRE",
+        "website": "https://www.stokomani.fr/stokomani-saint-gregoire.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.240917,
+          44.539923
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani",
+        "addr:housenumber": "1",
+        "addr:street": "place de l'étoile",
+        "addr:postcode": "33210",
+        "addr:city": "Langon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone industrielle des dumes 1 place de l'étoile 33210 Langon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LAN",
+        "website": "https://www.stokomani.fr/stokomani.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.809837,
+          48.067583
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Berthevin",
+        "addr:housenumber": "23",
+        "addr:street": "boulevard Louis Armand",
+        "addr:postcode": "53940",
+        "addr:city": "Saint Berthevin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani En face de Leclerc 23 boulevard Louis Armand 53940 Saint Berthevin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LAV",
+        "website": "https://www.stokomani.fr/stokomani-saint-berthevin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.882832,
+          43.987897
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Avignon Nord - Le Pontet",
+        "addr:housenumber": "",
+        "addr:street": "avenue Marc Lepoutre",
+        "addr:postcode": "84700",
+        "addr:city": "Sorgues",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Marc Lepoutre 84700 Sorgues FRANCE",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LET",
+        "website": "https://www.stokomani.fr/stokomani-avignon-nord-le-pontet.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.685802,
+          48.873261
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Lagny Sur Marne",
+        "addr:housenumber": "40",
+        "addr:street": "rue Branly",
+        "addr:postcode": "77400",
+        "addr:city": "Lagny Sur Marne",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Avenue du Général Leclerc 40 rue Branly 77400 Lagny Sur Marne FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LGY",
+        "website": "https://www.stokomani.fr/stokomani-lagny-sur-marne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.287814,
+          45.882997
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Limoges",
+        "addr:housenumber": "1",
+        "addr:street": "rue Frédéric Bastiat",
+        "addr:postcode": "87280",
+        "addr:city": "Limoges",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 rue Frédéric Bastiat 87280 Limoges FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LIM",
+        "website": "https://www.stokomani.fr/stokomani-limoges.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222041,
+          50.678062
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Lys-Lez-Lannoy",
+        "addr:housenumber": "374",
+        "addr:street": "Rue des Verdiers",
+        "addr:postcode": "59390",
+        "addr:city": "Lys-Lez-Lannoy",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de Chaussea 374 Rue des Verdiers 59390 Lys-Lez-Lannoy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LLL",
+        "website": "https://www.stokomani.fr/stokomani-lys-lez-lannoy.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369257,
+          49.870794
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Longueau",
+        "addr:housenumber": "12",
+        "addr:street": "Rue Claude Chappe",
+        "addr:postcode": "80330",
+        "addr:city": "Longueau",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Pôle Jules Verne Secteur 1 12 Rue Claude Chappe 80330 Longueau FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LON",
+        "website": "https://www.stokomani.fr/stokomani-longueau.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.338451,
+          47.77737
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Lanester",
+        "addr:housenumber": "43",
+        "addr:street": "rue Daniel Trudaine",
+        "addr:postcode": "56600",
+        "addr:city": "Lanester",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 43 rue Daniel Trudaine 56600 Lanester FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LOR",
+        "website": "https://www.stokomani.fr/stokomani-lanester.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.431733,
+          46.704418
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani La Roche Sur Yon",
+        "addr:housenumber": "",
+        "addr:street": "rue Claude Chappe",
+        "addr:postcode": "85000",
+        "addr:city": "La Roche Sur Yon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue Claude Chappe 85000 La Roche Sur Yon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LRN",
+        "website": "https://www.stokomani.fr/stokomani-la-roche-sur-yon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851128,
+          43.120745
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani La Seyne Sur Mer",
+        "addr:housenumber": "150",
+        "addr:street": "chemin De La Capellane",
+        "addr:postcode": "83500",
+        "addr:city": "La Seyne Sur Mer",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Camp Laurent 150 chemin De La Capellane 83500 La Seyne Sur Mer FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LS",
+        "website": "https://www.stokomani.fr/stokomani-la-seyne-sur-mer.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12892,
+          48.695257
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Laxou",
+        "addr:housenumber": "18",
+        "addr:street": "avenue De La Résistance",
+        "addr:postcode": "54520",
+        "addr:city": "Laxou",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 18 avenue De La Résistance 54520 Laxou FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_LXU",
+        "website": "https://www.stokomani.fr/stokomani-laxou.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.790288,
+          46.257595
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Macon",
+        "addr:housenumber": "",
+        "addr:street": "ZAC Des Bouchardes - Macon",
+        "addr:postcode": "71570",
+        "addr:city": "Chaintre",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Des Bouchardes - Macon 71570 Chaintre FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MAC",
+        "website": "https://www.stokomani.fr/stokomani-macon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.369074,
+          48.706405
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Marmoutier",
+        "addr:housenumber": "",
+        "addr:street": "Rue de Saverne",
+        "addr:postcode": "67440",
+        "addr:city": "Marmoutier",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Rue de Saverne 67440 Marmoutier FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MAR",
+        "website": "https://www.stokomani.fr/stokomani-marmoutier.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.295282,
+          46.224464
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Conthey ",
+        "addr:housenumber": "",
+        "addr:street": "Route cantonale 11 ",
+        "addr:postcode": "01964",
+        "addr:city": "Conthey",
+        "addr:place": "SWITZERLAND",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial Antzère  Route cantonale 11  1964 CONTHEY SWITZERLAND",
+        "opening_hours": "Mo-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:30-17:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MBA",
+        "website": "https://www.stokomani.fr/stokomani-conthey.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.671879,
+          48.98983
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Mantes Buchelay",
+        "addr:housenumber": "",
+        "addr:street": "avenue De La Durance",
+        "addr:postcode": "78200",
+        "addr:city": "Buchelay",
+        "addr:place": "En face d'Alinéa",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani En face d'Alinéa avenue De La Durance 78200 Buchelay FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MBY",
+        "website": "https://www.stokomani.fr/stokomani-mantes-buchelay.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32056,
+          49.16932
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Mondeville",
+        "addr:housenumber": "8",
+        "addr:street": "rue  Michel Tournier",
+        "addr:postcode": "14120",
+        "addr:city": "Mondeville",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 8 rue  Michel Tournier 14120 Mondeville FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MDV",
+        "website": "https://www.stokomani.fr/stokomani-mondeville.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.101805,
+          49.078996
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Jouy Aux Arches",
+        "addr:housenumber": "",
+        "addr:street": "ZAC Actisud Saint Jean",
+        "addr:postcode": "57130",
+        "addr:city": "Jouy Aux Arches",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Actisud Saint Jean 57130 Jouy Aux Arches FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MET",
+        "website": "https://www.stokomani.fr/stokomani-jouy-aux-arches.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.858808,
+          48.573577
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint-Martin-Des-Champs",
+        "addr:housenumber": "",
+        "addr:street": "rue Jean Claude Calvez",
+        "addr:postcode": "29600",
+        "addr:city": "Saint Martin Des Champs",
+        "addr:place": "A côté de Maxizoo",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de Maxizoo rue Jean Claude Calvez 29600 Saint Martin Des Champs FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MLX",
+        "website": "https://www.stokomani.fr/stokomani-saint-martin-des-champs.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.373499,
+          46.67702
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Montceau-Les-Mines",
+        "addr:housenumber": "16",
+        "addr:street": "Rue de Marigny",
+        "addr:postcode": "71300",
+        "addr:city": "Montceau-Les-Mines",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 16 Rue de Marigny 71300 Montceau-Les-Mines FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MOM",
+        "website": "https://www.stokomani.fr/stokomani-montceau-les-mines.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.736966,
+          44.533205
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Montelimar",
+        "addr:housenumber": "122",
+        "addr:street": "route De Châteauneuf",
+        "addr:postcode": "26200",
+        "addr:city": "Montelimar",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Accès par la N7 122 route De Châteauneuf 26200 Montelimar FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MOT",
+        "website": "https://www.stokomani.fr/stokomani-montelimar.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.652767,
+          44.8298
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Merignac",
+        "addr:housenumber": "41",
+        "addr:street": "rue De Mirepin",
+        "addr:postcode": "33700",
+        "addr:city": "Merignac",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani CC Merignac Soleil 41 rue De Mirepin 33700 Merignac FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MRC",
+        "website": "https://www.stokomani.fr/stokomani-merignac.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.352503,
+          43.3638
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Marseille Grand Littoral",
+        "addr:housenumber": "",
+        "addr:street": "avenue De Saint Antoine",
+        "addr:postcode": "13016",
+        "addr:city": "Marseille",
+        "addr:place": "CC Grand Littoral",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani CC Grand Littoral avenue De Saint Antoine 13016 Marseille FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MSL",
+        "website": "https://www.stokomani.fr/stokomani-marseille-grand-littoral.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.372912,
+          44.031534
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Montauban",
+        "addr:housenumber": "141",
+        "addr:street": "avenue De Paris",
+        "addr:postcode": "82000",
+        "addr:city": "Montauban",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 141 avenue De Paris 82000 Montauban FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MTB",
+        "website": "https://www.stokomani.fr/stokomani-montauban.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.191979,
+          49.521508
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Montivilliers",
+        "addr:housenumber": "16",
+        "addr:street": "route De Rouelles",
+        "addr:postcode": "76700",
+        "addr:city": "Harfleur",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial Grand Havre La Lézarde 16 route De Rouelles 76700 Harfleur FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MTI",
+        "website": "https://www.stokomani.fr/stokomani-montivilliers.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.707556,
+          49.735579
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Charleville-Mézières",
+        "addr:housenumber": "",
+        "addr:street": "Grand Parc",
+        "addr:postcode": "08000",
+        "addr:city": "Charleville Mezieres",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Allée de la Valériane Grand Parc 08000 Charleville Mezieres FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_MZR",
+        "website": "https://www.stokomani.fr/stokomani-charleville-mezieres.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.989126,
+          43.167026
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Narbonne",
+        "addr:housenumber": "",
+        "addr:street": "Avenue du Quartouze",
+        "addr:postcode": "11100",
+        "addr:city": "Narbonne",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Avenue du Quartouze 11100 Narbonne FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NAR",
+        "website": "https://www.stokomani.fr/stokomani-narbonne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.361085,
+          43.808575
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Nimes",
+        "addr:housenumber": "148",
+        "addr:street": "rue Jean Lauret",
+        "addr:postcode": "30000",
+        "addr:city": "Nimes",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC du MAS de Vignobles - CC Carré Sud 148 rue Jean Lauret 30000 Nimes FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NIE",
+        "website": "https://www.stokomani.fr/stokomani-nimes.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.677179,
+          50.475053
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Noeux Les Mines",
+        "addr:housenumber": "",
+        "addr:street": "avenue Du Lac",
+        "addr:postcode": "62290",
+        "addr:city": "Noeux Les Mines",
+        "addr:place": "Base Loisinord",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Base Loisinord avenue Du Lac 62290 Noeux Les Mines FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NLM",
+        "website": "https://www.stokomani.fr/stokomani-noeux-les-mines.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.969938,
+          50.410657
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Henin Beaumont",
+        "addr:housenumber": "",
+        "addr:street": "avenue Du Bord Des Eaux",
+        "addr:postcode": "62110",
+        "addr:city": "Henin Beaumont",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Du Bord Des Eaux 62110 Henin Beaumont FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NOD",
+        "website": "https://www.stokomani.fr/stokomani-henin-beaumont.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.413841,
+          46.318474
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Niort",
+        "addr:housenumber": "",
+        "addr:street": "avenue De Limoges",
+        "addr:postcode": "79000",
+        "addr:city": "Niort",
+        "addr:place": "ZAC Terre de Sport",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Terre de Sport avenue De Limoges 79000 Niort FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NRT",
+        "website": "https://www.stokomani.fr/stokomani-niort.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.977276,
+          49.570636
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Noyon",
+        "addr:housenumber": "",
+        "addr:street": "centre commercial Auchan",
+        "addr:postcode": "60400",
+        "addr:city": "Noyon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC du Mont Renaud à côte de Gémo centre commercial Auchan 60400 Noyon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_NYN",
+        "website": "https://www.stokomani.fr/stokomani-noyon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.852242,
+          44.111446
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Orange",
+        "addr:housenumber": "",
+        "addr:street": "centre commercial Orange - Les Vignes",
+        "addr:postcode": "84100",
+        "addr:city": "Orange",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani centre commercial Orange - Les Vignes 84100 Orange FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_OAN",
+        "website": "https://www.stokomani.fr/stokomani-orange.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.630201,
+          47.255291
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Orvault",
+        "addr:housenumber": "362",
+        "addr:street": "route De Vannes",
+        "addr:postcode": "44700",
+        "addr:city": "Orvault",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 362 route De Vannes 44700 Orvault FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_ORV",
+        "website": "https://www.stokomani.fr/stokomani-orvault.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.660645,
+          46.284329
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Oyonnax",
+        "addr:housenumber": "6",
+        "addr:street": "All. des Fleurs",
+        "addr:postcode": "01100",
+        "addr:city": "Arbent",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 6 All. des Fleurs 01100 Arbent FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_OYO",
+        "website": "https://www.stokomani.fr/stokomani-oyonnax.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.327026,
+          43.305799
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Pau",
+        "addr:housenumber": "21",
+        "addr:street": "boulevard Du Commandant René Mouchotte",
+        "addr:postcode": "64000",
+        "addr:city": "Pau",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 21 boulevard Du Commandant René Mouchotte 64000 Pau FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PAU",
+        "website": "https://www.stokomani.fr/stokomani-pau.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.216021,
+          45.785421
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Pont Du Chateau",
+        "addr:housenumber": "",
+        "addr:street": "route nationale 89",
+        "addr:postcode": "63430",
+        "addr:city": "Pont Du Chateau",
+        "addr:place": "ZAC de Champ Lamet",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de Champ Lamet route nationale 89 63430 Pont Du Chateau FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PDC",
+        "website": "https://www.stokomani.fr/stokomani-pont-du-chateau.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.857084,
+          44.943402
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Péray",
+        "addr:housenumber": "",
+        "addr:street": "avenue Gross Umstadt",
+        "addr:postcode": "07130",
+        "addr:city": "Saint Peray",
+        "addr:place": "Zone des Murets II",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone des Murets II avenue Gross Umstadt 07130 Saint Peray FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PER",
+        "website": "https://www.stokomani.fr/stokomani-saint-peray.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87912,
+          45.02335
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Le Puy-En-Velay",
+        "addr:housenumber": "",
+        "addr:street": "Avenue du Chambon",
+        "addr:postcode": "43750",
+        "addr:city": "Vals-Près-Le-Puy",
+        "addr:place": "Centre commercial – Zone de Chirel",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial – Zone de Chirel Avenue du Chambon 43750 Vals-Près-Le-Puy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PEV",
+        "website": "https://www.stokomani.fr/stokomani-le-puy-en-velay.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.890541,
+          42.6764
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Perpignan",
+        "addr:housenumber": "",
+        "addr:street": "A côté de Lapeyre",
+        "addr:postcode": "66000",
+        "addr:city": "Perpignan",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de Lapeyre 1495 avenue D'Espagne 66000 Perpignan FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PIG",
+        "website": "https://www.stokomani.fr/stokomani-perpignan.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359904,
+          43.421329
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Plan De Campagne",
+        "addr:housenumber": "1",
+        "addr:street": "place De L'Europe",
+        "addr:postcode": "13480",
+        "addr:city": "Cabries",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1 place De L'Europe 13480 Cabries FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PLE",
+        "website": "https://www.stokomani.fr/stokomani-plan-de-campagne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.461752,
+          50.338244
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Prouvy",
+        "addr:housenumber": "7",
+        "addr:street": "route nationale 30",
+        "addr:postcode": "59121",
+        "addr:city": "Prouvy",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 7 route nationale 30 59121 Prouvy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_POY",
+        "website": "https://www.stokomani.fr/stokomani-prouvy.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.095615,
+          46.029502
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Perreux",
+        "addr:housenumber": "",
+        "addr:street": "",
+        "addr:postcode": "42120",
+        "addr:city": "Perreux",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 1017 rue Du Commerce 42120 Perreux FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PRX",
+        "website": "https://www.stokomani.fr/stokomani-perreux.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.958269,
+          48.829261
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Plaisir",
+        "addr:housenumber": "",
+        "addr:street": "rue Des Vicomtes",
+        "addr:postcode": "78370",
+        "addr:city": "Plaisir",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue Des Vicomtes 78370 Plaisir FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PSI",
+        "website": "https://www.stokomani.fr/stokomani-plaisir.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.626562,
+          48.793696
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Pontault Combault",
+        "addr:housenumber": "",
+        "addr:street": "Rue de Strasbourg",
+        "addr:postcode": "77340",
+        "addr:city": "Pontault-Combault",
+        "addr:place": "ZAC Pontillault",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Rue de Strasbourg ZAC Pontillault 77340 Pontault-Combault FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PTC",
+        "website": "https://www.stokomani.fr/stokomani-pontault-combault.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.693009,
+          43.449806
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Puget Sur Argens",
+        "addr:housenumber": "100",
+        "addr:street": "chemin Du Drap",
+        "addr:postcode": "83480",
+        "addr:city": "Puget Sur Argens",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Quartier des Barestes EST 100 chemin Du Drap 83480 Puget Sur Argens FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_PUG",
+        "website": "https://www.stokomani.fr/stokomani-puget-sur-argens.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.082243,
+          48.014485
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Quimper",
+        "addr:housenumber": "149",
+        "addr:street": "route De Brest",
+        "addr:postcode": "29000",
+        "addr:city": "Quimper",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone de Gourvily 149 route De Brest 29000 Quimper FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_QUI",
+        "website": "https://www.stokomani.fr/stokomani-quimper.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96676,
+          45.566292
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani La Ravoire",
+        "addr:housenumber": "135",
+        "addr:street": "rue Pierre Et Marie Curie",
+        "addr:postcode": "73490",
+        "addr:city": "La Ravoire",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 135 rue Pierre Et Marie Curie 73490 La Ravoire FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RAV",
+        "website": "https://www.stokomani.fr/stokomani-la-ravoire.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.064969,
+          47.672354
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Redon",
+        "addr:housenumber": "",
+        "addr:street": "rue Marcel Quercia",
+        "addr:postcode": "35600",
+        "addr:city": "Redon",
+        "addr:place": "ZAC Cap Nord",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Cap Nord rue Marcel Quercia 35600 Redon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RED",
+        "website": "https://www.stokomani.fr/stokomani-redon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888694,
+          45.815128
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Rillieux La Pape",
+        "addr:housenumber": "2",
+        "addr:street": "Av. du Loup Pendu",
+        "addr:postcode": "69140",
+        "addr:city": "Rillieux-La-Pape",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 2 Av. du Loup Pendu 69140 Rillieux-La-Pape FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RLP",
+        "website": "https://www.stokomani.fr/stokomani-rillieux-la-pape.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.626069,
+          48.087771
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Rennes Chantepie",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Loges",
+        "addr:postcode": "35135",
+        "addr:city": "Chantepie",
+        "addr:place": "Près d'Intersport",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zac des Loges Près d'Intersport Rue des Loges 35135 Chantepie FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RNE",
+        "website": "https://www.stokomani.fr/stokomani-rennes-chantepie.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.143465,
+          50.74092
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Roncq Neuville En Ferrain",
+        "addr:housenumber": "6",
+        "addr:street": "Rte du Petit Menin",
+        "addr:postcode": "59960",
+        "addr:city": "Neuville-En-Ferrain",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Du Petit Menin 6 Rte du Petit Menin 59960 Neuville-En-Ferrain FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RON",
+        "website": "https://www.stokomani.fr/stokomani-roncq-neuville-en-ferrain.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.759269,
+          48.503717
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Romilly-Sur-Seine",
+        "addr:housenumber": "7",
+        "addr:street": "Av. Georges Pompidou",
+        "addr:postcode": "10100",
+        "addr:city": "Romilly Sur Seine",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Aeromia 7 Av. Georges Pompidou 10100 Romilly Sur Seine FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RSS",
+        "website": "https://www.stokomani.fr/stokomani-romilly-sur-seine.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.236338,
+          47.943613
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Ruaudin",
+        "addr:housenumber": "",
+        "addr:street": "Boulevard des Hunaudières",
+        "addr:postcode": "72230",
+        "addr:city": "Ruaudin",
+        "addr:place": "FAMILY VILLAGE Les Hunaudières",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani FAMILY VILLAGE Les Hunaudières Boulevard des Hunaudières 72230 Ruaudin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RUA",
+        "website": "https://www.stokomani.fr/stokomani-ruaudin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.907668,
+          42.774863
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Rivesaltes",
+        "addr:housenumber": "",
+        "addr:street": "Cap Roussillon",
+        "addr:postcode": "66600",
+        "addr:city": "Rivesaltes",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Mas de la Garrigue Nord Cap Roussillon 66600 Rivesaltes FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_RVE",
+        "website": "https://www.stokomani.fr/stokomani-rivesaltes.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35014,
+          48.622628
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Sainte Geneviève Des Bois",
+        "addr:housenumber": "19",
+        "addr:street": "avenue De La Croix Blanche",
+        "addr:postcode": "91700",
+        "addr:city": "Sainte Genevieve Des Bois",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 19 avenue De La Croix Blanche 91700 Sainte Genevieve Des Bois FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SAG",
+        "website": "https://www.stokomani.fr/stokomani-sainte-genevieve-des-bois.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.786043,
+          48.518794
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Brieuc",
+        "addr:housenumber": "15-24",
+        "addr:street": "boulevard De L'Atlantique",
+        "addr:postcode": "22000",
+        "addr:city": "Saint Brieuc",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone C \"Les villages\" 15-24 boulevard De L'Atlantique 22000 Saint Brieuc FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SBR",
+        "website": "https://www.stokomani.fr/stokomani-saint-brieuc.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.143178,
+          49.191436
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Semecourt",
+        "addr:housenumber": "",
+        "addr:street": "centre commercial Auchan",
+        "addr:postcode": "57280",
+        "addr:city": "Semecourt",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Euro Moselle centre commercial Auchan 57280 Semecourt FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SCR",
+        "website": "https://www.stokomani.fr/stokomani-semecourt.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.967176,
+          48.626236
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint-Dizier",
+        "addr:housenumber": "",
+        "addr:street": "Rue Philippe Charbonneaux",
+        "addr:postcode": "52100",
+        "addr:city": "Saint Dizier",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Rue Philippe Charbonneaux 52100 Saint Dizier FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SDZ",
+        "website": "https://www.stokomani.fr/stokomani-saint-dizier.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.277687,
+          48.207912
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Sens",
+        "addr:housenumber": "18",
+        "addr:street": "Av. Georges Pompidou",
+        "addr:postcode": "89100",
+        "addr:city": "Sens",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 18 Av. Georges Pompidou 89100 Sens FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SES",
+        "website": "https://www.stokomani.fr/stokomani-sens.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.095033,
+          45.879222
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Annecy - Seynod",
+        "addr:housenumber": "46",
+        "addr:street": "boulevard Costa De Beauregard",
+        "addr:postcode": "74600",
+        "addr:city": "Annecy",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC Arcaloz 2 46 boulevard Costa De Beauregard 74600 Annecy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SEY",
+        "website": "https://www.stokomani.fr/stokomani-annecy-seynod.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.463106,
+          47.099185
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Germain Du Puy",
+        "addr:housenumber": "",
+        "addr:street": "route De La Charité",
+        "addr:postcode": "18390",
+        "addr:city": "Saint Germain Du Puy",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani route De La Charité 18390 Saint Germain Du Puy FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SGP",
+        "website": "https://www.stokomani.fr/stokomani-saint-germain-du-puy.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748294,
+          48.828988
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Schweighouse Sur Moder",
+        "addr:housenumber": "",
+        "addr:street": "zi De La Sablière",
+        "addr:postcode": "67590",
+        "addr:city": "Schweighouse Sur Moder",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani zi De La Sablière 67590 Schweighouse Sur Moder FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SHW",
+        "website": "https://www.stokomani.fr/stokomani-schweighouse-sur-moder.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.051669,
+          50.550006
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Seclin",
+        "addr:housenumber": "52",
+        "addr:street": "rue De L'Industrie",
+        "addr:postcode": "59113",
+        "addr:city": "Seclin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone Commerciale Unexpo 52 rue De L'Industrie 59113 Seclin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SIN",
+        "website": "https://www.stokomani.fr/stokomani-seclin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986707,
+          48.621187
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Malo",
+        "addr:housenumber": "",
+        "addr:street": "rue De La Grassinais",
+        "addr:postcode": "35400",
+        "addr:city": "Saint Malo",
+        "addr:place": "ZAC de la Madeleine",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de la Madeleine rue De La Grassinais 35400 Saint Malo FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SLO",
+        "website": "https://www.stokomani.fr/stokomani-saint-malo.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.616161,
+          48.577163
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vert Saint Denis",
+        "addr:housenumber": "",
+        "addr:street": "lieu dit La Fontaine Ronde",
+        "addr:postcode": "77240",
+        "addr:city": "Vert Saint Denis",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani lieu dit La Fontaine Ronde 77240 Vert Saint Denis FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SLT",
+        "website": "https://www.stokomani.fr/stokomani-vert-saint-denis.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.680217,
+          49.033217
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint-Mard",
+        "addr:housenumber": "24",
+        "addr:street": "Avenue de la Fontaine du Berger",
+        "addr:postcode": "77230",
+        "addr:city": "Saint-Mard",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial Les buissonets 24 Avenue de la Fontaine du Berger 77230 Saint-Mard FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SMD",
+        "website": "https://www.stokomani.fr/stokomani-saint-mard.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.459315,
+          49.230742
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint-Maximin",
+        "addr:housenumber": "152",
+        "addr:street": "Av. de la Paix",
+        "addr:postcode": "60740",
+        "addr:city": "Saint-Maximin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani CC Park Avenue Shopping Center 152 Av. de la Paix 60740 Saint-Maximin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SMX",
+        "website": "https://www.stokomani.fr/stokomani-saint-maximin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.306205,
+          49.364219
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vauxbuin",
+        "addr:housenumber": "",
+        "addr:street": "rue Des Maisons Rouges",
+        "addr:postcode": "02200",
+        "addr:city": "Vauxbuin",
+        "addr:place": "Parc Commercial \"Les Portes de Soissons\"",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Parc Commercial \"Les Portes de Soissons\" rue Des Maisons Rouges 02200 Vauxbuin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SNS",
+        "website": "https://www.stokomani.fr/stokomani-vauxbuin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124882,
+          49.057706
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Ouen L Aumone",
+        "addr:housenumber": "1",
+        "addr:street": "rue D'Epluches",
+        "addr:postcode": "95310",
+        "addr:city": "Saint Ouen L Aumone",
+        "addr:place": "Zone industrielle",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone industrielle Rue des Préaux - Entrée par le CC E.Leclerc 1 rue D'Epluches 95310 Saint Ouen L Aumone FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SOA",
+        "website": "https://www.stokomani.fr/stokomani-saint-ouen-l-aumone.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.959535,
+          45.716038
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Priest",
+        "addr:housenumber": "227",
+        "addr:street": "route De Grenoble",
+        "addr:postcode": "69800",
+        "addr:city": "Saint Priest",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 227 route De Grenoble 69800 Saint Priest FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SPT",
+        "website": "https://www.stokomani.fr/stokomani-saint-priest.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.256534,
+          49.855932
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Quentin",
+        "addr:housenumber": "",
+        "addr:street": "ZAC De La Vallée - Zone Auchan",
+        "addr:postcode": "02100",
+        "addr:city": "Saint Quentin",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani D1029 ZAC De La Vallée - Zone Auchan 02100 Saint Quentin FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SQT",
+        "website": "https://www.stokomani.fr/stokomani-saint-quentin.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.584351,
+          48.70663
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Servon",
+        "addr:housenumber": "",
+        "addr:street": "zac Du Noyer Aux Perdrix",
+        "addr:postcode": "77170",
+        "addr:city": "Servon",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Parc d'activité commerciale EDEN à côté de Maxi Zoo zac Du Noyer Aux Perdrix 77170 Servon FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SRV",
+        "website": "https://www.stokomani.fr/stokomani-servon.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34868,
+          49.007929
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Brice Sous Foret",
+        "addr:housenumber": "37",
+        "addr:street": "rue Piscop",
+        "addr:postcode": "95350",
+        "addr:city": "Saint Brice Sous Foret",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC les Perruches 37 rue Piscop 95350 Saint Brice Sous Foret FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_SSF",
+        "website": "https://www.stokomani.fr/stokomani-saint-brice-sous-foret.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.00341,
+          49.282256
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Brice Courcelles",
+        "addr:housenumber": "90",
+        "addr:street": "rue Du Mont César",
+        "addr:postcode": "51370",
+        "addr:city": "Saint-Brice-Courcelles",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zac de La Croix Maurencienne 90 rue Du Mont César 51370 Saint-Brice-Courcelles FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_STC",
+        "website": "https://www.stokomani.fr/stokomani-saint-brice-courcelles.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348246,
+          45.482731
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Etienne",
+        "addr:housenumber": "",
+        "addr:street": "zac De Ratarieux",
+        "addr:postcode": "42480",
+        "addr:city": "La Fouillouse",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Le porchon - 103 RD 1082 zac De Ratarieux 42480 La Fouillouse FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_STN",
+        "website": "https://www.stokomani.fr/stokomani-saint-etienne.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.76175,
+          45.189602
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Périgueux",
+        "addr:housenumber": "",
+        "addr:street": "Avenue Michel Grandou",
+        "addr:postcode": "24750",
+        "addr:city": "Trelissac",
+        "addr:place": "Lieu-dit Les Jalots Est",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre commercial La Feuilleraie Lieu-dit Les Jalots Est Avenue Michel Grandou 24750 Trelissac FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TAC",
+        "website": "https://www.stokomani.fr/stokomani-perigueux.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.019254,
+          43.237463
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Tarbes",
+        "addr:housenumber": "",
+        "addr:street": "Route De Pau",
+        "addr:postcode": "65420",
+        "addr:city": "Ibos",
+        "addr:place": "à côté de Boulanger & Damart",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre Commercial Le Méridien à côté de Boulanger & Damart Route De Pau 65420 Ibos FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TAR",
+        "website": "https://www.stokomani.fr/stokomani-tarbes.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.70612,
+          47.647363
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Theix",
+        "addr:housenumber": "",
+        "addr:street": "rue Jacques Cartier",
+        "addr:postcode": "56450",
+        "addr:city": "Theix Noyalo",
+        "addr:place": "Zone d'Activité Atlantheix",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone d'Activité Atlantheix rue Jacques Cartier 56450 Theix Noyalo FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_THE",
+        "website": "https://www.stokomani.fr/stokomani-theix.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373426,
+          48.752839
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Thiais",
+        "addr:housenumber": "12",
+        "addr:street": "rue Des Alouettes",
+        "addr:postcode": "94320",
+        "addr:city": "Thiais",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 12 rue Des Alouettes 94320 Thiais FRANCE",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TIS",
+        "website": "https://www.stokomani.fr/stokomani-thiais.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.026326,
+          43.134919
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Toulon La Garde",
+        "addr:housenumber": "",
+        "addr:street": "avenue Robespierre",
+        "addr:postcode": "83130",
+        "addr:city": "La Garde",
+        "addr:place": "Zone d'aménagement concerté des 4 Chemins",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone d'aménagement concerté des 4 Chemins avenue Robespierre 83130 La Garde FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TLG",
+        "website": "https://www.stokomani.fr/stokomani-toulon-la-garde.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.435857,
+          46.350642
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Thonon Les Bains",
+        "addr:housenumber": "21",
+        "addr:street": "avenue Pré Robert",
+        "addr:postcode": "74200",
+        "addr:city": "Anthy-Sur-Leman",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de Darty 21 avenue Pré Robert 74200 Anthy-Sur-Leman FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TNB",
+        "website": "https://www.stokomani.fr/stokomani-thonon-les-bains.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.411177,
+          43.55319
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Toulouse",
+        "addr:housenumber": "28",
+        "addr:street": "Rue Jean Perrin",
+        "addr:postcode": "31100",
+        "addr:city": "Toulouse",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Le Chapitre 28 Rue Jean Perrin 31100 Toulouse FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TOU",
+        "website": "https://www.stokomani.fr/stokomani-toulouse.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.706005,
+          47.431629
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Tours",
+        "addr:housenumber": "368",
+        "addr:street": "avenue André Maginot",
+        "addr:postcode": "37100",
+        "addr:city": "Tours",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Zone commerciale Tours Nord Auchan 368 avenue André Maginot 37100 Tours FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TRS",
+        "website": "https://www.stokomani.fr/stokomani-tours.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.131033,
+          49.349009
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Terville",
+        "addr:housenumber": "",
+        "addr:street": "lieu dit La Petite Ouette",
+        "addr:postcode": "57180",
+        "addr:city": "Terville",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Centre SuperGreen lieu dit La Petite Ouette 57180 Terville FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_TVL",
+        "website": "https://www.stokomani.fr/stokomani-terville.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928556,
+          44.949888
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Valence",
+        "addr:housenumber": "",
+        "addr:street": "place Tellier",
+        "addr:postcode": "26000",
+        "addr:city": "Valence",
+        "addr:place": "Plateau des Couleures",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Plateau des Couleures place Tellier 26000 Valence FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VAL",
+        "website": "https://www.stokomani.fr/stokomani-valence.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.277339,
+          48.666331
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani La Ville Du Bois",
+        "addr:housenumber": "",
+        "addr:street": "Avenue  De La Division Leclerc",
+        "addr:postcode": "91620",
+        "addr:city": "La Ville Du Bois",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Avenue  De La Division Leclerc 91620 La Ville Du Bois FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VDB",
+        "website": "https://www.stokomani.fr/stokomani-la-ville-du-bois.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.373653,
+          48.718305
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vernouillet",
+        "addr:housenumber": "15",
+        "addr:street": "rue Rome",
+        "addr:postcode": "28500",
+        "addr:city": "Vernouillet",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani Cc Plein Sud 15 rue Rome 28500 Vernouillet FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VER",
+        "website": "https://www.stokomani.fr/stokomani-vernouillet.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.744595,
+          45.98138
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Villefranche-Sur-Saône",
+        "addr:housenumber": "420",
+        "addr:street": "rue Gabriel Voisin",
+        "addr:postcode": "69400",
+        "addr:city": "Villefranche Sur Saone",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 420 rue Gabriel Voisin 69400 Villefranche Sur Saone FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VFS",
+        "website": "https://www.stokomani.fr/stokomani-villefranche-sur-saone.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726072,
+          48.657299
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vendenheim",
+        "addr:housenumber": "2",
+        "addr:street": "Rue de l'Industrie",
+        "addr:postcode": "67550",
+        "addr:city": "Vendenheim",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 2 Rue de l'Industrie 67550 Vendenheim FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VHM",
+        "website": "https://www.stokomani.fr/stokomani-vendenheim.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.818018,
+          50.461079
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Vendin Le Vieil",
+        "addr:housenumber": "2",
+        "addr:street": "route De La Bassée",
+        "addr:postcode": "62880",
+        "addr:city": "Vendin Le Vieil",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani 2 route De La Bassée 62880 Vendin Le Vieil FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VLV",
+        "website": "https://www.stokomani.fr/stokomani-vendin-le-vieil.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.952738,
+          48.363173
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Varennes Sur Seine",
+        "addr:housenumber": "",
+        "addr:street": "rue De Bréau",
+        "addr:postcode": "77130",
+        "addr:city": "Varennes Sur Seine",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani rue De Bréau 77130 Varennes Sur Seine FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VNE",
+        "website": "https://www.stokomani.fr/stokomani-varennes-sur-seine.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.681745,
+          44.40449
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Villeneuve Sur Lot",
+        "addr:housenumber": "742",
+        "addr:street": "avenue De Bordeaux",
+        "addr:postcode": "47300",
+        "addr:city": "Bias",
+        "addr:place": "",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani A côté de Darty 742 avenue De Bordeaux 47300 Bias FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_VSL",
+        "website": "https://www.stokomani.fr/stokomani-villeneuve-sur-lot.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.310772,
+          47.797396
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Wittenheim",
+        "addr:housenumber": "",
+        "addr:street": "rue Des Mines Anna",
+        "addr:postcode": "68270",
+        "addr:city": "Wittenheim",
+        "addr:place": "ZAC de Kingershajm",
+        "fixme": "Please remove this fixme after completing the address given the following string: Stokomani ZAC de Kingershajm rue Des Mines Anna 68270 Wittenheim FRANCE",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "magasin_WIT",
+        "website": "https://www.stokomani.fr/stokomani-wittenheim.html"
+      }
+    }
+  ]
+}

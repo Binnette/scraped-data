@@ -1,6 +1,6 @@
 # Stokomani 🏷️
 
-**Data last updated on: 2024-12-13**
+**Data last updated on: 2024-12-22**
 
 Data scraped from: [Stokomani](https://www.stokomani.fr)
 
