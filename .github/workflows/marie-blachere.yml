@@ -22,13 +22,14 @@ jobs:
         python-version: '3.x'
 
     - name: Install Python dependencies
+      working-directory: Marie-Blachere
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 geojson2osm tqdm pandas matplotlib
+        pip install -r requirements.txt
 
     - name: Run marie_blachere.py
-      run: python marie_blachere.py
       working-directory: Marie-Blachere
+      run: python marie_blachere.py
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -36,18 +37,26 @@ jobs:
         node-version: '22'
 
     - name: Install mr-cli
-      run: npm install -g @maproulette/mr-cli
       working-directory: Marie-Blachere
+      run: npm install -g @maproulette/mr-cli
 
     - name: Run mr coop change
-      run: mr coop change --out challenge.geojson marie_blachere.osm
       working-directory: Marie-Blachere
+      run: mr coop change --out challenge.geojson marie_blachere.osm
 
     - name: Generate graphic
-      run: python generate_graphic.py
       working-directory: Marie-Blachere
+      run: python generate_graphic.py
+
+    - name: Get the current date
+      run: echo "current_date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Update README with current date
+      working-directory: Marie-Blachere
+      run: |
+        sed -i 's/Data last updated on: [0-9\-]*/Data last updated on: '${{ env.current_date }}'/' README.md
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Marie-Blachere $(date +'%Y-%m-%d')"
+        commit_message: "Marie-Blachere ${{ env.current_date }}"

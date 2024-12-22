@@ -1,5 +1,7 @@
 # Marie-Blachère 🥖
 
+**Data last updated on: 2024-12-13**
+
 Data extracted from: [Marie Blachère](https://boulangeries.marieblachere.com/)
 
 ![History Diagram](bakery_count_history.png)

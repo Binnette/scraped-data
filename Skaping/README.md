@@ -1,5 +1,7 @@
 # Skaping 🎥
 
+**Data last updated on: 2024-12-13**
+
 Data extracted from: [Skaping](https://www.skaping.com)
 
 ![History Diagram](webcam_count_history.png)

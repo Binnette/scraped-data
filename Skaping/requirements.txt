@@ -1,5 +1,6 @@
-requests
 beautifulsoup4
 geojson2osm
-tqdm
 matplotlib
+pandas
+requests
+tqdm
