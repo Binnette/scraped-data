@@ -124,7 +124,7 @@ def process_shop(shop):
         'addr:country': info.get('address').get('countryCode'),
         'start_date': start,
         'website': BASE_URL + info.get('url'),
-        'ref:action:id': info.get('id'),
+        'ref:FR:action:id': info.get('id'),
         'opening_hours': oh
     }
     shop_feature = {

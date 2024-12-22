@@ -1,12 +1,12 @@
-name: Skaping Workflow
+name: Stokomani Workflow
 
 on:
   schedule:
-    - cron: '0 2 1 * *'  # Runs at 02:00 UTC on the first day of every month
+    - cron: '0 3 1 * *'  # Runs at 03:00 UTC on the first day of every month
   workflow_dispatch:  # Allows manual triggering from the GitHub web interface
 
 jobs:
-  run-skaping:
+  run-stokomani:
     runs-on: ubuntu-latest
 
     permissions:
@@ -22,14 +22,14 @@ jobs:
         python-version: '3.x'
 
     - name: Install Python dependencies
-      working-directory: Skaping
+      working-directory: Stokomani
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run skaping.py
-      working-directory: Skaping
-      run: python skaping.py
+    - name: Run stokomani.py
+      working-directory: Stokomani
+      run: python stokomani.py
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -37,26 +37,26 @@ jobs:
         node-version: '22'
 
     - name: Install mr-cli
-      working-directory: Skaping
+      working-directory: Stokomani
       run: npm install -g @maproulette/mr-cli
 
     - name: Run mr coop change
-      working-directory: Skaping
-      run: mr coop change --out challenge.geojson skaping.osm
+      working-directory: Stokomani
+      run: mr coop change --out challenge.geojson stokomani.osm
 
     - name: Generate graphic
-      working-directory: Skaping
+      working-directory: Stokomani
       run: python generate_graphic.py
 
     - name: Get the current date
       run: echo "current_date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
     - name: Update README with current date
-      working-directory: Skaping
+      working-directory: Stokomani
       run: |
         sed -i 's/Data last updated on: [0-9\-]*/Data last updated on: '${{ env.current_date }}'/' README.md
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Skaping ${{ env.current_date }}"
+        commit_message: "Stokomani ${{ env.current_date }}"

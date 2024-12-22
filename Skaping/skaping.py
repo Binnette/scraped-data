@@ -1,10 +1,10 @@
-import requests
-from bs4 import BeautifulSoup
-import json
-import re
 import csv
 import datetime
-from multiprocessing import cpu_count
+import json
+import re
+import requests
+from bs4 import BeautifulSoup
+from geojson2osm import geojson2osm
 
 # Constants
 SSL_VERIFY = False
@@ -84,8 +84,6 @@ def record_history(date, count):
         writer.writerow([date, count])
 
 def main():
-    print(f"Number of CPU cores available: {cpu_count()}")
-
     url = "https://www.skaping.com/camera/map"
     geojson_filename = "skaping.geojson"
 
@@ -103,6 +101,11 @@ def main():
 
     # Print the count of webcams
     print(f"{len(features)} webcams saved to {geojson_filename}")
+
+    osm_xml = geojson2osm(geojson)
+    with open('skaping.osm', 'w', encoding='utf-8') as output_file:
+        output_file.write(osm_xml)
+    print('The OSM file has been created successfully.')
 
     # Record the date and count of webcams to a CSV file
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')

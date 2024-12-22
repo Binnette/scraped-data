@@ -1,25 +1,27 @@
-# Stokomani shops
+# Stokomani 🏷️
 
-Data scraped from official website.
+**Data last updated on: 2024-12-13**
 
-## Download the store page list
+Data scraped from: [Stokomani](https://www.stokomani.fr)
 
-1. Download the file at url : https://www.stokomani.fr/Assets/Rbs/Seo/100457/fr_FR/Rbs_Store_Store.1.xml
-2. Save it in wk/Rbs_Store_Store.1.xml
+![History Diagram](shop_count_history.png)
 
-## Download and extrack data
+## 📅 Use the Latest Data Scraped Each Month
 
-1. Run the script stokomani.py
-2. It scans the file Rbs_Store_Store.1.xml
-3. Then it downloads all the store web page (html) and store them in folder wk
-4. Then it extracts all data and store them in the file stokomani.geojson
+Simply use the latest version of the data:
+- [stokomani.geojson](stokomani.geojson) contains GeoJSON features.
+- [challenge.geojson](challenge.geojson) can be used to create a challenge on [MapRoulette](https://maproulette.org/).
 
-## Create a MapRoulette challenge
+## 🛠️ Or Run the Scripts for the Latest Data
 
-1. Open stokomani.geojson with JOSM
-2. Save the layer as a new file: stokomani.osm
-3. Run the following mr-cli command:
+### 📋 Prerequisites
+- Python 3.x
+- Python libraries: `pip install -r requirements.txt`
+- Node.js
+- MapRoulette CLI: `npm install -g @maproulette/mr-cli`
 
-    `mr coop change --out challenge.geojson stokomani.osm`
-4. Upload the file challenge.geojson in a new MapRoulette project
-5. End!
+### 🔧 Steps
+1. Run the Python script `scrap-webcam.py`.
+2. Wait until the files `stokomani.geojson` and `stokomani.osm` are created.
+3. Run `mr coop change --out challenge.geojson ./stokomani.osm`.
+4. Use `challenge.geojson` to create a challenge on [MapRoulette](https://maproulette.org/).

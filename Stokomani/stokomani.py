@@ -1,41 +1,45 @@
+import csv
+import datetime
+import geojson
 import itertools
-import json
-import os
 import re
-from bs4 import BeautifulSoup
-
 import requests
+import urllib3
+from bs4 import BeautifulSoup
+from geojson2osm import geojson2osm
+from multiprocessing import Pool, cpu_count
+from tqdm import tqdm
 
-wkFolder = "wk"
-urlStores = "https://www.stokomani.fr/Assets/Rbs/Seo/100457/fr_FR/Rbs_Store_Store.1.xml"
-fileStores = os.path.join(wkFolder, "Rbs_Store_Store.1.xml")
+# Disable InsecureRequestWarning
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+# Constants
+SSL_VERIFY = False
+HISTORY_FILE = 'shop_count_history.csv'
+URL_STORES = "https://www.stokomani.fr/Assets/Rbs/Seo/100457/fr_FR/Rbs_Store_Store.1.xml"
+GEOJSON_FILE = 'stokomani.geojson'
 
-def download(url, filename):
-    r = requests.get(url, allow_redirects=True, verify=False)
-    if r.status_code == 200:
-        open(filename, 'wb').write(r.content)
-        return True
+# Download content from a URL
+def download(url):
+    response = requests.get(url, allow_redirects=True, verify=SSL_VERIFY)
+    if response.status_code == 200:
+        return response.content
     else:
-        print('Error %s downloading: %s' % (r.status_code, filename))
-        return False
-
+        print(f'Error {response.status_code} downloading: {url}')
+        return None
 
 def ranges(i):
-    for a, b in itertools.groupby(enumerate(i),
-                                  lambda pair: pair[1] - pair[0]):
+    for a, b in itertools.groupby(enumerate(i), lambda pair: pair[1] - pair[0]):
         b = list(b)
         yield b[0][1], b[-1][1]
-
 
 def getTime(time):
     if len(time) < 5 or len(time) > 8:
         return None
-
     return time[:5]
 
-
-def convertOpeningHours(hours):
+# Convert opening hours from a structured format to a string
+def convert_opening_hours(hours):
     oh = {}
     for h in hours:
         d = h.get("dayOfWeek")[:2]
@@ -61,9 +65,9 @@ def convertOpeningHours(hours):
     intToDay = {0: "Mo", 1: "Tu", 2: "We", 3: "Th", 4: "Fr", 5: "Sa", 6: "Su"}
 
     slots = []
-
     for k in dico:
-        if len(k) <= 0: continue
+        if len(k) <= 0:
+            continue
         d = dico[k]
         d.sort()
         days = list(ranges(d))
@@ -72,10 +76,8 @@ def convertOpeningHours(hours):
             last = t[1]
             if first != last:
                 slots.append({
-                    'index':
-                    first,
-                    'range':
-                    intToDay[first] + "-" + intToDay[last] + " " + k
+                    'index': first,
+                    'range': intToDay[first] + "-" + intToDay[last] + " " + k
                 })
             else:
                 slots.append({
@@ -88,133 +90,128 @@ def convertOpeningHours(hours):
     sanitized = re.sub("^Mo-Su ", "", sanitized)
     return sanitized
 
+# Convert address to structured format
+def convert_address(address):
+    words = re.split(r"\n|, ", address)
+    re_street = re.compile(r"^(av |avenue |bd |boulevard |chemin |route |rue |esplanade |place )", re.IGNORECASE)
+    have_street = any(re_street.match(w) for w in words)
 
-def convertAddress(address):
-    street = False
-    words = re.split("\\n|, ", address)
     a = {
-        "housenumber": "",
-        "street": "",
-        "postcode": "",
         "city": "",
         "country": "",
-        "full": " ".join(words)
+        "full": " ".join(words),
+        "housenumber": "",
+        "place": "",
+        "postcode": "",
+        "street": "",
     }
 
     for w in words:
-        if re.match("^Stokomani", w, re.IGNORECASE):
+        if re.match(r"^Stokomani", w, re.IGNORECASE):
             pass
-        elif re.match("^France", w, re.IGNORECASE):
+        elif re.match(r"^France", w, re.IGNORECASE):
             a["country"] = "France"
-        elif re.match("^[0-9]{4} ", w):
+        elif re.match(r"^[0-9]{4} ", w):
             a["postcode"] = "0" + w[:4]
             a["city"] = w[5:]
-        elif re.match("^[0-9]{5} ", w):
+        elif re.match(r"^[0-9]{5} ", w):
             a["postcode"] = w[:5]
             a["city"] = w[6:]
-        elif re.match("^[0-9]", w):
+        elif re.match(r"^[0-9]", w):
             a["housenumber"] = w.split(" ", 1)[0]
             a["street"] = w.split(" ", 1)[1]
-            street = True
-        elif re.match(
-                "^(av |avenue |bd |boulevard |chemin | route |esplanade |place )",
-                w, re.IGNORECASE):
+        elif re_street.match(w):
             a["street"] = w
-            street = True
-        elif not street:
+        elif not have_street:
             a["street"] = w
+        else:
+            a["place"] = w
 
     if a["city"].isupper():
         a["city"] = a["city"].title()
 
     return a
 
-
-def convertData(data):
+# Convert JSON-LD data to GeoJSON feature
+def convert_data(data):
     geo = data.get("geo")
-    hours = data.get("openingHoursSpecification")
-    oh = convertOpeningHours(hours)
-    address = data.get("address")
-    addr = convertAddress(address)
-    fixme = 'Please remove this fixme after completing the address given the following string: '
-    name = data.get("name")
-    if name.isupper():
-        name = name.title()
+    hours = data.get("openingHoursSpecification", [])
+    opening_hours = convert_opening_hours(hours)
+    address = data.get("address", "")
+    addr = convert_address(address)
 
-    feature = {
-        "type": "Feature",
-        "properties": {
+    return geojson.Feature(
+        geometry=geojson.Point((geo.get("longitude"), geo.get("latitude"))),
+        properties={
             "brand": "Stokomani",
             "brand:wikidata": "Q22249328",
             "brand:wikipedia": "fr:Stokomani",
             "name": "Stokomani",
-            "alt_name": "Stokomani " + name,
-            'addr:housenumber': addr.get('housenumber'),
-            'addr:street': addr.get('street'),
-            'addr:postcode': addr.get('postcode'),
-            'addr:city': addr.get('city'),
-            'fixme': fixme + addr.get('full'),
-            "opening_hours": oh,
+            "alt_name": data.get("name", "").title(),
+            'addr:housenumber': addr['housenumber'],
+            'addr:street': addr['street'],
+            'addr:postcode': addr['postcode'],
+            'addr:city': addr['city'],
+            'addr:place': addr['place'],
+            'fixme': f"Please remove this fixme after completing the address given the following string: {addr['full']}",
+            "opening_hours": opening_hours,
             "shop": "variety_store",
-            "website": data.get("url")
-        },
-        "geometry": {
-            "coordinates": [geo.get("longitude"),
-                            geo.get("latitude")],
-            "type": "Point"
+            "ref:FR:Stokomani:id": data.get("branchCode", ""),
+            "website": data.get("url", "")
         }
-    }
+    )
 
-    return feature
+# Process a single store URL
+def process_url(url):
+    content = download(url)
+    if content:
+        soup = BeautifulSoup(content, 'html.parser')
+        script = soup.find("main").find("script", {"type": "application/ld+json"})
+        if script:
+            data = geojson.loads(script.string)
+            return convert_data(data)
+    return None
 
+def record_history(date, count):
+    """Record the date and count of webcams to a CSV file."""
+    with open(HISTORY_FILE, 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow([date, count])
 
-if not os.path.exists(wkFolder):
-    os.makedirs(wkFolder)
+def main():
+    print(f"Number of CPU cores available: {cpu_count()}")
 
-# download the xml containing url to each shop webpage (html)
-if not os.path.exists(fileStores):
-    download(urlStores, fileStores)
+    # Download the XML containing URLs to each shop webpage
+    xml_content = download(URL_STORES)
+    soup = BeautifulSoup(xml_content, 'xml')
+    store_urls = [loc.text for loc in soup.find_all("loc")]
 
-storePages = []
+    # Use multiprocessing Pool to process URLs in parallel
+    with Pool(cpu_count()) as pool:
+        features = list(tqdm(pool.imap_unordered(process_url, store_urls), total=len(store_urls), desc="Processing stores"))
 
-with open(fileStores) as f:
-    soup = BeautifulSoup(f, 'html.parser')
-    locs = soup.find_all("loc")
-    for l in locs:
-        storePages.append(l.string)
+    # Filter out None results
+    features = [feature for feature in features if feature is not None]
 
-docs = []
+    # Sort by id
+    features.sort(key=lambda x: x['properties']['ref:FR:Stokomani:id'])
 
-for url in storePages:
-    docname = url.rsplit("/", 1)[-1]
-    docpath = os.path.join(wkFolder, docname)
-    docs.append(docpath)
-    if not os.path.exists(docpath):
-        downloaded = download(url, docpath)
+    geojson_data = geojson.FeatureCollection(features)
 
-features = []
+    # Write to GeoJSON file
+    with open(GEOJSON_FILE, 'w', encoding='utf-8') as f:
+        geojson.dump(geojson_data, f, ensure_ascii=False, indent=2)
 
-for doc in docs:
-    with open(doc, encoding="utf-8") as f:
-        soup = BeautifulSoup(f, 'html.parser')
-        main = soup.find("main")
-        script = main.find("script", {"type": "application/ld+json"})
-        jsonstr = script.string
-        data = json.loads(jsonstr)
-        feature = convertData(data)
-        features.append(feature)
+    print(f'Dump {len(features)} shops in file: {GEOJSON_FILE}')
 
-res = 'stokomani.geojson'
-if os.path.exists(res):
-    os.remove(res)
+    osm_xml = geojson2osm(geojson_data)
+    with open('stokomani.osm', 'w', encoding='utf-8') as output_file:
+        output_file.write(osm_xml)
+    print('The OSM file has been created successfully.')
 
+    # Record the date and count of webcams to a CSV file
+    current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+    record_history(current_date, len(features))
 
-geojson = {
-	"type": "FeatureCollection",
-	"features": features
-}
-
-with open(res, 'w', encoding='utf-8') as f:
-    json.dump(geojson, f, ensure_ascii=False, indent=2)
-
-print(f'Dump {len(features)} shops in file: {res}')
+if __name__ == "__main__":
+    main()

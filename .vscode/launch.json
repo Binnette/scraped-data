@@ -5,12 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python : fichier actif",
-            "type": "python",
+            "name": "Python in pwd",
+            "type": "debugpy",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true,
             "cwd": "${fileDirname}"
         }
     ]
