@@ -1,6 +1,6 @@
 # Marie-Blachère 🥖
 
-**Data last updated on: 2024-12-13**
+**Data last updated on: 2025-01-01**
 
 Data extracted from: [Marie Blachère](https://boulangeries.marieblachere.com/)
 
