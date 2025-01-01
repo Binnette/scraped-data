@@ -2376,6 +2376,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.20140707,
+          49.70761705
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/etretat/falaises",
+        "description": "Étretat",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20140707,
+          49.70761705
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/etretat/video/falaise-aval",
+        "description": "Étretat - Falaises",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20140707,
+          49.70761705
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/etretat/video/falaise-amont",
+        "description": "Etretat - Falaises",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.605488,
           46.40261
         ]
@@ -2443,21 +2488,6 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/excenevex/plage",
         "description": "Excenevex Plage",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.998692,
-          45.678558
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/aix-les-bains/foyer-du-ski-de-fond-de-crolles",
-        "description": "Foyer du ski de fond de Crolles au Revard (Aix-les-Bains)",
         "man_made": "surveillance"
       }
     },
@@ -2608,6 +2638,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/coutances/gouville-sur-mer/video",
         "description": "Gouville-sur-mer",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.88127387,
+          43.5859588
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/gozon/webcam",
+        "description": "Gozon",
         "man_made": "surveillance"
       }
     },
@@ -4123,6 +4168,36 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/le-grand-bornand/village",
         "description": "Le Grand-Bornand - Village - 1000 m",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09710133,
+          49.48984338
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance",
+        "description": "Le Havre - Port de Plaisance",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09710133,
+          49.48984338
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance/video",
+        "description": "Le Havre - Port de Plaisance",
         "man_made": "surveillance"
       }
     },
@@ -6201,6 +6276,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.07061384,
+          45.126335
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/alpedhuez/oz-en-oisans/station",
+        "description": "Oz 3300 - Station",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.950927,
           43.533959
         ]
@@ -6628,6 +6718,51 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/casino/video",
         "description": "Pléneuf Val André - Plage du Val-André",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56781816,
+          48.57781562
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/",
+        "description": "Pléneuf Val André - Port de Dahouet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56781816,
+          48.57781562
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/video",
+        "description": "Pléneuf Val André - Port de Dahouet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56781816,
+          48.57781562
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/live",
+        "description": "Pléneuf Val André - Port de Dahouet",
         "man_made": "surveillance"
       }
     },
@@ -7596,6 +7731,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.3412571,
+          44.57701268
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lac-serre-poncon/reallon/chabrieres",
+        "description": "Réallon - Chabrières",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.650792,
           45.301007
         ]
@@ -7648,6 +7798,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/valthorens/lamaison",
         "description": "Restaurant La Maison",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.998692,
+          45.678558
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/aix-les-bains/foyer-du-ski-de-fond-de-crolles",
+        "description": "Revard - Foyer du ski de fond de Crolles",
         "man_made": "surveillance"
       }
     },
@@ -8406,13 +8571,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.404873,
-          45.035091
+          6.4056623,
+          45.03505027
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/serrechevalier/coldulautaret",
         "description": "Serre Chevalier - Col du Lautaret 2058 m",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57465219,
+          44.90393636
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/serre-chevalier/prorel",
+        "description": "Serre Chevalier - Prorel",
         "man_made": "surveillance"
       }
     },
@@ -9598,6 +9778,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/vars/speed-master",
         "description": "Vars - Speed Master",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.10003258,
+          45.15972212
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/alpedhuez/vaujany/montfrais",
+        "description": "Vaujany - Montfrais",
         "man_made": "surveillance"
       }
     },
