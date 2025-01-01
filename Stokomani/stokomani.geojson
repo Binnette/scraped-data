@@ -1696,7 +1696,7 @@
         "addr:city": "Sorgues",
         "addr:place": "",
         "fixme": "Please remove this fixme after completing the address given the following string: Stokomani avenue Marc Lepoutre 84700 Sorgues FRANCE",
-        "opening_hours": "Mo-Sa 09:00-20:00",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "magasin_LET",
         "website": "https://www.stokomani.fr/stokomani-avignon-nord-le-pontet.html"
