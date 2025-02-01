@@ -1932,7 +1932,7 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/concarneau/video",
-        "description": "Concarneau - CEFCM",
+        "description": "Concarneau",
         "man_made": "surveillance"
       }
     },
@@ -1947,7 +1947,7 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/concarneau",
-        "description": "Concarneau - CEFCM",
+        "description": "Concarneau",
         "man_made": "surveillance"
       }
     },
@@ -2381,21 +2381,6 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/etretat/falaises",
-        "description": "Étretat",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.20140707,
-          49.70761705
-        ]
-      },
-      "properties": {
         "contact:webcam": "http://www.skaping.com/etretat/video/falaise-aval",
         "description": "Étretat - Falaises",
         "man_made": "surveillance"
@@ -2413,6 +2398,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/etretat/video/falaise-amont",
         "description": "Etretat - Falaises",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20140707,
+          49.70761705
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/etretat/falaises",
+        "description": "Étretat - Vue panoramique sur les Falaises",
         "man_made": "surveillance"
       }
     },
@@ -3576,6 +3576,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.6986239,
+          45.19985459
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/la-norma/fontaine-aux-oiseaux",
+        "description": "La Norma - Fontaine aux oiseaux",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6986239,
+          45.19985459
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/la-norma/fontaine-aux-oiseaux/video",
+        "description": "La Norma - Fontaine aux oiseaux",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.394798,
           46.606239
         ]
@@ -3838,21 +3868,6 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/ot-pays-voironnais/lac-de-paladru/panoramique",
         "description": "Lac de Paladru - panoramique",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.29975345,
-          42.93527974
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/campan/lac-de-payolle",
-        "description": "Lac de Payolle",
         "man_made": "surveillance"
       }
     },
@@ -6531,6 +6546,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.44653416,
+          42.79042887
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/peyragudes/privilege",
+        "description": "Peyragudes - Privilège",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.44767678,
           42.79090514
         ]
@@ -6688,6 +6718,21 @@
       "properties": {
         "contact:webcam": "https://www.skaping.com/granville-terre-mer/jullouville/video",
         "description": "Plage des Plaisanciers de Jullouville - Vidéo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.428058,
+          46.033213
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/plateau-de-solaison/la-fruitiere",
+        "description": "Plateau de Solaison",
         "man_made": "surveillance"
       }
     },
@@ -8952,7 +8997,7 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/thonon-les-bains/evenements",
-        "description": "Thonon-les-Bains - Belvédère",
+        "description": "Thonon-les-Bains - Le foyer des Moises",
         "man_made": "surveillance"
       }
     },
@@ -9463,6 +9508,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/valthorens/station",
         "description": "VAL THORENS - CENTRE STATION",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5598464,
+          45.26356982
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/val-thorens/cime-caron",
+        "description": "Val Thorens - Cime Caron",
         "man_made": "surveillance"
       }
     },

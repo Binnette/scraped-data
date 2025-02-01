@@ -1,6 +1,6 @@
 # Skaping 🎥
 
-**Data last updated on: 2025-01-01**
+**Data last updated on: 2025-02-01**
 
 Data extracted from: [Skaping](https://www.skaping.com)
 
