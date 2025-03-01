@@ -2211,21 +2211,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.905755,
-          47.900784
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/orleans/beffroi",
-        "description": "Depuis le Beffroi",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.98164296,
           46.47802323
         ]
@@ -5721,6 +5706,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.28815091,
+          48.16763285
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/mont-edouard/base",
+        "description": "Mont Edouard",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.085414,
           47.771056
         ]
@@ -6268,6 +6268,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/orcieres/la-favue/panorama",
         "description": "Orcières – La Favue",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.905755,
+          47.900784
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/orleans/beffroi",
+        "description": "Orléans - Beffroi",
         "man_made": "surveillance"
       }
     },
@@ -7881,6 +7896,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.98805845,
+          45.68323486
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/revard/tesson",
+        "description": "Revard - Tesson",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.272301,
           46.159469
         ]
@@ -9306,21 +9336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.081478,
-          49.365935
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/trouville",
-        "description": "Trouville-sur-Mer",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.20308614,
           42.99113866
         ]
@@ -9741,6 +9756,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.42436266,
+          45.44940588
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/valmorel/planchamp",
+        "description": "Valmorel - Planchamp",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.29608,
           43.247083
         ]
@@ -9838,6 +9868,21 @@
       "properties": {
         "contact:webcam": "http://www.skaping.com/vars/speed-master",
         "description": "Vars - Speed Master",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09310985,
+          45.13951522
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/alpedhuez/vaujany/alpette",
+        "description": "Vaujany - Alpette",
         "man_made": "surveillance"
       }
     },
