@@ -28,8 +28,8 @@ def parse_html(html_content):
             index = 1
 
             while True:
-                marker_regex = re.compile(r'markers\[' + str(index) + '\].*?\n.*?LatLng\((.*?), (.*?)\).*?\n.*?\n.*?\n.*?title:"(.*?)"')
-                window_regex = re.compile(r'windows\[' + str(index) + '\].*?\n.*?href=\\\\"(.*?)\\\\">.*?')
+                marker_regex = re.compile(r'markers\[' + str(index) + '\].*?\[(.*?), (.*?)\]')
+                window_regex = re.compile(r'windows\[' + str(index) + '\].*(?:(?!\n\s*\n)[\s\S])*?\.setContent\(\"([\s\S]*?)\"\)')
 
                 marker = marker_regex.findall(script_text)
                 window = window_regex.findall(script_text)
@@ -42,10 +42,9 @@ def parse_html(html_content):
 
                 lat = float(marker[0][0])
                 lon = float(marker[0][1])
-                title = marker[0][2].strip()
-                url = window[0]
+                content = window[0]
 
-                feature = create_geojson_feature(lon, lat, title, url)
+                feature = create_geojson_feature(lon, lat, content)
                 features.append(feature)
                 index += 1
 
@@ -58,7 +57,16 @@ def create_geojson(features):
         "features": features
     }
 
-def create_geojson_feature(lon, lat, title, url):
+def extract_href(content: str) -> str:
+    pattern = r'href=\\"([^\\"]+)\\"'
+    match = re.search(pattern, content)
+
+    if match:
+        return match.group(1)
+
+def create_geojson_feature(lon, lat, content):
+    url = extract_href(content)
+
     return {
         "type": "Feature",
         "geometry": {
@@ -67,7 +75,6 @@ def create_geojson_feature(lon, lat, title, url):
         },
         "properties": {
             "contact:webcam": url,
-            "description": title,
             "man_made": "surveillance"
         }
     }

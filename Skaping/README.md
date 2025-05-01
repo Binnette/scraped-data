@@ -4,7 +4,7 @@
 
 Data extracted from: [Skaping](https://www.skaping.com)
 
-![History Diagram](webcam_count_history.png)
+![History Diagram](webcam_count_history.png?img_date=2025-04-01)
 
 ## 📅 Use the Latest Data Scraped Each Month
 
