@@ -55,7 +55,7 @@ jobs:
         working-directory: Stokomani
         run: |
           sed -Ei "s/(Data last updated on:) [0-9\-]*/\1 '${{ env.current_date }}'/" README.md
-          sed -Ei "s/(shop_count_history\.png\?img_date=)[0-9\-]*/\1'${{ env.current_date }}'/" README.md
+          sed -Ei "s/(count_history\.png\?img_date=)[0-9\-]*/\1'${{ env.current_date }}'/" README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

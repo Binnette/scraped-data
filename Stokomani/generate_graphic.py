@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+from matplotlib.ticker import MaxNLocator
 
 HISTORY_FILE = 'shop_count_history.csv'
 GRAPHIC_FILE = 'shop_count_history.png'
@@ -20,6 +21,9 @@ def generate_graphic():
     plt.grid(True)
     plt.xticks(rotation=45)
     plt.tight_layout()
+
+    # Set y-axis to show only integer ticks
+    plt.gca().yaxis.set_major_locator(MaxNLocator(integer=True))
 
     # Save the plot as an image file
     plt.savefig(GRAPHIC_FILE)

@@ -4,7 +4,7 @@
 
 Data extracted from: [Marie Blachère](https://boulangeries.marieblachere.com/)
 
-![History Diagram](bakery_count_history.png)
+![History Diagram](bakery_count_history.png?img_date=2025-05-01)
 
 ## 📅 Use the Latest Data Scraped Each Month
 
