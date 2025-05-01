@@ -4,7 +4,7 @@
 
 Data scraped from: [Stokomani](https://www.stokomani.fr)
 
-![History Diagram](shop_count_history.png)
+![History Diagram](shop_count_history.png?img_date=2025-01-01)
 
 ## 📅 Use the Latest Data Scraped Each Month
 
