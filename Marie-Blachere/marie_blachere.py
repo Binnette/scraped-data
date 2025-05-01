@@ -11,16 +11,25 @@ from multiprocessing import Pool, cpu_count
 
 # Constants
 SSL_VERIFY = True
-JSON_URL = 'https://boulangeries.marieblachere.com/_next/data/6QhMlpC_aVGtbWYxnjA9t/fr/all.json'
+ALL_URL = 'https://boulangeries.marieblachere.com/fr/france-FR/all'
 HISTORY_FILE = 'bakery_count_history.csv'
 
-def fetch_json_data(url):
-    """Fetch JSON data from the given URL."""
-    response = requests.get(url, verify=SSL_VERIFY)
+def fetch_embedded_json():
+    """
+    Fetch the page at ALL_URL, then use BeautifulSoup
+    to get JSON embedded that contains all bakeries
+    """
+    response = requests.get(ALL_URL, verify=SSL_VERIFY)
     if response.status_code == 200:
-        return response.json()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        script_tag = soup.find('script', id='__NEXT_DATA__')
+        if script_tag:
+            return json.loads(script_tag.string)
+        else:
+            print('Error: Could not find the __NEXT_DATA__ script tag.')
+            exit()
     else:
-        print(f'Error {response.status_code} when fetching data from: {url}')
+        print(f'Error {response.status_code} when fetching data from: {ALL_URL}')
         exit()
 
 def capitalize_first_letter(input_string):
@@ -137,8 +146,8 @@ def process_bakery(bakery_data):
 def main():
     print(f"Number of CPU cores available: {cpu_count()}")
 
-    data = fetch_json_data(JSON_URL)
-    bakery_data_list = data['pageProps']['allPois']
+    data = fetch_embedded_json()
+    bakery_data_list = data['props']['pageProps']['allPois']
 
     # Use multiprocessing Pool to process bakeries in parallel
     with Pool(cpu_count()) as pool:
