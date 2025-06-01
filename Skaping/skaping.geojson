@@ -342,6 +342,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.98116941,
+          47.41746506
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise-quais-loire/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.99165022,
+          47.41060475
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/le-clos-luce/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.98116941,
+          47.41746506
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise-quais-loire/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.59257507,
           47.45912854
         ]
@@ -1252,6 +1294,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -60.43175697,
+          46.62072008
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/cape-smokey",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.60753,
           50.5221
         ]
@@ -1468,6 +1524,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/chambery/palais-de-justice",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3024624,
+          45.0603774
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/haut-lignon/chambon-sur-lignon/centre-ville",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31737647,
+          45.05209861
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/haut-lignon/chambon-sur-lignon/plage",
         "man_made": "surveillance"
       }
     },
@@ -5970,6 +6054,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.6525531,
+          47.1495792
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parc-de-fierbois/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.935254,
           47.852357
         ]
@@ -7874,6 +7972,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.54670119,
+          46.4069407
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-vincent-sur-jard/plage-clemenceau",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54670119,
+          46.4069407
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-vincent-sur-jard/plage-clemenceau/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.684043,
           43.179425
         ]
@@ -8434,6 +8560,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.29045146,
+          45.11465235
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/haut-lignon/tence/mairie",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.155865,
           42.882414
         ]
@@ -8509,7 +8649,21 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/toulon/chalucet",
+        "contact:webcam": "http://www.skaping.com/toulon/chalucet/live/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.931597,
+          43.120079
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/toulon/mairie-d-honneur/live/",
         "man_made": "surveillance"
       }
     },
@@ -8537,35 +8691,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/toulon/plage/2",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.943341,
-          43.106867
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/toulon/plage/mourillon",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.931597,
-          43.120079
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/toulon/port",
+        "contact:webcam": "http://www.skaping.com/toulon/plage/live/",
         "man_made": "surveillance"
       }
     },
