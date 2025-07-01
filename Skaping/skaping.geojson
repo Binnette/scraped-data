@@ -804,6 +804,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.08256364,
+          49.43149504
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/beauvais/cathedrale-saint-pierre",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08256364,
+          49.43149504
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/beauvais/cathedrale-saint-pierre/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.082104,
           49.429659
         ]
@@ -2965,20 +2993,6 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/intra-muros",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.022807,
-          48.651229
-        ]
-      },
-      "properties": {
         "contact:webcam": "http://www.skaping.com/saint-malo/intra-muros/panoramique/video",
         "man_made": "surveillance"
       }
@@ -3343,7 +3357,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/grandtourmalet/coldutourmalet-attente",
+        "contact:webcam": "http://www.skaping.com/grandtourmalet/coldutourmalet",
         "man_made": "surveillance"
       }
     },
@@ -4080,6 +4094,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.56941414,
+          50.70711588
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-portel/plage-de-l-entonnoir",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.56941414,
+          50.70711588
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-portel/plage-de-l-entonnoir/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.885415,
           45.04699
         ]
@@ -4408,6 +4450,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/les7laux/prapoutel/sommetdesbouquetins",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.80481827,
+          47.36085686
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/montlouis-vouvray/veretz",
         "man_made": "surveillance"
       }
     },
@@ -5396,8 +5452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.027449,
-          48.638288
+          -2.02823818,
+          48.64025911
         ]
       },
       "properties": {
@@ -6572,6 +6628,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.11207213,
+          47.110423
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11207213,
+          47.110423
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.344871,
           47.264473
         ]
@@ -7034,8 +7118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.027449,
-          48.638288
+          -2.02823818,
+          48.64025911
         ]
       },
       "properties": {
@@ -7594,6 +7678,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.8241756,
+          47.95782789
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/concarneau/rosporden/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8241756,
+          47.95782789
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/concarneau/rosporden/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.788468,
           46.501563
         ]
@@ -7964,6 +8076,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-lumine-de-coutais",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.022807,
+          48.651229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/intra-muros",
         "man_made": "surveillance"
       }
     },
@@ -9434,6 +9560,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/verdun-sur-le-doubs/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.80481827,
+          47.36085686
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/montlouis-vouvray/veretz/video",
         "man_made": "surveillance"
       }
     },
