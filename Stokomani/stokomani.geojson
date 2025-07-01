@@ -373,7 +373,7 @@
         "addr:city": "Avignon",
         "addr:place": "",
         "fixme": "Please remove this fixme after completing the address given the following string: 270 Av. Marcou Delanglade, 84140, Avignon, FR",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "magasin_AVI",
         "website": "https://www.stokomani.fr/stokomani-avignon-sud.html"
@@ -562,7 +562,7 @@
         "addr:city": "Blagnac",
         "addr:place": "",
         "fixme": "Please remove this fixme after completing the address given the following string: ZA Grand Noble, 2 impasse Roland Garros, 31700, Blagnac, FR",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "magasin_BLA",
         "website": "https://www.stokomani.fr/stokomani-blagnac.html"
