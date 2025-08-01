@@ -356,6 +356,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.99875271,
+          47.40933413
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/chateau-gaillard",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.99875271,
+          47.40933413
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/chateau-gaillard/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97233832,
+          47.39088846
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/la-pagode/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97233832,
+          47.39088846
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/la-pagode/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.99165022,
           47.41060475
         ]
@@ -650,6 +706,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.61159456,
+          50.19025854
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/baie-de-somme/cap-hornu/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.61159456,
+          50.19025854
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/baie-de-somme/cap-hornu/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.574766,
           51.144607
         ]
@@ -851,7 +935,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "https://skaping.com/beauvais/plan-d-eau-du-canada/live/",
+        "contact:webcam": "https://www.skaping.com/beauvais/plan-d-eau-du-canada/live/",
         "man_made": "surveillance"
       }
     },
@@ -1392,20 +1476,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.093675,
-          49.440536
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/cathedrale-notre-dame-de-rouen",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.139698,
           42.85111
         ]
@@ -1566,20 +1636,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/haut-lignon/chambon-sur-lignon/centre-ville",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.31737647,
-          45.05209861
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/haut-lignon/chambon-sur-lignon/plage",
         "man_made": "surveillance"
       }
     },
@@ -2988,20 +3044,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.022807,
-          48.651229
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/intra-muros/panoramique/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.330867,
           47.586234
         ]
@@ -3358,6 +3400,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/grandtourmalet/coldutourmalet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.147407,
+          42.908366
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grandtourmalet/coldutourmalet/video",
         "man_made": "surveillance"
       }
     },
@@ -3730,12 +3786,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.29975345,
+          42.93527974
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/campan/lac-de-payolle",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.804824,
           43.581254
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/esterel/paysdefayence",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84311748,
+          45.80679207
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84311748,
+          45.80679207
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere",
         "man_made": "surveillance"
       }
     },
@@ -3890,6 +3988,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/grandlac/bourgetdulac",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31737647,
+          45.05209861
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/haut-lignon/chambon-sur-lignon/plage",
         "man_made": "surveillance"
       }
     },
@@ -4598,6 +4710,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.54179313,
+          45.31466336
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-menuires/bruyeres/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54179313,
+          45.31466336
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-menuires/bruyeres/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.537446,
           45.322775
         ]
@@ -5242,12 +5382,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/marseille/sky-center",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.03837407,
           43.32991313
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/spot-de-carro/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/marseille/world-trade-center",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/marseille/one-provence",
         "man_made": "surveillance"
       }
     },
@@ -5452,12 +5634,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.02823818,
-          48.64025911
+          -3.70668325,
+          47.81265864
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/mole",
+        "contact:webcam": "http://www.skaping.com/moelan-sur-mer/port-de-belon/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70668325,
+          47.81265864
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/moelan-sur-mer/port-de-belon",
         "man_made": "surveillance"
       }
     },
@@ -6138,6 +6334,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.10355416,
+          44.34707969
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/club-nautique/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10355416,
+          44.34707969
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/club-nautique/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07172489,
+          44.34865685
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07172489,
+          44.34865685
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09821221,
+          44.34161502
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/port/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.908923,
           47.902463
         ]
@@ -6326,6 +6592,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/peyragudes/serias",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84311748,
+          45.80679207
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere/video",
         "man_made": "surveillance"
       }
     },
@@ -6550,6 +6830,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.32612956,
+          48.66635925
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/plouneour-brignogan-plages",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.32612956,
+          48.66635925
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/plouneour-brignogan-plages/video",
         "man_made": "surveillance"
       }
     },
@@ -7082,48 +7390,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/sarzeau/port-saint-jacques",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.027016,
-          48.638126
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.027016,
-          48.638126
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.02823818,
-          48.64025911
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/le-mole/video",
         "man_made": "surveillance"
       }
     },
@@ -8098,6 +8364,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.022807,
+          48.651229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/intra-muros/panoramique/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02823818,
+          48.64025911
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/mole",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027016,
+          48.638126
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027016,
+          48.638126
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02823818,
+          48.64025911
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/le-mole/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.54670119,
           46.4069407
         ]
@@ -8714,8 +9050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.47708416,
-          46.37441134
+          6.46382332,
+          46.26995839
         ]
       },
       "properties": {
@@ -9293,7 +9629,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/valfrejus/puntabagna-location-valfrejus",
+        "contact:webcam": "http://www.skaping.com/valfrejus/puntabagna",
         "man_made": "surveillance"
       }
     },
@@ -9307,7 +9643,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/valfrejus/puntabagna",
+        "contact:webcam": "http://www.skaping.com/valfrejus/puntabagna-location-valfrejus",
         "man_made": "surveillance"
       }
     },
@@ -9910,6 +10246,48 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/jardin-du-lautaret/galibier/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21720752,
+          44.8947439
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/medoc-plein-sud/le-porge-ocean/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21727342,
+          44.89430287
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/medoc-plein-sud/le-porge-ocean",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21727342,
+          44.89430287
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/medoc-plein-sud/le-porge-ocean/video",
         "man_made": "surveillance"
       }
     },
