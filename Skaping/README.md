@@ -1,10 +1,10 @@
 # Skaping 🎥
 
-**Data last updated on: '2025-08-01''2025-07-01''2025-06-01'**
+**Data last updated on: '2025-09-01''2025-08-01''2025-07-01''2025-06-01'**
 
 Data extracted from: [Skaping](https://www.skaping.com)
 
-![History Diagram](webcam_count_history.png?img_date='2025-08-01''2025-07-01''2025-06-01')
+![History Diagram](webcam_count_history.png?img_date='2025-09-01''2025-08-01''2025-07-01''2025-06-01')
 
 ## 📅 Use the Latest Data Scraped Each Month
 

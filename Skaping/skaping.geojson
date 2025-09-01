@@ -608,6 +608,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.12256326,
+          48.94738801
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/avalanche-quebec",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.777862,
           46.17944
         ]
@@ -1854,6 +1868,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -65.49116312,
+          48.96152769
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/chicchac/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.326602,
           44.52547
         ]
@@ -2560,6 +2588,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/genelard",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.21852309,
+          48.51630835
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/geoparc-perce",
         "man_made": "surveillance"
       }
     },
@@ -3806,34 +3848,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/esterel/paysdefayence",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.84311748,
-          45.80679207
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere/live",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.84311748,
-          45.80679207
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere",
         "man_made": "surveillance"
       }
     },
@@ -5690,6 +5704,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.12256326,
+          48.94738801
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/parc-national-mont-albert",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.28815091,
           48.16763285
         ]
@@ -5760,6 +5788,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.21852309,
+          48.51630835
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/rocher-perce",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.31561,
           49.02220523
         ]
@@ -5822,6 +5864,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/montriond/village-des-lindarets",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.49116312,
+          48.96152769
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/murdochville/Chic-Chac",
         "man_made": "surveillance"
       }
     },
@@ -5920,6 +5976,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/narbonne/plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.26178246,
+          43.17973629
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nay/hotel-de-ville",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.26178246,
+          43.17973629
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nay/hotel-de-ville/video",
         "man_made": "surveillance"
       }
     },
@@ -6334,6 +6418,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -67.57287025,
+          48.47188277
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/parc-regional-val-irene",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.10355416,
           44.34707969
         ]
@@ -6600,12 +6698,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.84311748,
-          45.80679207
+          0.14247651,
+          42.93631504
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/peyrat-le-chateau/lac-de-vassiviere/video",
+        "contact:webcam": "http://www.skaping.com/pic-du-midi",
         "man_made": "surveillance"
       }
     },
@@ -6614,12 +6712,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.14247651,
-          42.93631504
+          -65.73034402,
+          48.31401437
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pic-du-midi",
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/pin-rouge",
         "man_made": "surveillance"
       }
     },
@@ -6941,7 +7039,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/photo",
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/video",
         "man_made": "surveillance"
       }
     },
@@ -6955,7 +7053,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/video",
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/photo",
         "man_made": "surveillance"
       }
     },
@@ -7860,6 +7958,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.21852309,
+          48.51630835
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/riotel-perce",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.272301,
           46.159469
         ]
@@ -8300,6 +8412,20 @@
       },
       "properties": {
         "contact:webcam": "https://www.skaping.com/saint-lary/bouleaux/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.26519537,
+          42.81369006
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-lary/bouleaux/panoramique",
         "man_made": "surveillance"
       }
     },
@@ -8994,6 +9120,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -65.73034402,
+          48.31401437
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/station-touristique-pin-rouge",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -150.10609812,
           62.82999435
         ]
@@ -9392,6 +9532,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/val-d-azun/col-de-couraduque/video-nordicpark",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.57287025,
+          48.47188277
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/val-irene",
         "man_made": "surveillance"
       }
     },
