@@ -342,6 +342,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.35906698,
+          44.52436562
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/alpine-ski-club/mountain-top",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.98116941,
           47.41746506
         ]
@@ -1336,20 +1350,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.63545394,
-          45.30172016
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/bromont/village",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.064665,
           44.071466
         ]
@@ -1678,6 +1678,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/chamonix/brevent",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84985883,
+          45.93814149
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chamonix/plan-praz",
         "man_made": "surveillance"
       }
     },
@@ -3156,20 +3170,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.62331426,
-          45.28936162
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/bromont/versant-du-lac",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.636989,
           45.301123
         ]
@@ -4155,7 +4155,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance",
+        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance/video",
         "man_made": "surveillance"
       }
     },
@@ -4169,7 +4169,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance/video",
+        "contact:webcam": "http://www.skaping.com/le-havre/port-de-plaisance",
         "man_made": "surveillance"
       }
     },
@@ -5429,6 +5429,20 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/synertic",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/world-trade-center",
         "man_made": "surveillance"
       }
@@ -5444,20 +5458,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/one-provence",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.64140165,
-          45.83568781
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/megeve/la-livraz",
         "man_made": "surveillance"
       }
     },
@@ -8826,6 +8826,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.52896504,
+          44.92150232
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/serre-chevalier/mea",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.57465219,
           44.90393636
         ]
@@ -9490,6 +9504,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/tremblant/versant-sud",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.572438,
+          46.22039425
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tremblant/pic-flying-mile",
         "man_made": "surveillance"
       }
     },
