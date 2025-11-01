@@ -1,10 +1,10 @@
 # Stokomani 🏷️
 
-**Data last updated on: 2025-10-01**
+**Data last updated on: 2025-11-01**
 
 Data scraped from: [Stokomani](https://www.stokomani.fr)
 
-![History Diagram](shop_count_history.png?img_date=2025-10-01)
+![History Diagram](shop_count_history.png?img_date=2025-11-01)
 
 ## 📅 Use the Latest Data Scraped Each Month
 
