@@ -1504,6 +1504,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.17417192,
+          42.88170732
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/cauterets/les-cretes/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.11454105,
           42.88690366
         ]
@@ -2106,6 +2120,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.61512,
+          45.382297
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/courchevel/saulire/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.519805,
           46.353487
         ]
@@ -2386,6 +2414,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.44866997,
+          48.17397181
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/epinal/quai-jules-ferry",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44866997,
+          48.17397181
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/epinal/quai-jules-ferry/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.478508,
           45.920032
         ]
@@ -2532,34 +2588,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/excenevex/plage",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.139527,
-          42.903656
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/grandtourmalet/freestylepark/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.139527,
-          42.903656
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/grandtourmalet/freestylepark",
         "man_made": "surveillance"
       }
     },
@@ -3484,20 +3512,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/grandtourmalet/lamongiepourteilh/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.174609,
-          42.902919
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/grandtourmalet/sapins",
         "man_made": "surveillance"
       }
     },
@@ -4444,20 +4458,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.172041,
-          44.996556
-        ]
-      },
-      "properties": {
-        "contact:webcam": "https://www.skaping.com/les2alpes/2600m",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.204522,
           44.997527
         ]
@@ -4520,20 +4520,6 @@
       },
       "properties": {
         "contact:webcam": "https://www.skaping.com/les2alpes/la-fee",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.146879,
-          44.996971
-        ]
-      },
-      "properties": {
-        "contact:webcam": "https://www.skaping.com/les2alpes/super-diable",
         "man_made": "surveillance"
       }
     },
@@ -5401,6 +5387,34 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/synertic",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/synertic/en",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36757886,
+          43.31228785
+        ]
+      },
+      "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/sky-center",
         "man_made": "surveillance"
       }
@@ -5429,20 +5443,6 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/synertic",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.36757886,
-          43.31228785
-        ]
-      },
-      "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/world-trade-center",
         "man_made": "surveillance"
       }
@@ -5458,6 +5458,76 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/marseille/one-provence",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6229105,
+          45.81727022
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/fontaine",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64140165,
+          45.83568781
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/la-livraz",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66204929,
+          45.85843518
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/lac-d-arbois",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66204929,
+          45.85843518
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/mont-d-arbois",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6133672,
+          45.83318183
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/rochebrune",
         "man_made": "surveillance"
       }
     },
@@ -6012,6 +6082,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.46602845,
+          46.32262124
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/niort/notredame/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46602845,
+          46.32262124
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/niort/notredame/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.300214,
           47.025713
         ]
@@ -6465,7 +6563,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme",
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme/video",
         "man_made": "surveillance"
       }
     },
@@ -6479,7 +6577,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme/video",
+        "contact:webcam": "http://www.skaping.com/parentis-en-born/office-de-tourisme",
         "man_made": "surveillance"
       }
     },
@@ -6899,20 +6997,6 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.56781816,
-          48.57781562
-        ]
-      },
-      "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/video",
         "man_made": "surveillance"
       }
@@ -6928,6 +7012,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56781816,
+          48.57781562
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/",
         "man_made": "surveillance"
       }
     },
@@ -7039,7 +7137,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/video",
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/photo",
         "man_made": "surveillance"
       }
     },
@@ -7053,7 +7151,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/photo",
+        "contact:webcam": "http://www.skaping.com/pornic/port-de-plaisance/video",
         "man_made": "surveillance"
       }
     },
@@ -8168,20 +8266,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.6943351,
-          43.16582294
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/saint-cyr-sur-mer/madrague/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.395782,
           45.430402
         ]
@@ -8244,6 +8328,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-jans-cappel/village",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25497043,
+          45.2255922
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-sybelles/charvin-express/panoramique",
         "man_made": "surveillance"
       }
     },
@@ -9182,6 +9280,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/haut-lignon/tence/mairie",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28624612,
+          45.11495815
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/haut-lignon/tence/pont",
         "man_made": "surveillance"
       }
     },
