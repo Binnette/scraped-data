@@ -202,34 +202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0619936,
-          45.64242059
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/les-aillons/margeriaz",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.101899,
-          45.608229
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/aillons-margeriaz/1000",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.886294,
           45.703534
         ]
@@ -432,6 +404,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/amboise/le-clos-luce/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.99165022,
+          47.41060475
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/amboise/le-clos-luce/video",
         "man_made": "surveillance"
       }
     },
@@ -655,7 +641,21 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/aussois/front-de-neige",
+        "contact:webcam": "http://www.skaping.com/aussois/front-de-neige/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7414856,
+          45.2278887
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/aussois/le-village",
         "man_made": "surveillance"
       }
     },
@@ -754,20 +754,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/avoriaz/station",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.768437,
-          46.193544
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/avoriaz/amara",
         "man_made": "surveillance"
       }
     },
@@ -1048,6 +1034,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/beauvais/place-jeanne-hachette/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.082104,
+          49.429659
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/beauvais/place-jeanne-hachette/live",
         "man_made": "surveillance"
       }
     },
@@ -1462,12 +1462,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.623369,
+          45.289328
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/bromont/rm-5",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.63731003,
           45.28913895
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/bromont/panoramique-sommet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62331426,
+          45.28936162
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/bromont/sommet-versant-du-midi",
         "man_made": "surveillance"
       }
     },
@@ -2778,6 +2806,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.0619936,
+          45.64242059
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-aillons/margeriaz",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.23524022,
           46.57769667
         ]
@@ -3092,6 +3134,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/gruissan/plagedeschalets/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.091779,
+          43.109891
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/gruissan/village/attente",
         "man_made": "surveillance"
       }
     },
@@ -3506,12 +3562,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.94394946,
+          48.0517688
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/la-bresse/lispach",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.998612,
           48.03276
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/la-bresse/hohneck",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97992325,
+          48.02652151
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/la-bresse/sommet-petit-artimont",
         "man_made": "surveillance"
       }
     },
@@ -4248,6 +4332,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.26031601,
+          48.40586068
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-champ-du-feu/chalet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26089001,
+          48.40969769
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-champ-du-feu/pistes",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.26871943,
           45.23979854
         ]
@@ -4828,6 +4940,104 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/les7laux/prapoutel/sommetdesbouquetins",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56627836,
+          48.62474146
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/phares-ile-vierge",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56627836,
+          48.62474146
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/pointe-de-castel-ac-h/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56627836,
+          48.62474146
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/pointe-du-castel-ac-h/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60868378,
+          48.57518921
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/port-du-vilh/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60868378,
+          48.57518921
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/port-du-vilh/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56660568,
+          48.59653229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/semaphore-de-l-aber-wrac-h/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56660568,
+          48.59653229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-abers/semaphore-de-l-aber-wrac-h/video",
         "man_made": "surveillance"
       }
     },
@@ -5550,8 +5760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06093979,
-          42.88464161
+          -0.07091761,
+          42.87948242
         ]
       },
       "properties": {
@@ -5570,20 +5780,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/luz-ardiden/pourtere/",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.06093979,
-          42.88464161
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/luz-ardiden/bederet",
         "man_made": "surveillance"
       }
     },
@@ -8322,12 +8518,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.650792,
-          45.301007
+          4.03148926,
+          49.25350827
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/bromont/rm-9",
+        "contact:webcam": "http://www.skaping.com/reims/cathedrale",
         "man_made": "surveillance"
       }
     },
@@ -8336,12 +8532,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.62331426,
-          45.28936162
+          4.03143525,
+          49.25348753
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/bromont/versant-du-lac",
+        "contact:webcam": "http://www.skaping.com/reims/cathedrale/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.03143525,
+          49.25348753
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/reims/cathedrale/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.650792,
+          45.301007
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/bromont/rm-9",
         "man_made": "surveillance"
       }
     },
@@ -8594,6 +8818,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-brevin-les-pins/serpent-d-ocean",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13843886,
+          48.62510313
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-briac/capitainerie/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13843886,
+          48.62510313
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-briac/capitainerie/video",
         "man_made": "surveillance"
       }
     },
@@ -9274,6 +9526,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.15593791,
+          43.76007989
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/sainte-croix-du-verdon/bord-de-lac",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15038037,
+          43.75770289
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/sainte-croix-du-verdon/village",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.704692,
           46.13139
         ]
@@ -9308,6 +9588,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/serre-chevalier/mea",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52896504,
+          44.92150232
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/serre-chevalier/mea/video",
         "man_made": "surveillance"
       }
     },
@@ -10016,6 +10310,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.101899,
+          45.608229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/aillons-margeriaz/1000",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.20308614,
           42.99113866
         ]
@@ -10414,6 +10722,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/valmeinier/front-de-neige/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49383187,
+          45.17436627
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/valmeinier/front-de-neige/video2",
         "man_made": "surveillance"
       }
     },
