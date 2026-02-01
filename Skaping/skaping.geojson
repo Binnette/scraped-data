@@ -1238,20 +1238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.22830677,
-          43.34394951
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/beziers/arenes-exterieur/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.21007315,
           43.34099218
         ]
@@ -1272,20 +1258,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/beziers/place-jean-jaures/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21229398,
-          43.34385588
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/beziers/les-halles/video",
         "man_made": "surveillance"
       }
     },
@@ -1356,20 +1328,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/beziers/pont-vieux",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21589887,
-          43.34417573
-        ]
-      },
-      "properties": {
-        "contact:webcam": "https://skaping.com/beziers/theatre/snap",
         "man_made": "surveillance"
       }
     },
@@ -1994,6 +1952,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.87984204,
+          45.12603513
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chamrousse/recoin/archives",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87984204,
+          45.12603513
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chamrousse/recoin/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.045634,
           45.043286
         ]
@@ -2414,6 +2400,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.60591973,
+          44.54584269
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lac-serre-poncon/crevoux/station",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.58301728,
           47.51769454
         ]
@@ -2644,6 +2644,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/esparron-de-verdon",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7616073,
+          31.49712673
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/ocean-vagabond/dakhla/video",
         "man_made": "surveillance"
       }
     },
@@ -4598,20 +4612,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.87836,
-          45.125001
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/chamrousse/recoin/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.777565,
           45.260089
         ]
@@ -4925,7 +4925,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/les7laux/pleney/les-loups",
+        "contact:webcam": "http://www.skaping.com/les7laux/pleynet/les-loups",
         "man_made": "surveillance"
       }
     },
@@ -6900,20 +6900,6 @@
       },
       "properties": {
         "contact:webcam": "https://www.skaping.com/blois-chambord/observatoire-loire-photo",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.95231355,
-          23.72541339
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/ocean-vagabond/dakhla/video",
         "man_made": "surveillance"
       }
     },
@@ -9232,6 +9218,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.022807,
+          48.651229
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/demo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.02823818,
           48.64025911
         ]
@@ -10204,6 +10204,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/tournus",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77790999,
+          45.87311931
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-houches/tramway-du-mont-blanc",
         "man_made": "surveillance"
       }
     },
