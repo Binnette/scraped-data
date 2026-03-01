@@ -967,7 +967,7 @@
         "addr:postcode": "33560",
         "addr:city": "Sainte-Eulalie",
         "fixme": "Please verify address: CC l'Air du Temps, Dpt 911",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "135",
         "phone": "33557140480",
@@ -1250,14 +1250,14 @@
         "name": "Stokomani",
         "alt_name": "Stokomani Narbonne",
         "addr:street": "AVENUE DU QUARTOUZE",
-        "addr:postcode": "11000",
+        "addr:postcode": "11100",
         "addr:city": "Narbonne",
         "fixme": "Please verify address: AVENUE DU QUARTOUZE",
         "opening_hours": "Mo-Sa 09:00-19:30",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "146",
         "phone": "+33 3 44 66 41 00",
-        "website": "https://www.stokomani.fr/pages/boutique-stokomani-narbonne-11000"
+        "website": "https://www.stokomani.fr/pages/boutique-stokomani-narbonne-11100"
       }
     },
     {
@@ -1412,7 +1412,7 @@
         "addr:postcode": "77340",
         "addr:city": "Pontault-Combault",
         "fixme": "Please verify address: rue de strasbourg",
-        "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-19:30",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "152",
         "phone": "+33 8 25 89 32 32",
@@ -1438,7 +1438,7 @@
         "addr:postcode": "24100",
         "addr:city": "Bergerac",
         "fixme": "Please verify address: Route de Bordeaux , ZA de la cavaille",
-        "opening_hours": "Mo-Sa 09:00-19:00",
+        "opening_hours": "Mo-Sa 10:00-19:00",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "153",
         "phone": "+33 3 44 66 41 00",
@@ -1547,6 +1547,31 @@
         "ref:FR:Stokomani:id": "16",
         "phone": "+33 2 37 63 02 70",
         "website": "https://www.stokomani.fr/pages/boutique-stokomani-vernouillet-28500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Albertville",
+        "addr:housenumber": "217",
+        "addr:street": "Rue du Grand Arc",
+        "addr:postcode": "73460",
+        "addr:city": "Tournon",
+        "fixme": "Please verify address: 217 Rue du Grand Arc",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "161",
+        "website": "https://www.stokomani.fr/pages/boutique-stokomani-tournon-73460"
       }
     },
     {
@@ -1856,6 +1881,31 @@
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "180",
         "website": "https://www.stokomani.fr/pages/boutique-stokomani-annemasse-74100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "brand:wikipedia": "fr:Stokomani",
+        "name": "Stokomani",
+        "alt_name": "Stokomani Saint Orens",
+        "addr:housenumber": "277",
+        "addr:street": "route de revel",
+        "addr:postcode": "31400",
+        "addr:city": "Toulouse",
+        "fixme": "Please verify address: 277 route de revel",
+        "shop": "variety_store",
+        "ref:FR:Stokomani:id": "181",
+        "website": "https://www.stokomani.fr/pages/boutique-stokomani-toulouse-31400"
       }
     },
     {
@@ -3587,7 +3637,7 @@
         "addr:postcode": "57280",
         "addr:city": "Semecourt",
         "fixme": "Please verify address: ZAC EURO MOSELLE",
-        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-19:00",
         "shop": "variety_store",
         "ref:FR:Stokomani:id": "81",
         "phone": "+33 3 87 34 43 60",
