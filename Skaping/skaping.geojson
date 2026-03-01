@@ -1168,20 +1168,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.56349,
-          50.416957
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/berck-sur-mer/hopale",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.558639,
           50.405372
         ]
@@ -2657,7 +2643,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/ocean-vagabond/dakhla/video",
+        "contact:webcam": "http://www.skaping.com/ocean-vagabond/essaouira",
         "man_made": "surveillance"
       }
     },
@@ -3506,8 +3492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.395427,
-          47.281581
+          -2.39467621,
+          47.28170917
         ]
       },
       "properties": {
@@ -3520,8 +3506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.395427,
-          47.281581
+          -2.39467621,
+          47.28170917
         ]
       },
       "properties": {
@@ -3534,8 +3520,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.395427,
-          47.281581
+          -2.39467621,
+          47.28170917
         ]
       },
       "properties": {
@@ -5312,8 +5298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.529846,
-          45.294542
+          6.52997732,
+          45.29432611
         ]
       },
       "properties": {
@@ -7440,8 +7426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.395427,
-          47.281581
+          -2.39467621,
+          47.28170917
         ]
       },
       "properties": {
@@ -10862,6 +10848,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/vars/mayt",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67950511,
+          44.57263733
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/vars/les-claux",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67950511,
+          44.57263733
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/vars/les-claux/video",
         "man_made": "surveillance"
       }
     },
