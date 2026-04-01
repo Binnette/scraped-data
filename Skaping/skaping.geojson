@@ -188,6 +188,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.60121441,
+          49.0481919
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/coutances/agon-coutainville/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.243684,
           43.776876
         ]
@@ -516,6 +530,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/arbeost/col-du-soulor/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.82748403,
+          47.61611307
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-arradon/live",
         "man_made": "surveillance"
       }
     },
@@ -1658,20 +1686,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.409721,
-          47.703051
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/kerguelen/centre-nautique/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.594229,
           50.536722
         ]
@@ -1762,6 +1776,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/chambery/palais-de-justice",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918895,
+          45.567874
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chambery/palais-de-justice/live",
         "man_made": "surveillance"
       }
     },
@@ -1958,20 +1986,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/chamrousse/recoin/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.045634,
-          45.043286
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/romans-sur-isere/chantier",
         "man_made": "surveillance"
       }
     },
@@ -2918,6 +2932,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.60956144,
+          49.09932292
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/coutances/gouville-sur-mer/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.88127387,
           43.5859588
         ]
@@ -2980,6 +3008,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/quiberon/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59507215,
+          48.8347028
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/8-milles-nautic/granville/live",
         "man_made": "surveillance"
       }
     },
@@ -3254,6 +3296,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.56277247,
+          48.97762602
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/coutances/hauteville-sur-mer/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.749545,
           43.377554
         ]
@@ -3414,6 +3470,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/kerguelen/centre-nautique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.409721,
+          47.703051
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/kerguelen/centre-nautique/video",
         "man_made": "surveillance"
       }
     },
@@ -3954,6 +4024,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.17257059,
+          46.14463723
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-de-plaisance-la-rochelle/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.27211,
           45.6985
         ]
@@ -4394,6 +4478,48 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/le-corbier/front-de-neige-nl",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26871943,
+          45.23979854
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-corbier/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5085628,
+          47.29362981
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-croisic/port-de-plaisance/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5085628,
+          47.29362981
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/le-croisic/port-de-plaisance/video",
         "man_made": "surveillance"
       }
     },
@@ -5760,12 +5886,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0625813,
+          42.88164442
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/luz-ardiden/freestyle/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.06018877,
           42.87845643
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/luz-ardiden/pourtere/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0620234,
+          42.89492136
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/luz-ardiden/bederet/video",
         "man_made": "surveillance"
       }
     },
@@ -5864,6 +6018,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/manigod/merdassier",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58805788,
+          43.26546218
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/cogolin/port-de-plaisance",
         "man_made": "surveillance"
       }
     },
@@ -6157,6 +6325,20 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/merlimont/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.57253087,
+          50.46291343
+        ]
+      },
+      "properties": {
         "contact:webcam": "http://www.skaping.com/merlimont/video",
         "man_made": "surveillance"
       }
@@ -6404,6 +6586,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.31561,
+          49.02220523
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/coutances/montpinchon/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.778869,
           46.208754
         ]
@@ -6578,6 +6774,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/nancy/place-carriere",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18106484,
+          48.69671799
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nancy/place-carriere/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18388653,
+          48.69324085
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nancy/place-stanislas/live",
         "man_made": "surveillance"
       }
     },
@@ -6942,6 +7166,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/orleans/beffroi",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90409,
+          47.902133
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/orleans/place-du-martroi/live/",
         "man_made": "surveillance"
       }
     },
@@ -7543,6 +7781,20 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56781816,
+          48.57781562
+        ]
+      },
+      "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/video",
         "man_made": "surveillance"
       }
@@ -7558,20 +7810,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/live",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.56781816,
-          48.57781562
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-dahouet/",
         "man_made": "surveillance"
       }
     },
@@ -8042,20 +8280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.17257059,
-          46.14463723
-        ]
-      },
-      "properties": {
-        "contact:webcam": "https://www.skaping.com/port-de-plaisance-la-rochelle/live",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.356719,
           47.711368
         ]
@@ -8384,6 +8608,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/quiberon/port-haliguen/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10029163,
+          47.48895798
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/quiberon/port-haliguen/live",
         "man_made": "surveillance"
       }
     },
@@ -8789,6 +9027,20 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-brevin-les-pins/serpent-d-ocean/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.170195,
+          47.267854
+        ]
+      },
+      "properties": {
         "contact:webcam": "http://www.skaping.com/saint-brevin-les-pins/serpent-d-ocean",
         "man_made": "surveillance"
       }
@@ -9111,6 +9363,20 @@
         ]
       },
       "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-lary/bouleaux/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.26519537,
+          42.81369006
+        ]
+      },
+      "properties": {
         "contact:webcam": "https://www.skaping.com/saint-lary/bouleaux/live",
         "man_made": "surveillance"
       }
@@ -9126,6 +9392,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-lary/bouleaux/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.23747206,
+          42.82880292
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-lary/tourette/live",
         "man_made": "surveillance"
       }
     },
@@ -9372,12 +9652,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.29245734,
-          42.81178928
+          0.22058487,
+          42.82837815
         ]
       },
       "properties": {
-        "contact:webcam": "https://www.skaping.com/saint-lary/pla-adet/live/",
+        "contact:webcam": "https://www.skaping.com/saint-lary/les-merlans/live",
         "man_made": "surveillance"
       }
     },
@@ -9392,6 +9672,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-lary/pla-d-adet/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.29245734,
+          42.81178928
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-lary/pla-adet/live",
         "man_made": "surveillance"
       }
     },
@@ -9896,6 +10190,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/station-touristique-pin-rouge",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.75755453,
+          30.58382549
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/taghazout/paradis-plage",
         "man_made": "surveillance"
       }
     },
@@ -10730,20 +11038,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.49383187,
-          45.17436627
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/valmeinier/front-de-neige/video2",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.53317451,
           45.17010229
         ]
@@ -10876,6 +11170,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/vars/les-claux/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65934563,
+          44.56069136
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/vars/live",
         "man_made": "surveillance"
       }
     },
@@ -11295,20 +11603,6 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/uga/galibier",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.41622,
-          45.062236
-        ]
-      },
-      "properties": {
         "contact:webcam": "http://www.skaping.com/valloire/galibier/",
         "man_made": "surveillance"
       }
@@ -11324,6 +11618,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/jardin-du-lautaret/galibier/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41622,
+          45.062236
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/uga/galibier",
         "man_made": "surveillance"
       }
     },
