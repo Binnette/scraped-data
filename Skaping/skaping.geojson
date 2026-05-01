@@ -874,6 +874,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.61181307,
+          51.19949058
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/banff/mount-norquay",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.574766,
           51.144607
         ]
@@ -3058,8 +3072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.674343,
-          45.174438
+          5.67432046,
+          45.1744835
         ]
       },
       "properties": {
@@ -3176,20 +3190,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/gruissan/plagedeschalets/video",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.091779,
-          43.109891
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/gruissan/village/attente",
         "man_made": "surveillance"
       }
     },
@@ -4198,20 +4198,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/neouvielle/lac-oredon",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.522533,
-          45.452361
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/ot-pays-voironnais/lac-de-paladru/panoramique",
         "man_made": "surveillance"
       }
     },
@@ -9126,6 +9112,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-francois-longchamp/le-frene",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.717253,
+          50.763443
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-jans-cappel/ntmf",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.717253,
+          50.763443
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-jans-cappel/evenement/2025",
         "man_made": "surveillance"
       }
     },
