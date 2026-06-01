@@ -2092,12 +2092,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.326602,
-          44.52547
+          6.3272506,
+          44.52439887
         ]
       },
       "properties": {
         "contact:webcam": "https://www.skaping.com/lac-serre-poncon/chorges",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3272506,
+          44.52439887
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/lac-serre-poncon/chorges/video",
         "man_made": "surveillance"
       }
     },
@@ -4268,6 +4282,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/lac-des-sapins/parking",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.664,
+          45.647
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/epitaph/lake-cecebe",
         "man_made": "surveillance"
       }
     },
@@ -7804,6 +7832,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.56385386,
+          48.57649178
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-plaisance-de-dahouet/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56385386,
+          48.57649178
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-plaisance-de-dahouet/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.56385386,
+          48.57649178
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/pleneuf-val-andre/port-de-plaisance-de-dahouet/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47476685,
+          47.98737436
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/plouhinec/menez-dregan",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47476685,
+          47.98737436
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/plouhinec/menez-dregan/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.32612956,
           48.66635925
         ]
@@ -9428,20 +9526,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.23747206,
-          42.82880292
-        ]
-      },
-      "properties": {
-        "contact:webcam": "https://www.skaping.com/saint-lary/tourette/live/",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.72608733,
           47.05537326
         ]
@@ -9560,6 +9644,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-malo/port-des-sablons/le-mole/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02111959,
+          48.64908116
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-vauban",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02111959,
+          48.64908116
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/port-vauban/video",
         "man_made": "surveillance"
       }
     },
