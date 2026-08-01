@@ -678,6 +678,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.74041271,
+          45.23200542
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/aussois/front-de-neige",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.7414856,
           45.2278887
         ]
@@ -1910,8 +1924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.962455,
-          46.030423
+          6.96219385,
+          46.03018025
         ]
       },
       "properties": {
@@ -1952,8 +1966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.871623,
-          45.927027
+          6.87215209,
+          45.92594406
         ]
       },
       "properties": {
@@ -2302,6 +2316,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.66055799,
+          45.38507456
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/courchevel/le-signal",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.61512,
           45.382297
         ]
@@ -2434,6 +2462,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/lac-serre-poncon/crevoux/station",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54555035,
+          48.24043799
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/crozon/plage-de-goulien/photo",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54555035,
+          48.24043799
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/crozon/plage-goulien/video",
         "man_made": "surveillance"
       }
     },
@@ -2820,8 +2876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.736992,
-          43.432941
+          6.73731744,
+          43.43294786
         ]
       },
       "properties": {
@@ -2980,6 +3036,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/gozon/webcam",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.81093502,
+          36.01198762
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grand-canyon-west/eagle-point",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.82604122,
+          36.03117994
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grand-canyon-west/guano-point",
         "man_made": "surveillance"
       }
     },
@@ -3148,6 +3232,76 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/grimaud/mairie",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07838559,
+          49.38151717
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/grouse-mountain/adrenalin-cam",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07838559,
+          49.38151717
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grouse-mountain-gravity-cam/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07616472,
+          49.38637477
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grouse-mountain/peak-cam",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08144867,
+          49.38014641
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grouse-mountain/zips-cam",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08144867,
+          49.38014641
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grouse-mountain/zips-cam/live",
         "man_made": "surveillance"
       }
     },
@@ -3610,6 +3764,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/la-baule/plage/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03958392,
+          47.0789156
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/les-berneries-en-retz/la-grande-plage/video",
         "man_made": "surveillance"
       }
     },
@@ -4248,8 +4416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.377332,
-          46.009305
+          4.37617421,
+          46.00774174
         ]
       },
       "properties": {
@@ -5186,6 +5354,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.03958392,
+          47.0789156
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/les-berneries-en-retz/la-grande-plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03958392,
+          47.0789156
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/mairie/les-berneries-en-retz/la-grande-plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.897234,
           45.11877
         ]
@@ -5480,6 +5676,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.00710237,
+          47.06292899
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/les-moutiers-en-retz/plage-du-pre-vincent",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00710237,
+          47.06292899
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/les-moutiers-en-retz/plage-du-pre-vincent/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.571205,
           44.468008
         ]
@@ -5542,6 +5766,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/les-sybelles/ouillon",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24398947,
+          45.23402085
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/les-sybelles/pointe-du-corbier",
         "man_made": "surveillance"
       }
     },
@@ -6138,6 +6376,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.61732614,
+          45.82332849
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/alpette",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.63766387,
           45.80404352
         ]
@@ -6208,12 +6460,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.6133672,
-          45.83318183
+          6.61387682,
+          45.83211472
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/megeve/rochebrune",
+        "contact:webcam": "http://www.skaping.com/megeve/rochebrune/",
         "man_made": "surveillance"
       }
     },
@@ -6550,6 +6802,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/mont-rigaud/sommet-montagne",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11682773,
+          48.13458643
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/mont-saint-joseph",
         "man_made": "surveillance"
       }
     },
@@ -6978,6 +7244,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.29342282,
+          46.98592303
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/noirmoutier/port-du-morin/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.29342282,
+          46.98592303
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/noirmoutier/port-du-morin",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.55844092,
           45.79135856
         ]
@@ -7306,6 +7600,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/parc-regional-val-irene",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11682773,
+          48.13458643
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tourisme-gaspesie/parc-regional-mont-saint-joseph",
         "man_made": "surveillance"
       }
     },
@@ -8000,6 +8308,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.11519003,
+          47.10992884
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-la-noeveillard",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11519003,
+          47.10992884
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-la-noeveillard/plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11519003,
+          47.10992884
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-la-noeveillard/port",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10406959,
+          47.11469135
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-peche-et-chateau",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10406959,
+          47.11469135
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-peche-et-chateau/port",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10406959,
+          47.11469135
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-peche-et-chateau/pont",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10406959,
+          47.11469135
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/port-de-peche-et-chateau/chateau",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.11207213,
           47.110423
         ]
@@ -8636,6 +9042,62 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/pra-loup/station",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24493384,
+          47.13620401
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/prefailles/pointe-saint-gildas",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24493384,
+          47.13620401
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lesportsdeloireatlantique/prefailles/pointe-saint-gildas",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24493384,
+          47.13620401
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/prefailles/pointe-saint-gildas/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24493384,
+          47.13620401
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lesportsdeloireatlantique/prefailles/pointe-saint-gildas/video",
         "man_made": "surveillance"
       }
     },
@@ -9610,6 +10072,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.03182161,
+          48.64211297
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/phare-du-mole",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03182161,
+          48.64211297
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-malo/phare-du-mole/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.027016,
           48.638126
         ]
@@ -9714,6 +10204,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/saint-cyr-sur-mer",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71090841,
+          45.89354959
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-gervais/espace-mont-blanc",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71090841,
+          45.89354959
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-gervais/espace-mont-blanc/video",
         "man_made": "surveillance"
       }
     },
@@ -10184,20 +10702,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.573511,
-          45.297104
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/valthorens/snowcam",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.738092,
           47.800222
         ]
@@ -10302,6 +10806,62 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/les-sommets-saint-sauveur/remontee",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16755211,
+          47.16572503
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/st-michel-chef-chef/tharon-plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16755211,
+          47.16572503
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/st-michel-chef-chef/tharon-plage/pecheries",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16755211,
+          47.16572503
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/st-michel-chef-chef/tharon-plage/plage",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16755211,
+          47.16572503
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/destination-pornic/st-michel-chef-chef/tharon-plage/port",
         "man_made": "surveillance"
       }
     },
@@ -10736,6 +11296,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/tremblant/pic-flying-mile",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.55263148,
+          46.21979186
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tremblant/sommet/live",
         "man_made": "surveillance"
       }
     },
