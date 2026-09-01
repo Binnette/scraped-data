@@ -1126,6 +1126,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.15212027,
+          47.34658025
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/belle-Ile-en-mer/le-palais",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.15212027,
+          47.34658025
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/belle-Ile-en-mer/le-palais/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.831876,
           45.748936
         ]
@@ -2036,6 +2064,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.78899378,
+          46.23197039
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chatel/pierre-longue",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.843532,
           46.255355
         ]
@@ -2336,20 +2378,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/courchevel/saulire",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.61512,
-          45.382297
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/courchevel/saulire/video",
         "man_made": "surveillance"
       }
     },
@@ -3371,7 +3399,7 @@
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/gruissan/village",
+        "contact:webcam": "http://www.skaping.com/gruissan/village/",
         "man_made": "surveillance"
       }
     },
@@ -4086,6 +4114,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/la-norma/fontaine-aux-oiseaux/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.248475,
+          47.385617
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/belle-ile/pointe-des-poulains",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.248475,
+          47.385617
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/belle-ile/pointe-des-poulains/video",
         "man_made": "surveillance"
       }
     },
@@ -6194,6 +6250,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.07572128,
+          42.88351362
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/luz-ardiden/sommet-aulian",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.640123,
           52.729398
         ]
@@ -6452,6 +6522,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/megeve/mont-d-arbois",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6133672,
+          45.83318183
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/megeve/rochebrune/panoramique",
         "man_made": "surveillance"
       }
     },
@@ -7124,6 +7208,34 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/nay/hotel-de-ville/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80012155,
+          47.78791483
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nevez/raguenez/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80012155,
+          47.78791483
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/nevez/raguenez",
         "man_made": "surveillance"
       }
     },
@@ -8910,8 +9022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.97391,
-          47.899073
+          -3.9765346,
+          47.8991905
         ]
       },
       "properties": {
@@ -8924,12 +9036,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.97391,
-          47.899073
+          -3.9765346,
+          47.8991905
         ]
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/port-la-foret/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97567213,
+          47.89740745
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-la-foret/port-de-plaisance",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97567213,
+          47.89740745
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-la-foret/port-de-plaisance/video",
         "man_made": "surveillance"
       }
     },
@@ -12262,34 +12402,6 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/verbier/hotel-w",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.248475,
-          47.385617
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/belle-ile/pointe-des-poulains",
-        "man_made": "surveillance"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.248475,
-          47.385617
-        ]
-      },
-      "properties": {
-        "contact:webcam": "http://www.skaping.com/belle-ile/pointe-des-poulains/video",
         "man_made": "surveillance"
       }
     },
