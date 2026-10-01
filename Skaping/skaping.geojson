@@ -3996,6 +3996,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.17570684,
+          42.90884426
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/grandtourmalet/lamongievillage/",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.164609,
           42.894946
         ]
@@ -4066,12 +4080,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.17635,
-          42.91032
+          0.17570684,
+          42.90884426
         ]
       },
       "properties": {
-        "contact:webcam": "http://www.skaping.com/grandtourmalet/lamongievillage",
+        "contact:webcam": "http://www.skaping.com/grandtourmalet/lamongievillage/historique",
         "man_made": "surveillance"
       }
     },
@@ -6922,6 +6936,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.58458841,
+          46.21301083
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/tremblant/base-sud/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.31561,
           49.02220523
         ]
@@ -7390,6 +7418,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/val-d-arly/mont-rond/panoramique",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58952773,
+          45.78119292
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/val-d-arly-tourisme/plan-des-fours",
         "man_made": "surveillance"
       }
     },
@@ -8966,6 +9008,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.079237,
+          45.947898
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-des-barques",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.071341,
           46.935596
         ]
@@ -10338,6 +10394,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.54670119,
+          46.4069407
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/saint-vincent-sur-jard/plage-clemenceau/live",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.684043,
           43.179425
         ]
@@ -11556,6 +11626,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.02120781,
+          45.41792823
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/valdisere/leissieres",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.04027295,
           45.42200218
         ]
@@ -11604,6 +11688,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/valdisere/vallee-du-manchet",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97907563,
+          45.4489884
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/valdisere/village",
         "man_made": "surveillance"
       }
     },
