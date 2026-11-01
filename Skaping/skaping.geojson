@@ -874,6 +874,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.83448315,
+          47.82052827
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/ballon-d-alsace/les-demineurs",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.85109052,
           47.80658781
         ]
@@ -2176,6 +2190,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.14518127,
+          46.88574803
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chutes-de-montmorency",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14518127,
+          46.88574803
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/chutes-de-montmorency/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.662313,
           46.436804
         ]
@@ -2378,6 +2420,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/courchevel/saulire",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61512,
+          45.382297
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/courchevel/saulire/video",
         "man_made": "surveillance"
       }
     },
@@ -4598,6 +4654,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.6244421,
+          45.11473809
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lans-en-vercors/vertige-des-cimes",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6095529,
+          45.11585205
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lans-en-vercors/front-de-neige",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.603105,
+          45.095812
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/lans-en-vercors/les-allieres",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.36452,
           47.726417
         ]
@@ -5150,6 +5248,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/le-touquet/poste-central/vue-sud",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.172041,
+          44.996556
+        ]
+      },
+      "properties": {
+        "contact:webcam": "https://www.skaping.com/les2alpes/2600m",
         "man_made": "surveillance"
       }
     },
@@ -9022,6 +9134,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.079237,
+          45.947898
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/port-des-barques/video",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.071341,
           46.935596
         ]
@@ -11842,6 +11968,20 @@
       },
       "properties": {
         "contact:webcam": "http://www.skaping.com/valfrejus/arrondaz",
+        "man_made": "surveillance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66828275,
+          45.16187787
+        ]
+      },
+      "properties": {
+        "contact:webcam": "http://www.skaping.com/valfrejus/petit-vallon",
         "man_made": "surveillance"
       }
     },
